@@ -1,4 +1,4 @@
-DischQuarter,DischMonth,PrimaryCategory,CCS.CATEGORY.DESCRIPTION,totalCases,modeOfLOS,totalLOS,ALOS
+DischQuarter,DischMonth,PrimaryCategory,Diagnosis,totalCases,modeOfLOS,totalLOS,ALOS
 1,1,Certain infectious and parasitic diseases,Bacterial infection; unspecified site,2,2,8,4
 1,1,Certain infectious and parasitic diseases,Intestinal infection,7,2,18,2.57
 1,1,Certain infectious and parasitic diseases,Septicemia (except in labor),3,4,25,8.33
