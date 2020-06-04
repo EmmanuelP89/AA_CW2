@@ -1,0 +1,154 @@
+AdmYear,AdmMonth,AdmitRef,totalCases
+2018,1,Other,298
+2018,1,Self-referred,8
+2018,1,Transfer from Other Hospital,2
+2018,2,Health Centre,3
+2018,2,Other,198
+2018,2,Out Patients Department,1
+2018,2,Private (GP/Specialist),3
+2018,2,Self-referred,44
+2018,2,Transfer from Other Hospital,1
+2018,2,Ward Transfer,1
+2018,3,Health Centre,1
+2018,3,Other,16
+2018,3,Out Patients Department,1
+2018,3,Private (GP/Specialist),12
+2018,3,Self-referred,273
+2018,3,Transfer from Other Hospital,2
+2018,3,Ward Transfer,3
+2018,4,Health Centre,6
+2018,4,Other,17
+2018,4,Private (GP/Specialist),7
+2018,4,Self-referred,229
+2018,4,Transfer from Other Hospital,2
+2018,4,Ward Transfer,3
+2018,5,Health Centre,1
+2018,5,Other,17
+2018,5,Out Patients Department,3
+2018,5,Private (GP/Specialist),8
+2018,5,Self-referred,246
+2018,5,Transfer from Other Hospital,1
+2018,6,Health Centre,2
+2018,6,Other,5
+2018,6,Out Patients Department,2
+2018,6,Private (GP/Specialist),8
+2018,6,Self-referred,205
+2018,6,Transfer from Other Hospital,2
+2018,6,Ward Transfer,2
+2018,7,Health Centre,2
+2018,7,Other,27
+2018,7,Out Patients Department,4
+2018,7,Private (GP/Specialist),10
+2018,7,Self-referred,248
+2018,7,Transfer from Other Hospital,1
+2018,8,Health Centre,5
+2018,8,Other,19
+2018,8,Private (GP/Specialist),11
+2018,8,Self-referred,277
+2018,9,Health Centre,2
+2018,9,Other,15
+2018,9,Out Patients Department,1
+2018,9,Private (GP/Specialist),8
+2018,9,Self-referred,290
+2018,9,Transfer from Other Hospital,1
+2018,9,Ward Transfer,1
+2018,10,Health Centre,6
+2018,10,Other,18
+2018,10,Out Patients Department,3
+2018,10,Private (GP/Specialist),20
+2018,10,Self-referred,229
+2018,11,Health Centre,5
+2018,11,Other,6
+2018,11,Out Patients Department,1
+2018,11,Private (GP/Specialist),9
+2018,11,Self-referred,262
+2018,11,Transfer from Other Hospital,1
+2018,12,Health Centre,2
+2018,12,Other,12
+2018,12,Out Patients Department,2
+2018,12,Private (GP/Specialist),14
+2018,12,Self-referred,204
+2018,12,Ward Transfer,1
+2019,1,Health Centre,3
+2019,1,Other,10
+2019,1,Out Patients Department,3
+2019,1,Private (GP/Specialist),12
+2019,1,Self-referred,222
+2019,1,Transfer from Other Hospital,1
+2019,2,Health Centre,1
+2019,2,Other,15
+2019,2,Out Patients Department,3
+2019,2,Private (GP/Specialist),11
+2019,2,Self-referred,229
+2019,3,Health Centre,3
+2019,3,Other,12
+2019,3,Out Patients Department,1
+2019,3,Private (GP/Specialist),19
+2019,3,Self-referred,266
+2019,4,Other,10
+2019,4,Private (GP/Specialist),10
+2019,4,Self-referred,230
+2019,5,Other,6
+2019,5,Out Patients Department,1
+2019,5,Private (GP/Specialist),10
+2019,5,Self-referred,228
+2019,5,Ward Transfer,3
+2019,6,Health Centre,2
+2019,6,Other,5
+2019,6,Out Patients Department,3
+2019,6,Private (GP/Specialist),18
+2019,6,Self-referred,256
+2019,6,Ward Transfer,1
+2019,7,Health Centre,1
+2019,7,Other,18
+2019,7,Private (GP/Specialist),8
+2019,7,Self-referred,285
+2019,8,Other,24
+2019,8,Private (GP/Specialist),11
+2019,8,Self-referred,265
+2019,8,Ward Transfer,2
+2019,9,Health Centre,3
+2019,9,Other,19
+2019,9,Private (GP/Specialist),15
+2019,9,Self-referred,208
+2019,10,Health Centre,2
+2019,10,Other,11
+2019,10,Out Patients Department,1
+2019,10,Private (GP/Specialist),10
+2019,10,Self-referred,253
+2019,11,Health Centre,4
+2019,11,Other,13
+2019,11,Out Patients Department,1
+2019,11,Private (GP/Specialist),4
+2019,11,Self-referred,249
+2019,12,Health Centre,3
+2019,12,Other,10
+2019,12,Out Patients Department,2
+2019,12,Private (GP/Specialist),11
+2019,12,Self-referred,252
+2020,1,Health Centre,2
+2020,1,Other,17
+2020,1,Out Patients Department,3
+2020,1,Private (GP/Specialist),18
+2020,1,Self-referred,287
+2020,1,Transfer from Other Hospital,1
+2020,2,Health Centre,3
+2020,2,Other,20
+2020,2,Out Patients Department,2
+2020,2,Private (GP/Specialist),11
+2020,2,Self-referred,259
+2020,3,Health Centre,3
+2020,3,Other,27
+2020,3,Out Patients Department,2
+2020,3,Private (GP/Specialist),9
+2020,3,Self-referred,145
+2020,3,Ward Transfer,2
+2020,4,Other,34
+2020,4,Private (GP/Specialist),2
+2020,4,Self-referred,83
+2020,5,Other,7
+2020,5,Out Patients Department,1
+2020,5,Private (GP/Specialist),3
+2020,5,Self-referred,120
+2020,5,Transfer from Other Hospital,1
+2020,6,Self-referred,7
