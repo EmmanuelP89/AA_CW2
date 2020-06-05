@@ -1,154 +1,154 @@
 AdmYear,AdmMonth,AdmitRef,totalCases
-2018,1,Other,298
-2018,1,Self-referred,8
-2018,1,Transfer from Other Hospital,2
-2018,2,Health Centre,3
-2018,2,Other,198
-2018,2,Out Patients Department,1
-2018,2,Private (GP/Specialist),3
-2018,2,Self-referred,44
-2018,2,Transfer from Other Hospital,1
-2018,2,Ward Transfer,1
-2018,3,Health Centre,1
-2018,3,Other,16
-2018,3,Out Patients Department,1
-2018,3,Private (GP/Specialist),12
-2018,3,Self-referred,273
-2018,3,Transfer from Other Hospital,2
-2018,3,Ward Transfer,3
-2018,4,Health Centre,6
-2018,4,Other,17
-2018,4,Private (GP/Specialist),7
-2018,4,Self-referred,229
-2018,4,Transfer from Other Hospital,2
-2018,4,Ward Transfer,3
-2018,5,Health Centre,1
-2018,5,Other,17
-2018,5,Out Patients Department,3
-2018,5,Private (GP/Specialist),8
-2018,5,Self-referred,246
-2018,5,Transfer from Other Hospital,1
-2018,6,Health Centre,2
-2018,6,Other,5
-2018,6,Out Patients Department,2
-2018,6,Private (GP/Specialist),8
-2018,6,Self-referred,205
-2018,6,Transfer from Other Hospital,2
-2018,6,Ward Transfer,2
-2018,7,Health Centre,2
-2018,7,Other,27
-2018,7,Out Patients Department,4
-2018,7,Private (GP/Specialist),10
-2018,7,Self-referred,248
-2018,7,Transfer from Other Hospital,1
-2018,8,Health Centre,5
-2018,8,Other,19
-2018,8,Private (GP/Specialist),11
-2018,8,Self-referred,277
-2018,9,Health Centre,2
-2018,9,Other,15
-2018,9,Out Patients Department,1
-2018,9,Private (GP/Specialist),8
-2018,9,Self-referred,290
-2018,9,Transfer from Other Hospital,1
-2018,9,Ward Transfer,1
-2018,10,Health Centre,6
-2018,10,Other,18
-2018,10,Out Patients Department,3
-2018,10,Private (GP/Specialist),20
-2018,10,Self-referred,229
-2018,11,Health Centre,5
-2018,11,Other,6
-2018,11,Out Patients Department,1
-2018,11,Private (GP/Specialist),9
-2018,11,Self-referred,262
-2018,11,Transfer from Other Hospital,1
-2018,12,Health Centre,2
-2018,12,Other,12
-2018,12,Out Patients Department,2
-2018,12,Private (GP/Specialist),14
-2018,12,Self-referred,204
-2018,12,Ward Transfer,1
-2019,1,Health Centre,3
-2019,1,Other,10
-2019,1,Out Patients Department,3
-2019,1,Private (GP/Specialist),12
-2019,1,Self-referred,222
-2019,1,Transfer from Other Hospital,1
-2019,2,Health Centre,1
-2019,2,Other,15
-2019,2,Out Patients Department,3
-2019,2,Private (GP/Specialist),11
-2019,2,Self-referred,229
-2019,3,Health Centre,3
-2019,3,Other,12
-2019,3,Out Patients Department,1
-2019,3,Private (GP/Specialist),19
-2019,3,Self-referred,266
-2019,4,Other,10
-2019,4,Private (GP/Specialist),10
-2019,4,Self-referred,230
-2019,5,Other,6
-2019,5,Out Patients Department,1
-2019,5,Private (GP/Specialist),10
-2019,5,Self-referred,228
-2019,5,Ward Transfer,3
-2019,6,Health Centre,2
-2019,6,Other,5
-2019,6,Out Patients Department,3
-2019,6,Private (GP/Specialist),18
-2019,6,Self-referred,256
-2019,6,Ward Transfer,1
-2019,7,Health Centre,1
-2019,7,Other,18
-2019,7,Private (GP/Specialist),8
-2019,7,Self-referred,285
-2019,8,Other,24
-2019,8,Private (GP/Specialist),11
-2019,8,Self-referred,265
-2019,8,Ward Transfer,2
-2019,9,Health Centre,3
-2019,9,Other,19
-2019,9,Private (GP/Specialist),15
-2019,9,Self-referred,208
-2019,10,Health Centre,2
-2019,10,Other,11
-2019,10,Out Patients Department,1
-2019,10,Private (GP/Specialist),10
-2019,10,Self-referred,253
-2019,11,Health Centre,4
-2019,11,Other,13
-2019,11,Out Patients Department,1
-2019,11,Private (GP/Specialist),4
-2019,11,Self-referred,249
-2019,12,Health Centre,3
-2019,12,Other,10
-2019,12,Out Patients Department,2
-2019,12,Private (GP/Specialist),11
-2019,12,Self-referred,252
-2020,1,Health Centre,2
-2020,1,Other,17
-2020,1,Out Patients Department,3
-2020,1,Private (GP/Specialist),18
-2020,1,Self-referred,287
-2020,1,Transfer from Other Hospital,1
-2020,2,Health Centre,3
-2020,2,Other,20
-2020,2,Out Patients Department,2
-2020,2,Private (GP/Specialist),11
-2020,2,Self-referred,259
-2020,3,Health Centre,3
-2020,3,Other,27
-2020,3,Out Patients Department,2
-2020,3,Private (GP/Specialist),9
-2020,3,Self-referred,145
-2020,3,Ward Transfer,2
-2020,4,Other,34
-2020,4,Private (GP/Specialist),2
-2020,4,Self-referred,83
-2020,5,Other,7
-2020,5,Out Patients Department,1
-2020,5,Private (GP/Specialist),3
-2020,5,Self-referred,120
-2020,5,Transfer from Other Hospital,1
-2020,6,Self-referred,7
+2018,January,Other,298
+2018,January,Self-referred,8
+2018,January,Transfer from Other Hospital,2
+2018,February,Health Centre,3
+2018,February,Other,198
+2018,February,Out Patients Department,1
+2018,February,Private (GP/Specialist),3
+2018,February,Self-referred,44
+2018,February,Transfer from Other Hospital,1
+2018,February,Ward Transfer,1
+2018,March,Health Centre,1
+2018,March,Other,16
+2018,March,Out Patients Department,1
+2018,March,Private (GP/Specialist),12
+2018,March,Self-referred,273
+2018,March,Transfer from Other Hospital,2
+2018,March,Ward Transfer,3
+2018,April,Health Centre,6
+2018,April,Other,17
+2018,April,Private (GP/Specialist),7
+2018,April,Self-referred,229
+2018,April,Transfer from Other Hospital,2
+2018,April,Ward Transfer,3
+2018,May,Health Centre,1
+2018,May,Other,17
+2018,May,Out Patients Department,3
+2018,May,Private (GP/Specialist),8
+2018,May,Self-referred,246
+2018,May,Transfer from Other Hospital,1
+2018,June,Health Centre,2
+2018,June,Other,5
+2018,June,Out Patients Department,2
+2018,June,Private (GP/Specialist),8
+2018,June,Self-referred,205
+2018,June,Transfer from Other Hospital,2
+2018,June,Ward Transfer,2
+2018,July,Health Centre,2
+2018,July,Other,27
+2018,July,Out Patients Department,4
+2018,July,Private (GP/Specialist),10
+2018,July,Self-referred,248
+2018,July,Transfer from Other Hospital,1
+2018,August,Health Centre,5
+2018,August,Other,19
+2018,August,Private (GP/Specialist),11
+2018,August,Self-referred,277
+2018,September,Health Centre,2
+2018,September,Other,15
+2018,September,Out Patients Department,1
+2018,September,Private (GP/Specialist),8
+2018,September,Self-referred,290
+2018,September,Transfer from Other Hospital,1
+2018,September,Ward Transfer,1
+2018,October,Health Centre,6
+2018,October,Other,18
+2018,October,Out Patients Department,3
+2018,October,Private (GP/Specialist),20
+2018,October,Self-referred,229
+2018,November,Health Centre,5
+2018,November,Other,6
+2018,November,Out Patients Department,1
+2018,November,Private (GP/Specialist),9
+2018,November,Self-referred,262
+2018,November,Transfer from Other Hospital,1
+2018,December,Health Centre,2
+2018,December,Other,12
+2018,December,Out Patients Department,2
+2018,December,Private (GP/Specialist),14
+2018,December,Self-referred,204
+2018,December,Ward Transfer,1
+2019,January,Health Centre,3
+2019,January,Other,10
+2019,January,Out Patients Department,3
+2019,January,Private (GP/Specialist),12
+2019,January,Self-referred,222
+2019,January,Transfer from Other Hospital,1
+2019,February,Health Centre,1
+2019,February,Other,15
+2019,February,Out Patients Department,3
+2019,February,Private (GP/Specialist),11
+2019,February,Self-referred,229
+2019,March,Health Centre,3
+2019,March,Other,12
+2019,March,Out Patients Department,1
+2019,March,Private (GP/Specialist),19
+2019,March,Self-referred,266
+2019,April,Other,10
+2019,April,Private (GP/Specialist),10
+2019,April,Self-referred,230
+2019,May,Other,6
+2019,May,Out Patients Department,1
+2019,May,Private (GP/Specialist),10
+2019,May,Self-referred,228
+2019,May,Ward Transfer,3
+2019,June,Health Centre,2
+2019,June,Other,5
+2019,June,Out Patients Department,3
+2019,June,Private (GP/Specialist),18
+2019,June,Self-referred,256
+2019,June,Ward Transfer,1
+2019,July,Health Centre,1
+2019,July,Other,18
+2019,July,Private (GP/Specialist),8
+2019,July,Self-referred,285
+2019,August,Other,24
+2019,August,Private (GP/Specialist),11
+2019,August,Self-referred,265
+2019,August,Ward Transfer,2
+2019,September,Health Centre,3
+2019,September,Other,19
+2019,September,Private (GP/Specialist),15
+2019,September,Self-referred,208
+2019,October,Health Centre,2
+2019,October,Other,11
+2019,October,Out Patients Department,1
+2019,October,Private (GP/Specialist),10
+2019,October,Self-referred,253
+2019,November,Health Centre,4
+2019,November,Other,13
+2019,November,Out Patients Department,1
+2019,November,Private (GP/Specialist),4
+2019,November,Self-referred,249
+2019,December,Health Centre,3
+2019,December,Other,10
+2019,December,Out Patients Department,2
+2019,December,Private (GP/Specialist),11
+2019,December,Self-referred,252
+2020,January,Health Centre,2
+2020,January,Other,17
+2020,January,Out Patients Department,3
+2020,January,Private (GP/Specialist),18
+2020,January,Self-referred,287
+2020,January,Transfer from Other Hospital,1
+2020,February,Health Centre,3
+2020,February,Other,20
+2020,February,Out Patients Department,2
+2020,February,Private (GP/Specialist),11
+2020,February,Self-referred,259
+2020,March,Health Centre,3
+2020,March,Other,27
+2020,March,Out Patients Department,2
+2020,March,Private (GP/Specialist),9
+2020,March,Self-referred,145
+2020,March,Ward Transfer,2
+2020,April,Other,34
+2020,April,Private (GP/Specialist),2
+2020,April,Self-referred,83
+2020,May,Other,7
+2020,May,Out Patients Department,1
+2020,May,Private (GP/Specialist),3
+2020,May,Self-referred,122
+2020,May,Transfer from Other Hospital,1
+2020,June,Self-referred,11
