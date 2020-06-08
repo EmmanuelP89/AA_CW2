@@ -1,0 +1,3417 @@
+Clinic,Case,Date,Total
+Acupuncture,NC,18-Jan,0
+Acupuncture,FU,18-Jan,54
+Pain,NC,18-Jan,8
+Pain,FU,18-Jan,5
+Pacemaker,NC,18-Jan,0
+Pacemaker,FU,18-Jan,51
+Heart Valve Clinic,NC,18-Jan,0
+Heart Valve Clinic,FU,18-Jan,0
+Cardiology,NC,18-Jan,23
+Cardiology,FU,18-Jan,68
+Dermatology,NC,18-Jan,36
+Dermatology,FU,18-Jan,48
+Diabetes Education Services.,NC,18-Jan,0
+Diabetes Education Services.,FU,18-Jan,0
+Diabetology,NC,18-Jan,8
+Diabetology,FU,18-Jan,126
+Audiology,NC,18-Jan,0
+Audiology,FU,18-Jan,40
+ENT,NC,18-Jan,49
+ENT,FU,18-Jan,24
+POC-ACC,NC,18-Jan,0
+POC-ACC,FU,18-Jan,299
+ACC,NC,18-Jan,2
+ACC,FU,18-Jan,116
+Medical,NC,18-Jan,100
+Medical,FU,18-Jan,275
+Juvenile,NC,18-Jan,
+Juvenile,FU,18-Jan,
+Endocrine,NC,18-Jan,
+Endocrine,FU,18-Jan,
+Rheumatology,NC,18-Jan,11
+Rheumatology,FU,18-Jan,13
+Neurology,NC,18-Jan,1
+Neurology,FU,18-Jan,9
+Naphrology,NC,18-Jan,0
+Naphrology,FU,18-Jan,0
+Dietician,NC,18-Jan,12
+Dietician,FU,18-Jan,9
+Fertility Care,NC,18-Jan,0
+Fertility Care,FU,18-Jan,0
+Naprotechnology,NC,18-Jan,2
+Naprotechnology,FU,18-Jan,0
+Antenatal,NC,18-Jan,20
+Antenatal,FU,18-Jan,167
+Postnatal,NC,18-Jan,0
+Postnatal,FU,18-Jan,11
+Gynaecology,NC,18-Jan,68
+Gynaecology,FU,18-Jan,123
+Oncology,NC,18-Jan,3
+Oncology,FU,18-Jan,110
+Palliative Care,NC,18-Jan,0
+Palliative Care,FU,18-Jan,9
+Ophthalmic,NC,18-Jan,52
+Ophthalmic,FU,18-Jan,104
+Glaucoma,NC,18-Jan,0
+Glaucoma,FU,18-Jan,6
+Visual Fields,NC,18-Jan,0
+Visual Fields,FU,18-Jan,3
+Orthopaedic,NC,18-Jan,78
+Orthopaedic,FU,18-Jan,170
+Orthopaedic,NC,18-Jan,40
+Orthopaedic,FU,18-Jan,137
+Surgical,NC,18-Jan,130
+Surgical,FU,18-Jan,177
+Thyroid,NC,18-Jan,0
+Thyroid,FU,18-Jan,0
+Urology,NC,18-Jan,24
+Urology,FU,18-Jan,105
+Breast clinic,NC,18-Jan,0
+Breast clinic,FU,18-Jan,0
+Respiratory Clinic,NC,18-Jan,0
+Respiratory Clinic,FU,18-Jan,0
+Multiple Sclerosis,NC,18-Jan,0
+Multiple Sclerosis,FU,18-Jan,0
+Colon Rectal Screening,NC,18-Jan,24
+Colon Rectal Screening,FU,18-Jan,2
+Cervical Screening,NC,18-Jan,22
+Cervical Screening,FU,18-Jan,0
+Detox,NC,18-Jan,0
+Detox,FU,18-Jan,611
+Dental,NC,18-Jan,185
+Dental,FU,18-Jan,323
+Bleeding Room,NC,18-Jan,
+Bleeding Room,FU,18-Jan,"1,177"
+Podiatry,NC,18-Jan,42
+Podiatry,FU,18-Jan,698
+Psychiatric-Including Child Guidance,NC,18-Jan,18
+Psychiatric-Including Child Guidance,FU,18-Jan,171
+Nutrition & Health Promotion,NC,18-Jan,0
+Nutrition & Health Promotion,FU,18-Jan,0
+Nutrition & Health Promotion,NC,18-Jan,12
+Nutrition & Health Promotion,FU,18-Jan,93
+Occupational Therapy (Physical),NC,18-Jan,36
+Occupational Therapy (Physical),FU,18-Jan,310
+Occupational Therapy (Psychiatric),NC,18-Jan,10
+Occupational Therapy (Psychiatric),FU,18-Jan,121
+Speech & Language Therapy,NC,18-Jan,81
+Speech & Language Therapy,FU,18-Jan,492
+Physiotherapy,NC,18-Jan,136
+Physiotherapy,FU,18-Jan,"1,380"
+Social Worker-Psychiatric,NC,18-Jan,15
+Social Worker-Psychiatric,FU,18-Jan,127
+Social Worker-Physical (Medical),NC,18-Jan,
+Social Worker-Physical (Medical),FU,18-Jan,
+Tissue Viability Clinic,NC,18-Jan,17
+Tissue Viability Clinic,FU,18-Jan,247
+Hyperbaric Unit-Oxygen treatment,NC,18-Jan,1
+Hyperbaric Unit-Oxygen treatment,FU,18-Jan,17
+Hyperbaric Unit-Emergency divers,NC,18-Jan,0
+Hyperbaric Unit-Emergency divers,FU,18-Jan,0
+12 Lead Electrocardiograms,NC,18-Jan,391
+12 Lead Electrocardiograms,FU,18-Jan,0
+ECG Stress tests,NC,18-Jan,52
+ECG Stress tests,FU,18-Jan,0
+Holters,NC,18-Jan,0
+Holters,FU,18-Jan,0
+Lung Function tests,NC,18-Jan,18
+Lung Function tests,FU,18-Jan,0
+Echocardiograms,NC,18-Jan,32
+Echocardiograms,FU,18-Jan,0
+BP Monitoring,NC,18-Jan,5
+BP Monitoring,FU,18-Jan,0
+Acupuncture,NC,18-Feb,0
+Acupuncture,FU,18-Feb,15
+Pain,NC,18-Feb,6
+Pain,FU,18-Feb,4
+Pacemaker,NC,18-Feb,0
+Pacemaker,FU,18-Feb,37
+Heart Valve Clinic,NC,18-Feb,0
+Heart Valve Clinic,FU,18-Feb,0
+Cardiology,NC,18-Feb,12
+Cardiology,FU,18-Feb,53
+Dermatology,NC,18-Feb,44
+Dermatology,FU,18-Feb,72
+Diabetes Education Services.,NC,18-Feb,0
+Diabetes Education Services.,FU,18-Feb,0
+Diabetology,NC,18-Feb,8
+Diabetology,FU,18-Feb,95
+Audiology,NC,18-Feb,0
+Audiology,FU,18-Feb,25
+ENT,NC,18-Feb,44
+ENT,FU,18-Feb,39
+POC-ACC,NC,18-Feb,0
+POC-ACC,FU,18-Feb,272
+ACC,NC,18-Feb,2
+ACC,FU,18-Feb,76
+Medical,NC,18-Feb,92
+Medical,FU,18-Feb,230
+Juvenile,NC,18-Feb,
+Juvenile,FU,18-Feb,
+Endocrine,NC,18-Feb,
+Endocrine,FU,18-Feb,
+Rheumatology,NC,18-Feb,18
+Rheumatology,FU,18-Feb,19
+Neurology,NC,18-Feb,5
+Neurology,FU,18-Feb,10
+Naphrology,NC,18-Feb,0
+Naphrology,FU,18-Feb,0
+Dietician,NC,18-Feb,16
+Dietician,FU,18-Feb,9
+Fertility Care,NC,18-Feb,0
+Fertility Care,FU,18-Feb,0
+Naprotechnology,NC,18-Feb,0
+Naprotechnology,FU,18-Feb,0
+Antenatal,NC,18-Feb,13
+Antenatal,FU,18-Feb,152
+Postnatal,NC,18-Feb,0
+Postnatal,FU,18-Feb,9
+Gynaecology,NC,18-Feb,41
+Gynaecology,FU,18-Feb,98
+Oncology,NC,18-Feb,7
+Oncology,FU,18-Feb,102
+Palliative Care,NC,18-Feb,0
+Palliative Care,FU,18-Feb,8
+Ophthalmic,NC,18-Feb,43
+Ophthalmic,FU,18-Feb,108
+Glaucoma,NC,18-Feb,0
+Glaucoma,FU,18-Feb,8
+Visual Fields,NC,18-Feb,0
+Visual Fields,FU,18-Feb,4
+Orthopaedic,NC,18-Feb,67
+Orthopaedic,FU,18-Feb,125
+Orthopaedic,NC,18-Feb,38
+Orthopaedic,FU,18-Feb,111
+Surgical,NC,18-Feb,113
+Surgical,FU,18-Feb,156
+Thyroid,NC,18-Feb,0
+Thyroid,FU,18-Feb,0
+Urology,NC,18-Feb,34
+Urology,FU,18-Feb,111
+Breast clinic,NC,18-Feb,17
+Breast clinic,FU,18-Feb,7
+Respiratory Clinic,NC,18-Feb,0
+Respiratory Clinic,FU,18-Feb,0
+Multiple Sclerosis,NC,18-Feb,0
+Multiple Sclerosis,FU,18-Feb,0
+Colon Rectal Screening,NC,18-Feb,31
+Colon Rectal Screening,FU,18-Feb,11
+Cervical Screening,NC,18-Feb,19
+Cervical Screening,FU,18-Feb,0
+Detox,NC,18-Feb,0
+Detox,FU,18-Feb,466
+Dental,NC,18-Feb,166
+Dental,FU,18-Feb,280
+Bleeding Room,NC,18-Feb,
+Bleeding Room,FU,18-Feb,950
+Podiatry,NC,18-Feb,33
+Podiatry,FU,18-Feb,662
+Psychiatric-Including Child Guidance,NC,18-Feb,14
+Psychiatric-Including Child Guidance,FU,18-Feb,156
+Nutrition & Health Promotion,NC,18-Feb,0
+Nutrition & Health Promotion,FU,18-Feb,0
+Nutrition & Health Promotion,NC,18-Feb,15
+Nutrition & Health Promotion,FU,18-Feb,101
+Occupational Therapy (Physical),NC,18-Feb,22
+Occupational Therapy (Physical),FU,18-Feb,317
+Occupational Therapy (Psychiatric),NC,18-Feb,14
+Occupational Therapy (Psychiatric),FU,18-Feb,132
+Speech & Language Therapy,NC,18-Feb,73
+Speech & Language Therapy,FU,18-Feb,397
+Physiotherapy,NC,18-Feb,122
+Physiotherapy,FU,18-Feb,"1,296"
+Social Worker-Psychiatric,NC,18-Feb,11
+Social Worker-Psychiatric,FU,18-Feb,64
+Social Worker-Physical (Medical),NC,18-Feb,
+Social Worker-Physical (Medical),FU,18-Feb,
+Tissue Viability Clinic,NC,18-Feb,20
+Tissue Viability Clinic,FU,18-Feb,265
+Hyperbaric Unit-Oxygen treatment,NC,18-Feb,2
+Hyperbaric Unit-Oxygen treatment,FU,18-Feb,25
+Hyperbaric Unit-Emergency divers,NC,18-Feb,0
+Hyperbaric Unit-Emergency divers,FU,18-Feb,0
+12 Lead Electrocardiograms,NC,18-Feb,495
+12 Lead Electrocardiograms,FU,18-Feb,0
+ECG Stress tests,NC,18-Feb,49
+ECG Stress tests,FU,18-Feb,0
+Holters,NC,18-Feb,0
+Holters,FU,18-Feb,0
+Lung Function tests,NC,18-Feb,13
+Lung Function tests,FU,18-Feb,0
+Echocardiograms,NC,18-Feb,39
+Echocardiograms,FU,18-Feb,0
+BP Monitoring,NC,18-Feb,7
+BP Monitoring,FU,18-Feb,0
+Acupuncture,NC,18-Mar,0
+Acupuncture,FU,18-Mar,75
+Pain,NC,18-Mar,7
+Pain,FU,18-Mar,3
+Pacemaker,NC,18-Mar,0
+Pacemaker,FU,18-Mar,27
+Heart Valve Clinic,NC,18-Mar,0
+Heart Valve Clinic,FU,18-Mar,0
+Cardiology,NC,18-Mar,9
+Cardiology,FU,18-Mar,54
+Dermatology,NC,18-Mar,59
+Dermatology,FU,18-Mar,68
+Diabetes Education Services.,NC,18-Mar,0
+Diabetes Education Services.,FU,18-Mar,0
+Diabetology,NC,18-Mar,9
+Diabetology,FU,18-Mar,132
+Audiology,NC,18-Mar,0
+Audiology,FU,18-Mar,25
+ENT,NC,18-Mar,52
+ENT,FU,18-Mar,31
+POC-ACC,NC,18-Mar,0
+POC-ACC,FU,18-Mar,297
+ACC,NC,18-Mar,3
+ACC,FU,18-Mar,84
+Medical,NC,18-Mar,77
+Medical,FU,18-Mar,199
+Juvenile,NC,18-Mar,
+Juvenile,FU,18-Mar,
+Endocrine,NC,18-Mar,
+Endocrine,FU,18-Mar,
+Rheumatology,NC,18-Mar,13
+Rheumatology,FU,18-Mar,16
+Neurology,NC,18-Mar,4
+Neurology,FU,18-Mar,11
+Naphrology,NC,18-Mar,0
+Naphrology,FU,18-Mar,0
+Dietician,NC,18-Mar,22
+Dietician,FU,18-Mar,7
+Fertility Care,NC,18-Mar,0
+Fertility Care,FU,18-Mar,0
+Naprotechnology,NC,18-Mar,4
+Naprotechnology,FU,18-Mar,0
+Antenatal,NC,18-Mar,27
+Antenatal,FU,18-Mar,175
+Postnatal,NC,18-Mar,0
+Postnatal,FU,18-Mar,24
+Gynaecology,NC,18-Mar,65
+Gynaecology,FU,18-Mar,117
+Oncology,NC,18-Mar,11
+Oncology,FU,18-Mar,95
+Palliative Care,NC,18-Mar,2
+Palliative Care,FU,18-Mar,5
+Ophthalmic,NC,18-Mar,59
+Ophthalmic,FU,18-Mar,107
+Glaucoma,NC,18-Mar,0
+Glaucoma,FU,18-Mar,8
+Visual Fields,NC,18-Mar,0
+Visual Fields,FU,18-Mar,7
+Orthopaedic,NC,18-Mar,69
+Orthopaedic,FU,18-Mar,102
+Orthopaedic,NC,18-Mar,38
+Orthopaedic,FU,18-Mar,129
+Surgical,NC,18-Mar,137
+Surgical,FU,18-Mar,214
+Thyroid,NC,18-Mar,0
+Thyroid,FU,18-Mar,0
+Urology,NC,18-Mar,46
+Urology,FU,18-Mar,80
+Breast clinic,NC,18-Mar,10
+Breast clinic,FU,18-Mar,9
+Respiratory Clinic,NC,18-Mar,0
+Respiratory Clinic,FU,18-Mar,0
+Multiple Sclerosis,NC,18-Mar,0
+Multiple Sclerosis,FU,18-Mar,0
+Colon Rectal Screening,NC,18-Mar,20
+Colon Rectal Screening,FU,18-Mar,11
+Cervical Screening,NC,18-Mar,13
+Cervical Screening,FU,18-Mar,0
+Detox,NC,18-Mar,0
+Detox,FU,18-Mar,506
+Dental,NC,18-Mar,220
+Dental,FU,18-Mar,457
+Bleeding Room,NC,18-Mar,
+Bleeding Room,FU,18-Mar,983
+Podiatry,NC,18-Mar,54
+Podiatry,FU,18-Mar,697
+Psychiatric-Including Child Guidance,NC,18-Mar,14
+Psychiatric-Including Child Guidance,FU,18-Mar,180
+Nutrition & Health Promotion,NC,18-Mar,0
+Nutrition & Health Promotion,FU,18-Mar,0
+Nutrition & Health Promotion,NC,18-Mar,9
+Nutrition & Health Promotion,FU,18-Mar,118
+Occupational Therapy (Physical),NC,18-Mar,14
+Occupational Therapy (Physical),FU,18-Mar,270
+Occupational Therapy (Psychiatric),NC,18-Mar,12
+Occupational Therapy (Psychiatric),FU,18-Mar,136
+Speech & Language Therapy,NC,18-Mar,59
+Speech & Language Therapy,FU,18-Mar,456
+Physiotherapy,NC,18-Mar,136
+Physiotherapy,FU,18-Mar,"1,531"
+Social Worker-Psychiatric,NC,18-Mar,11
+Social Worker-Psychiatric,FU,18-Mar,57
+Social Worker-Physical (Medical),NC,18-Mar,
+Social Worker-Physical (Medical),FU,18-Mar,
+Tissue Viability Clinic,NC,18-Mar,20
+Tissue Viability Clinic,FU,18-Mar,313
+Hyperbaric Unit-Oxygen treatment,NC,18-Mar,0
+Hyperbaric Unit-Oxygen treatment,FU,18-Mar,20
+Hyperbaric Unit-Emergency divers,NC,18-Mar,3
+Hyperbaric Unit-Emergency divers,FU,18-Mar,1
+12 Lead Electrocardiograms,NC,18-Mar,510
+12 Lead Electrocardiograms,FU,18-Mar,0
+ECG Stress tests,NC,18-Mar,55
+ECG Stress tests,FU,18-Mar,0
+Holters,NC,18-Mar,0
+Holters,FU,18-Mar,0
+Lung Function tests,NC,18-Mar,18
+Lung Function tests,FU,18-Mar,0
+Echocardiograms,NC,18-Mar,42
+Echocardiograms,FU,18-Mar,0
+BP Monitoring,NC,18-Mar,15
+BP Monitoring,FU,18-Mar,0
+Acupuncture,NC,18-Apr,0
+Acupuncture,FU,18-Apr,79
+Pain,NC,18-Apr,6
+Pain,FU,18-Apr,8
+Pacemaker,NC,18-Apr,0
+Pacemaker,FU,18-Apr,47
+Heart Valve Clinic,NC,18-Apr,0
+Heart Valve Clinic,FU,18-Apr,0
+Cardiology,NC,18-Apr,16
+Cardiology,FU,18-Apr,65
+Dermatology,NC,18-Apr,58
+Dermatology,FU,18-Apr,61
+Diabetes Education Services.,NC,18-Apr,0
+Diabetes Education Services.,FU,18-Apr,0
+Diabetology,NC,18-Apr,6
+Diabetology,FU,18-Apr,119
+Audiology,NC,18-Apr,0
+Audiology,FU,18-Apr,42
+ENT,NC,18-Apr,58
+ENT,FU,18-Apr,45
+POC-ACC,NC,18-Apr,0
+POC-ACC,FU,18-Apr,270
+ACC,NC,18-Apr,3
+ACC,FU,18-Apr,120
+Medical,NC,18-Apr,93
+Medical,FU,18-Apr,232
+Juvenile,NC,18-Apr,
+Juvenile,FU,18-Apr,
+Endocrine,NC,18-Apr,
+Endocrine,FU,18-Apr,
+Rheumatology,NC,18-Apr,14
+Rheumatology,FU,18-Apr,22
+Neurology,NC,18-Apr,3
+Neurology,FU,18-Apr,9
+Naphrology,NC,18-Apr,0
+Naphrology,FU,18-Apr,0
+Dietician,NC,18-Apr,20
+Dietician,FU,18-Apr,13
+Fertility Care,NC,18-Apr,1
+Fertility Care,FU,18-Apr,0
+Naprotechnology,NC,18-Apr,0
+Naprotechnology,FU,18-Apr,3
+Antenatal,NC,18-Apr,16
+Antenatal,FU,18-Apr,135
+Postnatal,NC,18-Apr,0
+Postnatal,FU,18-Apr,7
+Gynaecology,NC,18-Apr,40
+Gynaecology,FU,18-Apr,97
+Oncology,NC,18-Apr,8
+Oncology,FU,18-Apr,82
+Palliative Care,NC,18-Apr,1
+Palliative Care,FU,18-Apr,6
+Ophthalmic,NC,18-Apr,36
+Ophthalmic,FU,18-Apr,79
+Glaucoma,NC,18-Apr,0
+Glaucoma,FU,18-Apr,4
+Visual Fields,NC,18-Apr,0
+Visual Fields,FU,18-Apr,3
+Orthopaedic,NC,18-Apr,77
+Orthopaedic,FU,18-Apr,140
+Orthopaedic,NC,18-Apr,31
+Orthopaedic,FU,18-Apr,116
+Surgical,NC,18-Apr,154
+Surgical,FU,18-Apr,174
+Thyroid,NC,18-Apr,0
+Thyroid,FU,18-Apr,0
+Urology,NC,18-Apr,39
+Urology,FU,18-Apr,79
+Breast clinic,NC,18-Apr,9
+Breast clinic,FU,18-Apr,7
+Respiratory Clinic,NC,18-Apr,0
+Respiratory Clinic,FU,18-Apr,0
+Multiple Sclerosis,NC,18-Apr,0
+Multiple Sclerosis,FU,18-Apr,0
+Colon Rectal Screening,NC,18-Apr,32
+Colon Rectal Screening,FU,18-Apr,5
+Cervical Screening,NC,18-Apr,16
+Cervical Screening,FU,18-Apr,0
+Detox,NC,18-Apr,0
+Detox,FU,18-Apr,450
+Dental,NC,18-Apr,197
+Dental,FU,18-Apr,284
+Bleeding Room,NC,18-Apr,
+Bleeding Room,FU,18-Apr,924
+Podiatry,NC,18-Apr,66
+Podiatry,FU,18-Apr,750
+Psychiatric-Including Child Guidance,NC,18-Apr,15
+Psychiatric-Including Child Guidance,FU,18-Apr,148
+Nutrition & Health Promotion,NC,18-Apr,0
+Nutrition & Health Promotion,FU,18-Apr,0
+Nutrition & Health Promotion,NC,18-Apr,9
+Nutrition & Health Promotion,FU,18-Apr,98
+Occupational Therapy (Physical),NC,18-Apr,18
+Occupational Therapy (Physical),FU,18-Apr,255
+Occupational Therapy (Psychiatric),NC,18-Apr,18
+Occupational Therapy (Psychiatric),FU,18-Apr,120
+Speech & Language Therapy,NC,18-Apr,77
+Speech & Language Therapy,FU,18-Apr,419
+Physiotherapy,NC,18-Apr,157
+Physiotherapy,FU,18-Apr,"1,409"
+Social Worker-Psychiatric,NC,18-Apr,6
+Social Worker-Psychiatric,FU,18-Apr,55
+Social Worker-Physical (Medical),NC,18-Apr,
+Social Worker-Physical (Medical),FU,18-Apr,
+Tissue Viability Clinic,NC,18-Apr,20
+Tissue Viability Clinic,FU,18-Apr,326
+Hyperbaric Unit-Oxygen treatment,NC,18-Apr,1
+Hyperbaric Unit-Oxygen treatment,FU,18-Apr,34
+Hyperbaric Unit-Emergency divers,NC,18-Apr,0
+Hyperbaric Unit-Emergency divers,FU,18-Apr,0
+12 Lead Electrocardiograms,NC,18-Apr,568
+12 Lead Electrocardiograms,FU,18-Apr,0
+ECG Stress tests,NC,18-Apr,64
+ECG Stress tests,FU,18-Apr,0
+Holters,NC,18-Apr,0
+Holters,FU,18-Apr,0
+Lung Function tests,NC,18-Apr,16
+Lung Function tests,FU,18-Apr,0
+Echocardiograms,NC,18-Apr,52
+Echocardiograms,FU,18-Apr,0
+BP Monitoring,NC,18-Apr,16
+BP Monitoring,FU,18-Apr,0
+Acupuncture,NC,18-May,0
+Acupuncture,FU,18-May,99
+Pain,NC,18-May,8
+Pain,FU,18-May,4
+Pacemaker,NC,18-May,0
+Pacemaker,FU,18-May,41
+Heart Valve Clinic,NC,18-May,0
+Heart Valve Clinic,FU,18-May,0
+Cardiology,NC,18-May,12
+Cardiology,FU,18-May,65
+Dermatology,NC,18-May,58
+Dermatology,FU,18-May,46
+Diabetes Education Services.,NC,18-May,0
+Diabetes Education Services.,FU,18-May,0
+Diabetology,NC,18-May,6
+Diabetology,FU,18-May,115
+Audiology,NC,18-May,0
+Audiology,FU,18-May,46
+ENT,NC,18-May,46
+ENT,FU,18-May,33
+POC-ACC,NC,18-May,0
+POC-ACC,FU,18-May,319
+ACC,NC,18-May,3
+ACC,FU,18-May,91
+Medical,NC,18-May,91
+Medical,FU,18-May,212
+Juvenile,NC,18-May,
+Juvenile,FU,18-May,
+Endocrine,NC,18-May,
+Endocrine,FU,18-May,
+Rheumatology,NC,18-May,12
+Rheumatology,FU,18-May,16
+Neurology,NC,18-May,2
+Neurology,FU,18-May,8
+Naphrology,NC,18-May,0
+Naphrology,FU,18-May,0
+Dietician,NC,18-May,22
+Dietician,FU,18-May,23
+Fertility Care,NC,18-May,2
+Fertility Care,FU,18-May,2
+Naprotechnology,NC,18-May,0
+Naprotechnology,FU,18-May,4
+Antenatal,NC,18-May,37
+Antenatal,FU,18-May,166
+Postnatal,NC,18-May,0
+Postnatal,FU,18-May,17
+Gynaecology,NC,18-May,67
+Gynaecology,FU,18-May,115
+Oncology,NC,18-May,10
+Oncology,FU,18-May,157
+Palliative Care,NC,18-May,2
+Palliative Care,FU,18-May,6
+Ophthalmic,NC,18-May,77
+Ophthalmic,FU,18-May,125
+Glaucoma,NC,18-May,0
+Glaucoma,FU,18-May,7
+Visual Fields,NC,18-May,0
+Visual Fields,FU,18-May,7
+Orthopaedic,NC,18-May,84
+Orthopaedic,FU,18-May,129
+Orthopaedic,NC,18-May,43
+Orthopaedic,FU,18-May,143
+Surgical,NC,18-May,138
+Surgical,FU,18-May,182
+Thyroid,NC,18-May,0
+Thyroid,FU,18-May,0
+Urology,NC,18-May,39
+Urology,FU,18-May,141
+Breast clinic,NC,18-May,6
+Breast clinic,FU,18-May,14
+Respiratory Clinic,NC,18-May,0
+Respiratory Clinic,FU,18-May,0
+Multiple Sclerosis,NC,18-May,0
+Multiple Sclerosis,FU,18-May,0
+Colon Rectal Screening,NC,18-May,48
+Colon Rectal Screening,FU,18-May,10
+Cervical Screening,NC,18-May,21
+Cervical Screening,FU,18-May,0
+Detox,NC,18-May,0
+Detox,FU,18-May,503
+Dental,NC,18-May,248
+Dental,FU,18-May,281
+Bleeding Room,NC,18-May,
+Bleeding Room,FU,18-May,"1,032"
+Podiatry,NC,18-May,63
+Podiatry,FU,18-May,853
+Psychiatric-Including Child Guidance,NC,18-May,12
+Psychiatric-Including Child Guidance,FU,18-May,164
+Nutrition & Health Promotion,NC,18-May,0
+Nutrition & Health Promotion,FU,18-May,0
+Nutrition & Health Promotion,NC,18-May,9
+Nutrition & Health Promotion,FU,18-May,100
+Occupational Therapy (Physical),NC,18-May,13
+Occupational Therapy (Physical),FU,18-May,"1,115"
+Occupational Therapy (Psychiatric),NC,18-May,16
+Occupational Therapy (Psychiatric),FU,18-May,147
+Speech & Language Therapy,NC,18-May,62
+Speech & Language Therapy,FU,18-May,439
+Physiotherapy,NC,18-May,176
+Physiotherapy,FU,18-May,"1,661"
+Social Worker-Psychiatric,NC,18-May,13
+Social Worker-Psychiatric,FU,18-May,46
+Social Worker-Physical (Medical),NC,18-May,
+Social Worker-Physical (Medical),FU,18-May,
+Tissue Viability Clinic,NC,18-May,18
+Tissue Viability Clinic,FU,18-May,309
+Hyperbaric Unit-Oxygen treatment,NC,18-May,0
+Hyperbaric Unit-Oxygen treatment,FU,18-May,33
+Hyperbaric Unit-Emergency divers,NC,18-May,2
+Hyperbaric Unit-Emergency divers,FU,18-May,0
+12 Lead Electrocardiograms,NC,18-May,514
+12 Lead Electrocardiograms,FU,18-May,0
+ECG Stress tests,NC,18-May,51
+ECG Stress tests,FU,18-May,0
+Holters,NC,18-May,0
+Holters,FU,18-May,0
+Lung Function tests,NC,18-May,14
+Lung Function tests,FU,18-May,0
+Echocardiograms,NC,18-May,64
+Echocardiograms,FU,18-May,0
+BP Monitoring,NC,18-May,17
+BP Monitoring,FU,18-May,0
+Acupuncture,NC,18-Jun,0
+Acupuncture,FU,18-Jun,47
+Pain,NC,18-Jun,7
+Pain,FU,18-Jun,2
+Pacemaker,NC,18-Jun,0
+Pacemaker,FU,18-Jun,30
+Heart Valve Clinic,NC,18-Jun,0
+Heart Valve Clinic,FU,18-Jun,0
+Cardiology,NC,18-Jun,18
+Cardiology,FU,18-Jun,80
+Dermatology,NC,18-Jun,74
+Dermatology,FU,18-Jun,73
+Diabetes Education Services.,NC,18-Jun,0
+Diabetes Education Services.,FU,18-Jun,0
+Diabetology,NC,18-Jun,12
+Diabetology,FU,18-Jun,109
+Audiology,NC,18-Jun,0
+Audiology,FU,18-Jun,39
+ENT,NC,18-Jun,52
+ENT,FU,18-Jun,32
+POC-ACC,NC,18-Jun,0
+POC-ACC,FU,18-Jun,243
+ACC,NC,18-Jun,1
+ACC,FU,18-Jun,68
+Medical,NC,18-Jun,75
+Medical,FU,18-Jun,207
+Juvenile,NC,18-Jun,
+Juvenile,FU,18-Jun,
+Endocrine,NC,18-Jun,
+Endocrine,FU,18-Jun,
+Rheumatology,NC,18-Jun,8
+Rheumatology,FU,18-Jun,26
+Neurology,NC,18-Jun,3
+Neurology,FU,18-Jun,9
+Naphrology,NC,18-Jun,0
+Naphrology,FU,18-Jun,0
+Dietician,NC,18-Jun,15
+Dietician,FU,18-Jun,13
+Fertility Care,NC,18-Jun,2
+Fertility Care,FU,18-Jun,2
+Naprotechnology,NC,18-Jun,4
+Naprotechnology,FU,18-Jun,0
+Antenatal,NC,18-Jun,27
+Antenatal,FU,18-Jun,181
+Postnatal,NC,18-Jun,0
+Postnatal,FU,18-Jun,10
+Gynaecology,NC,18-Jun,44
+Gynaecology,FU,18-Jun,111
+Oncology,NC,18-Jun,8
+Oncology,FU,18-Jun,107
+Palliative Care,NC,18-Jun,4
+Palliative Care,FU,18-Jun,4
+Ophthalmic,NC,18-Jun,102
+Ophthalmic,FU,18-Jun,119
+Glaucoma,NC,18-Jun,1
+Glaucoma,FU,18-Jun,6
+Visual Fields,NC,18-Jun,0
+Visual Fields,FU,18-Jun,4
+Orthopaedic,NC,18-Jun,72
+Orthopaedic,FU,18-Jun,153
+Orthopaedic,NC,18-Jun,27
+Orthopaedic,FU,18-Jun,117
+Surgical,NC,18-Jun,89
+Surgical,FU,18-Jun,136
+Thyroid,NC,18-Jun,0
+Thyroid,FU,18-Jun,0
+Urology,NC,18-Jun,22
+Urology,FU,18-Jun,90
+Breast clinic,NC,18-Jun,13
+Breast clinic,FU,18-Jun,11
+Respiratory Clinic,NC,18-Jun,0
+Respiratory Clinic,FU,18-Jun,0
+Multiple Sclerosis,NC,18-Jun,0
+Multiple Sclerosis,FU,18-Jun,0
+Colon Rectal Screening,NC,18-Jun,35
+Colon Rectal Screening,FU,18-Jun,5
+Cervical Screening,NC,18-Jun,22
+Cervical Screening,FU,18-Jun,0
+Detox,NC,18-Jun,1
+Detox,FU,18-Jun,442
+Dental,NC,18-Jun,213
+Dental,FU,18-Jun,307
+Bleeding Room,NC,18-Jun,
+Bleeding Room,FU,18-Jun,929
+Podiatry,NC,18-Jun,59
+Podiatry,FU,18-Jun,703
+Psychiatric-Including Child Guidance,NC,18-Jun,17
+Psychiatric-Including Child Guidance,FU,18-Jun,148
+Nutrition & Health Promotion,NC,18-Jun,0
+Nutrition & Health Promotion,FU,18-Jun,0
+Nutrition & Health Promotion,NC,18-Jun,15
+Nutrition & Health Promotion,FU,18-Jun,102
+Occupational Therapy (Physical),NC,18-Jun,25
+Occupational Therapy (Physical),FU,18-Jun,108
+Occupational Therapy (Psychiatric),NC,18-Jun,12
+Occupational Therapy (Psychiatric),FU,18-Jun,126
+Speech & Language Therapy,NC,18-Jun,29
+Speech & Language Therapy,FU,18-Jun,291
+Physiotherapy,NC,18-Jun,150
+Physiotherapy,FU,18-Jun,"1,452"
+Social Worker-Psychiatric,NC,18-Jun,13
+Social Worker-Psychiatric,FU,18-Jun,139
+Social Worker-Physical (Medical),NC,18-Jun,
+Social Worker-Physical (Medical),FU,18-Jun,
+Tissue Viability Clinic,NC,18-Jun,12
+Tissue Viability Clinic,FU,18-Jun,257
+Hyperbaric Unit-Oxygen treatment,NC,18-Jun,2
+Hyperbaric Unit-Oxygen treatment,FU,18-Jun,4
+Hyperbaric Unit-Emergency divers,NC,18-Jun,2
+Hyperbaric Unit-Emergency divers,FU,18-Jun,4
+12 Lead Electrocardiograms,NC,18-Jun,489
+12 Lead Electrocardiograms,FU,18-Jun,0
+ECG Stress tests,NC,18-Jun,22
+ECG Stress tests,FU,18-Jun,0
+Holters,NC,18-Jun,0
+Holters,FU,18-Jun,0
+Lung Function tests,NC,18-Jun,11
+Lung Function tests,FU,18-Jun,0
+Echocardiograms,NC,18-Jun,26
+Echocardiograms,FU,18-Jun,0
+BP Monitoring,NC,18-Jun,15
+BP Monitoring,FU,18-Jun,0
+Acupuncture,NC,18-Jul,17
+Acupuncture,FU,18-Jul,61
+Pain,NC,18-Jul,2
+Pain,FU,18-Jul,2
+Pacemaker,NC,18-Jul,0
+Pacemaker,FU,18-Jul,50
+Heart Valve Clinic,NC,18-Jul,0
+Heart Valve Clinic,FU,18-Jul,0
+Cardiology,NC,18-Jul,41
+Cardiology,FU,18-Jul,95
+Dermatology,NC,18-Jul,70
+Dermatology,FU,18-Jul,70
+Diabetes Education Services.,NC,18-Jul,0
+Diabetes Education Services.,FU,18-Jul,0
+Diabetology,NC,18-Jul,8
+Diabetology,FU,18-Jul,118
+Audiology,NC,18-Jul,20
+Audiology,FU,18-Jul,25
+ENT,NC,18-Jul,43
+ENT,FU,18-Jul,36
+POC-ACC,NC,18-Jul,0
+POC-ACC,FU,18-Jul,326
+ACC,NC,18-Jul,3
+ACC,FU,18-Jul,95
+Medical,NC,18-Jul,91
+Medical,FU,18-Jul,195
+Juvenile,NC,18-Jul,
+Juvenile,FU,18-Jul,
+Endocrine,NC,18-Jul,
+Endocrine,FU,18-Jul,
+Rheumatology,NC,18-Jul,11
+Rheumatology,FU,18-Jul,15
+Neurology,NC,18-Jul,3
+Neurology,FU,18-Jul,9
+Naphrology,NC,18-Jul,0
+Naphrology,FU,18-Jul,0
+Dietician,NC,18-Jul,18
+Dietician,FU,18-Jul,14
+Fertility Care,NC,18-Jul,1
+Fertility Care,FU,18-Jul,2
+Naprotechnology,NC,18-Jul,1
+Naprotechnology,FU,18-Jul,2
+Antenatal,NC,18-Jul,16
+Antenatal,FU,18-Jul,105
+Postnatal,NC,18-Jul,0
+Postnatal,FU,18-Jul,9
+Gynaecology,NC,18-Jul,33
+Gynaecology,FU,18-Jul,80
+Oncology,NC,18-Jul,8
+Oncology,FU,18-Jul,117
+Palliative Care,NC,18-Jul,0
+Palliative Care,FU,18-Jul,7
+Ophthalmic,NC,18-Jul,107
+Ophthalmic,FU,18-Jul,94
+Glaucoma,NC,18-Jul,2
+Glaucoma,FU,18-Jul,5
+Visual Fields,NC,18-Jul,0
+Visual Fields,FU,18-Jul,4
+Orthopaedic,NC,18-Jul,63
+Orthopaedic,FU,18-Jul,142
+Orthopaedic,NC,18-Jul,36
+Orthopaedic,FU,18-Jul,125
+Surgical,NC,18-Jul,100
+Surgical,FU,18-Jul,127
+Thyroid,NC,18-Jul,0
+Thyroid,FU,18-Jul,0
+Urology,NC,18-Jul,32
+Urology,FU,18-Jul,95
+Breast clinic,NC,18-Jul,10
+Breast clinic,FU,18-Jul,10
+Respiratory Clinic,NC,18-Jul,0
+Respiratory Clinic,FU,18-Jul,0
+Multiple Sclerosis,NC,18-Jul,0
+Multiple Sclerosis,FU,18-Jul,0
+Colon Rectal Screening,NC,18-Jul,26
+Colon Rectal Screening,FU,18-Jul,15
+Cervical Screening,NC,18-Jul,34
+Cervical Screening,FU,18-Jul,0
+Detox,NC,18-Jul,1
+Detox,FU,18-Jul,718
+Dental,NC,18-Jul,282
+Dental,FU,18-Jul,249
+Bleeding Room,NC,18-Jul,
+Bleeding Room,FU,18-Jul,930
+Podiatry,NC,18-Jul,72
+Podiatry,FU,18-Jul,774
+Psychiatric-Including Child Guidance,NC,18-Jul,13
+Psychiatric-Including Child Guidance,FU,18-Jul,173
+Nutrition & Health Promotion,NC,18-Jul,0
+Nutrition & Health Promotion,FU,18-Jul,0
+Nutrition & Health Promotion,NC,18-Jul,9
+Nutrition & Health Promotion,FU,18-Jul,98
+Occupational Therapy (Physical),NC,18-Jul,32
+Occupational Therapy (Physical),FU,18-Jul,221
+Occupational Therapy (Psychiatric),NC,18-Jul,8
+Occupational Therapy (Psychiatric),FU,18-Jul,112
+Speech & Language Therapy,NC,18-Jul,94
+Speech & Language Therapy,FU,18-Jul,502
+Physiotherapy,NC,18-Jul,132
+Physiotherapy,FU,18-Jul,"1,399"
+Social Worker-Psychiatric,NC,18-Jul,10
+Social Worker-Psychiatric,FU,18-Jul,100
+Social Worker-Physical (Medical),NC,18-Jul,
+Social Worker-Physical (Medical),FU,18-Jul,
+Tissue Viability Clinic,NC,18-Jul,21
+Tissue Viability Clinic,FU,18-Jul,292
+Hyperbaric Unit-Oxygen treatment,NC,18-Jul,2
+Hyperbaric Unit-Oxygen treatment,FU,18-Jul,32
+Hyperbaric Unit-Emergency divers,NC,18-Jul,1
+Hyperbaric Unit-Emergency divers,FU,18-Jul,0
+12 Lead Electrocardiograms,NC,18-Jul,512
+12 Lead Electrocardiograms,FU,18-Jul,0
+ECG Stress tests,NC,18-Jul,30
+ECG Stress tests,FU,18-Jul,0
+Holters,NC,18-Jul,0
+Holters,FU,18-Jul,0
+Lung Function tests,NC,18-Jul,3
+Lung Function tests,FU,18-Jul,0
+Echocardiograms,NC,18-Jul,16
+Echocardiograms,FU,18-Jul,0
+BP Monitoring,NC,18-Jul,8
+BP Monitoring,FU,18-Jul,0
+Acupuncture,NC,18-Aug,17
+Acupuncture,FU,18-Aug,72
+Pain,NC,18-Aug,5
+Pain,FU,18-Aug,5
+Pacemaker,NC,18-Aug,0
+Pacemaker,FU,18-Aug,43
+Heart Valve Clinic,NC,18-Aug,0
+Heart Valve Clinic,FU,18-Aug,0
+Cardiology,NC,18-Aug,22
+Cardiology,FU,18-Aug,66
+Dermatology,NC,18-Aug,48
+Dermatology,FU,18-Aug,60
+Diabetes Education Services.,NC,18-Aug,0
+Diabetes Education Services.,FU,18-Aug,0
+Diabetology,NC,18-Aug,11
+Diabetology,FU,18-Aug,105
+Audiology,NC,18-Aug,6
+Audiology,FU,18-Aug,29
+ENT,NC,18-Aug,34
+ENT,FU,18-Aug,19
+POC-ACC,NC,18-Aug,0
+POC-ACC,FU,18-Aug,305
+ACC,NC,18-Aug,5
+ACC,FU,18-Aug,83
+Medical,NC,18-Aug,80
+Medical,FU,18-Aug,205
+Juvenile,NC,18-Aug,
+Juvenile,FU,18-Aug,
+Endocrine,NC,18-Aug,
+Endocrine,FU,18-Aug,
+Rheumatology,NC,18-Aug,15
+Rheumatology,FU,18-Aug,21
+Neurology,NC,18-Aug,7
+Neurology,FU,18-Aug,14
+Naphrology,NC,18-Aug,0
+Naphrology,FU,18-Aug,0
+Dietician,NC,18-Aug,9
+Dietician,FU,18-Aug,17
+Fertility Care,NC,18-Aug,0
+Fertility Care,FU,18-Aug,0
+Naprotechnology,NC,18-Aug,3
+Naprotechnology,FU,18-Aug,2
+Antenatal,NC,18-Aug,18
+Antenatal,FU,18-Aug,145
+Postnatal,NC,18-Aug,0
+Postnatal,FU,18-Aug,23
+Gynaecology,NC,18-Aug,40
+Gynaecology,FU,18-Aug,85
+Oncology,NC,18-Aug,6
+Oncology,FU,18-Aug,56
+Palliative Care,NC,18-Aug,0
+Palliative Care,FU,18-Aug,5
+Ophthalmic,NC,18-Aug,74
+Ophthalmic,FU,18-Aug,86
+Glaucoma,NC,18-Aug,1
+Glaucoma,FU,18-Aug,5
+Visual Fields,NC,18-Aug,0
+Visual Fields,FU,18-Aug,3
+Orthopaedic,NC,18-Aug,88
+Orthopaedic,FU,18-Aug,196
+Orthopaedic,NC,18-Aug,46
+Orthopaedic,FU,18-Aug,159
+Surgical,NC,18-Aug,153
+Surgical,FU,18-Aug,183
+Thyroid,NC,18-Aug,0
+Thyroid,FU,18-Aug,0
+Urology,NC,18-Aug,34
+Urology,FU,18-Aug,103
+Breast clinic,NC,18-Aug,8
+Breast clinic,FU,18-Aug,17
+Respiratory Clinic,NC,18-Aug,0
+Respiratory Clinic,FU,18-Aug,0
+Multiple Sclerosis,NC,18-Aug,0
+Multiple Sclerosis,FU,18-Aug,0
+Colon Rectal Screening,NC,18-Aug,43
+Colon Rectal Screening,FU,18-Aug,4
+Cervical Screening,NC,18-Aug,23
+Cervical Screening,FU,18-Aug,0
+Detox,NC,18-Aug,1
+Detox,FU,18-Aug,420
+Dental,NC,18-Aug,71
+Dental,FU,18-Aug,215
+Bleeding Room,NC,18-Aug,
+Bleeding Room,FU,18-Aug,990
+Podiatry,NC,18-Aug,69
+Podiatry,FU,18-Aug,835
+Psychiatric-Including Child Guidance,NC,18-Aug,15
+Psychiatric-Including Child Guidance,FU,18-Aug,140
+Nutrition & Health Promotion,NC,18-Aug,0
+Nutrition & Health Promotion,FU,18-Aug,0
+Nutrition & Health Promotion,NC,18-Aug,9
+Nutrition & Health Promotion,FU,18-Aug,98
+Occupational Therapy (Physical),NC,18-Aug,23
+Occupational Therapy (Physical),FU,18-Aug,267
+Occupational Therapy (Psychiatric),NC,18-Aug,7
+Occupational Therapy (Psychiatric),FU,18-Aug,106
+Speech & Language Therapy,NC,18-Aug,18
+Speech & Language Therapy,FU,18-Aug,262
+Physiotherapy,NC,18-Aug,153
+Physiotherapy,FU,18-Aug,"1,371"
+Social Worker-Psychiatric,NC,18-Aug,14
+Social Worker-Psychiatric,FU,18-Aug,114
+Social Worker-Physical (Medical),NC,18-Aug,
+Social Worker-Physical (Medical),FU,18-Aug,
+Tissue Viability Clinic,NC,18-Aug,22
+Tissue Viability Clinic,FU,18-Aug,238
+Hyperbaric Unit-Oxygen treatment,NC,18-Aug,0
+Hyperbaric Unit-Oxygen treatment,FU,18-Aug,22
+Hyperbaric Unit-Emergency divers,NC,18-Aug,4
+Hyperbaric Unit-Emergency divers,FU,18-Aug,5
+12 Lead Electrocardiograms,NC,18-Aug,527
+12 Lead Electrocardiograms,FU,18-Aug,0
+ECG Stress tests,NC,18-Aug,12
+ECG Stress tests,FU,18-Aug,0
+Holters,NC,18-Aug,0
+Holters,FU,18-Aug,0
+Lung Function tests,NC,18-Aug,1
+Lung Function tests,FU,18-Aug,0
+Echocardiograms,NC,18-Aug,27
+Echocardiograms,FU,18-Aug,0
+BP Monitoring,NC,18-Aug,1
+BP Monitoring,FU,18-Aug,0
+Acupuncture,NC,18-Sep,9
+Acupuncture,FU,18-Sep,62
+Pain,NC,18-Sep,5
+Pain,FU,18-Sep,1
+Pacemaker,NC,18-Sep,0
+Pacemaker,FU,18-Sep,33
+Heart Valve Clinic,NC,18-Sep,0
+Heart Valve Clinic,FU,18-Sep,0
+Cardiology,NC,18-Sep,47
+Cardiology,FU,18-Sep,76
+Dermatology,NC,18-Sep,48
+Dermatology,FU,18-Sep,59
+Diabetes Education Services.,NC,18-Sep,0
+Diabetes Education Services.,FU,18-Sep,0
+Diabetology,NC,18-Sep,7
+Diabetology,FU,18-Sep,100
+Audiology,NC,18-Sep,12
+Audiology,FU,18-Sep,27
+ENT,NC,18-Sep,31
+ENT,FU,18-Sep,34
+POC-ACC,NC,18-Sep,0
+POC-ACC,FU,18-Sep,279
+ACC,NC,18-Sep,1
+ACC,FU,18-Sep,78
+Medical,NC,18-Sep,70
+Medical,FU,18-Sep,150
+Juvenile,NC,18-Sep,
+Juvenile,FU,18-Sep,
+Endocrine,NC,18-Sep,
+Endocrine,FU,18-Sep,
+Rheumatology,NC,18-Sep,3
+Rheumatology,FU,18-Sep,12
+Neurology,NC,18-Sep,4
+Neurology,FU,18-Sep,0
+Naphrology,NC,18-Sep,0
+Naphrology,FU,18-Sep,0
+Dietician,NC,18-Sep,12
+Dietician,FU,18-Sep,11
+Fertility Care,NC,18-Sep,1
+Fertility Care,FU,18-Sep,2
+Naprotechnology,NC,18-Sep,3
+Naprotechnology,FU,18-Sep,0
+Antenatal,NC,18-Sep,20
+Antenatal,FU,18-Sep,132
+Postnatal,NC,18-Sep,0
+Postnatal,FU,18-Sep,12
+Gynaecology,NC,18-Sep,35
+Gynaecology,FU,18-Sep,79
+Oncology,NC,18-Sep,8
+Oncology,FU,18-Sep,151
+Palliative Care,NC,18-Sep,1
+Palliative Care,FU,18-Sep,6
+Ophthalmic,NC,18-Sep,72
+Ophthalmic,FU,18-Sep,85
+Glaucoma,NC,18-Sep,3
+Glaucoma,FU,18-Sep,5
+Visual Fields,NC,18-Sep,0
+Visual Fields,FU,18-Sep,1
+Orthopaedic,NC,18-Sep,44
+Orthopaedic,FU,18-Sep,82
+Orthopaedic,NC,18-Sep,36
+Orthopaedic,FU,18-Sep,146
+Surgical,NC,18-Sep,117
+Surgical,FU,18-Sep,148
+Thyroid,NC,18-Sep,0
+Thyroid,FU,18-Sep,0
+Urology,NC,18-Sep,21
+Urology,FU,18-Sep,86
+Breast clinic,NC,18-Sep,12
+Breast clinic,FU,18-Sep,11
+Respiratory Clinic,NC,18-Sep,0
+Respiratory Clinic,FU,18-Sep,0
+Multiple Sclerosis,NC,18-Sep,0
+Multiple Sclerosis,FU,18-Sep,0
+Colon Rectal Screening,NC,18-Sep,50
+Colon Rectal Screening,FU,18-Sep,5
+Cervical Screening,NC,18-Sep,19
+Cervical Screening,FU,18-Sep,0
+Detox,NC,18-Sep,0
+Detox,FU,18-Sep,334
+Dental,NC,18-Sep,31
+Dental,FU,18-Sep,123
+Bleeding Room,NC,18-Sep,
+Bleeding Room,FU,18-Sep,986
+Podiatry,NC,18-Sep,53
+Podiatry,FU,18-Sep,646
+Psychiatric-Including Child Guidance,NC,18-Sep,13
+Psychiatric-Including Child Guidance,FU,18-Sep,129
+Nutrition & Health Promotion,NC,18-Sep,0
+Nutrition & Health Promotion,FU,18-Sep,0
+Nutrition & Health Promotion,NC,18-Sep,22
+Nutrition & Health Promotion,FU,18-Sep,132
+Occupational Therapy (Physical),NC,18-Sep,18
+Occupational Therapy (Physical),FU,18-Sep,201
+Occupational Therapy (Psychiatric),NC,18-Sep,9
+Occupational Therapy (Psychiatric),FU,18-Sep,89
+Speech & Language Therapy,NC,18-Sep,13
+Speech & Language Therapy,FU,18-Sep,240
+Physiotherapy,NC,18-Sep,94
+Physiotherapy,FU,18-Sep,"1,292"
+Social Worker-Psychiatric,NC,18-Sep,9
+Social Worker-Psychiatric,FU,18-Sep,122
+Social Worker-Physical (Medical),NC,18-Sep,
+Social Worker-Physical (Medical),FU,18-Sep,
+Tissue Viability Clinic,NC,18-Sep,15
+Tissue Viability Clinic,FU,18-Sep,341
+Hyperbaric Unit-Oxygen treatment,NC,18-Sep,1
+Hyperbaric Unit-Oxygen treatment,FU,18-Sep,15
+Hyperbaric Unit-Emergency divers,NC,18-Sep,8
+Hyperbaric Unit-Emergency divers,FU,18-Sep,11
+12 Lead Electrocardiograms,NC,18-Sep,541
+12 Lead Electrocardiograms,FU,18-Sep,0
+ECG Stress tests,NC,18-Sep,22
+ECG Stress tests,FU,18-Sep,0
+Holters,NC,18-Sep,6
+Holters,FU,18-Sep,0
+Lung Function tests,NC,18-Sep,3
+Lung Function tests,FU,18-Sep,0
+Echocardiograms,NC,18-Sep,30
+Echocardiograms,FU,18-Sep,0
+BP Monitoring,NC,18-Sep,0
+BP Monitoring,FU,18-Sep,0
+Acupuncture,NC,18-Oct,14
+Acupuncture,FU,18-Oct,29
+Pain,NC,18-Oct,7
+Pain,FU,18-Oct,2
+Pacemaker,NC,18-Oct,0
+Pacemaker,FU,18-Oct,36
+Heart Valve Clinic,NC,18-Oct,0
+Heart Valve Clinic,FU,18-Oct,0
+Cardiology,NC,18-Oct,21
+Cardiology,FU,18-Oct,75
+Dermatology,NC,18-Oct,50
+Dermatology,FU,18-Oct,53
+Diabetes Education Services.,NC,18-Oct,0
+Diabetes Education Services.,FU,18-Oct,0
+Diabetology,NC,18-Oct,6
+Diabetology,FU,18-Oct,102
+Audiology,NC,18-Oct,12
+Audiology,FU,18-Oct,17
+ENT,NC,18-Oct,58
+ENT,FU,18-Oct,32
+POC-ACC,NC,18-Oct,0
+POC-ACC,FU,18-Oct,311
+ACC,NC,18-Oct,1
+ACC,FU,18-Oct,104
+Medical,NC,18-Oct,106
+Medical,FU,18-Oct,217
+Juvenile,NC,18-Oct,3
+Juvenile,FU,18-Oct,2
+Endocrine,NC,18-Oct,
+Endocrine,FU,18-Oct,
+Rheumatology,NC,18-Oct,17
+Rheumatology,FU,18-Oct,37
+Neurology,NC,18-Oct,6
+Neurology,FU,18-Oct,11
+Naphrology,NC,18-Oct,0
+Naphrology,FU,18-Oct,0
+Dietician,NC,18-Oct,17
+Dietician,FU,18-Oct,17
+Fertility Care,NC,18-Oct,0
+Fertility Care,FU,18-Oct,0
+Naprotechnology,NC,18-Oct,8
+Naprotechnology,FU,18-Oct,2
+Antenatal,NC,18-Oct,23
+Antenatal,FU,18-Oct,157
+Postnatal,NC,18-Oct,0
+Postnatal,FU,18-Oct,13
+Gynaecology,NC,18-Oct,57
+Gynaecology,FU,18-Oct,81
+Oncology,NC,18-Oct,8
+Oncology,FU,18-Oct,124
+Palliative Care,NC,18-Oct,1
+Palliative Care,FU,18-Oct,2
+Ophthalmic,NC,18-Oct,71
+Ophthalmic,FU,18-Oct,95
+Glaucoma,NC,18-Oct,1
+Glaucoma,FU,18-Oct,4
+Visual Fields,NC,18-Oct,0
+Visual Fields,FU,18-Oct,2
+Orthopaedic,NC,18-Oct,82
+Orthopaedic,FU,18-Oct,139
+Orthopaedic,NC,18-Oct,37
+Orthopaedic,FU,18-Oct,135
+Surgical,NC,18-Oct,150
+Surgical,FU,18-Oct,200
+Thyroid,NC,18-Oct,0
+Thyroid,FU,18-Oct,0
+Urology,NC,18-Oct,23
+Urology,FU,18-Oct,116
+Breast clinic,NC,18-Oct,17
+Breast clinic,FU,18-Oct,15
+Respiratory Clinic,NC,18-Oct,0
+Respiratory Clinic,FU,18-Oct,0
+Multiple Sclerosis,NC,18-Oct,0
+Multiple Sclerosis,FU,18-Oct,0
+Colon Rectal Screening,NC,18-Oct,54
+Colon Rectal Screening,FU,18-Oct,6
+Cervical Screening,NC,18-Oct,22
+Cervical Screening,FU,18-Oct,0
+Detox,NC,18-Oct,0
+Detox,FU,18-Oct,347
+Dental,NC,18-Oct,113
+Dental,FU,18-Oct,102
+Bleeding Room,NC,18-Oct,
+Bleeding Room,FU,18-Oct,"1,169"
+Podiatry,NC,18-Oct,54
+Podiatry,FU,18-Oct,875
+Psychiatric-Including Child Guidance,NC,18-Oct,18
+Psychiatric-Including Child Guidance,FU,18-Oct,205
+Nutrition & Health Promotion,NC,18-Oct,0
+Nutrition & Health Promotion,FU,18-Oct,0
+Nutrition & Health Promotion,NC,18-Oct,13
+Nutrition & Health Promotion,FU,18-Oct,151
+Occupational Therapy (Physical),NC,18-Oct,16
+Occupational Therapy (Physical),FU,18-Oct,285
+Occupational Therapy (Psychiatric),NC,18-Oct,11
+Occupational Therapy (Psychiatric),FU,18-Oct,141
+Speech & Language Therapy,NC,18-Oct,5
+Speech & Language Therapy,FU,18-Oct,91
+Physiotherapy,NC,18-Oct,175
+Physiotherapy,FU,18-Oct,"1,528"
+Social Worker-Psychiatric,NC,18-Oct,17
+Social Worker-Psychiatric,FU,18-Oct,37
+Social Worker-Physical (Medical),NC,18-Oct,0
+Social Worker-Physical (Medical),FU,18-Oct,14
+Tissue Viability Clinic,NC,18-Oct,23
+Tissue Viability Clinic,FU,18-Oct,347
+Hyperbaric Unit-Oxygen treatment,NC,18-Oct,1
+Hyperbaric Unit-Oxygen treatment,FU,18-Oct,20
+Hyperbaric Unit-Emergency divers,NC,18-Oct,1
+Hyperbaric Unit-Emergency divers,FU,18-Oct,0
+12 Lead Electrocardiograms,NC,18-Oct,552
+12 Lead Electrocardiograms,FU,18-Oct,0
+ECG Stress tests,NC,18-Oct,21
+ECG Stress tests,FU,18-Oct,0
+Holters,NC,18-Oct,15
+Holters,FU,18-Oct,0
+Lung Function tests,NC,18-Oct,8
+Lung Function tests,FU,18-Oct,0
+Echocardiograms,NC,18-Oct,20
+Echocardiograms,FU,18-Oct,0
+BP Monitoring,NC,18-Oct,6
+BP Monitoring,FU,18-Oct,0
+Acupuncture,NC,18-Nov,3
+Acupuncture,FU,18-Nov,43
+Pain,NC,18-Nov,3
+Pain,FU,18-Nov,2
+Pacemaker,NC,18-Nov,0
+Pacemaker,FU,18-Nov,58
+Heart Valve Clinic,NC,18-Nov,0
+Heart Valve Clinic,FU,18-Nov,0
+Cardiology,NC,18-Nov,10
+Cardiology,FU,18-Nov,110
+Dermatology,NC,18-Nov,54
+Dermatology,FU,18-Nov,87
+Diabetes Education Services.,NC,18-Nov,0
+Diabetes Education Services.,FU,18-Nov,0
+Diabetology,NC,18-Nov,10
+Diabetology,FU,18-Nov,105
+Audiology,NC,18-Nov,15
+Audiology,FU,18-Nov,24
+ENT,NC,18-Nov,37
+ENT,FU,18-Nov,29
+POC-ACC,NC,18-Nov,0
+POC-ACC,FU,18-Nov,306
+ACC,NC,18-Nov,2
+ACC,FU,18-Nov,102
+Medical,NC,18-Nov,82
+Medical,FU,18-Nov,186
+Juvenile,NC,18-Nov,4
+Juvenile,FU,18-Nov,6
+Endocrine,NC,18-Nov,5
+Endocrine,FU,18-Nov,8
+Rheumatology,NC,18-Nov,9
+Rheumatology,FU,18-Nov,14
+Neurology,NC,18-Nov,3
+Neurology,FU,18-Nov,9
+Naphrology,NC,18-Nov,0
+Naphrology,FU,18-Nov,0
+Dietician,NC,18-Nov,6
+Dietician,FU,18-Nov,8
+Fertility Care,NC,18-Nov,3
+Fertility Care,FU,18-Nov,3
+Naprotechnology,NC,18-Nov,4
+Naprotechnology,FU,18-Nov,4
+Antenatal,NC,18-Nov,22
+Antenatal,FU,18-Nov,131
+Postnatal,NC,18-Nov,0
+Postnatal,FU,18-Nov,12
+Gynaecology,NC,18-Nov,52
+Gynaecology,FU,18-Nov,95
+Oncology,NC,18-Nov,9
+Oncology,FU,18-Nov,113
+Palliative Care,NC,18-Nov,5
+Palliative Care,FU,18-Nov,1
+Ophthalmic,NC,18-Nov,88
+Ophthalmic,FU,18-Nov,107
+Glaucoma,NC,18-Nov,0
+Glaucoma,FU,18-Nov,6
+Visual Fields,NC,18-Nov,0
+Visual Fields,FU,18-Nov,2
+Orthopaedic,NC,18-Nov,105
+Orthopaedic,FU,18-Nov,175
+Orthopaedic,NC,18-Nov,38
+Orthopaedic,FU,18-Nov,148
+Surgical,NC,18-Nov,140
+Surgical,FU,18-Nov,228
+Thyroid,NC,18-Nov,0
+Thyroid,FU,18-Nov,0
+Urology,NC,18-Nov,8
+Urology,FU,18-Nov,63
+Breast clinic,NC,18-Nov,11
+Breast clinic,FU,18-Nov,18
+Respiratory Clinic,NC,18-Nov,0
+Respiratory Clinic,FU,18-Nov,0
+Multiple Sclerosis,NC,18-Nov,0
+Multiple Sclerosis,FU,18-Nov,0
+Colon Rectal Screening,NC,18-Nov,48
+Colon Rectal Screening,FU,18-Nov,9
+Cervical Screening,NC,18-Nov,24
+Cervical Screening,FU,18-Nov,1
+Detox,NC,18-Nov,0
+Detox,FU,18-Nov,420
+Dental,NC,18-Nov,162
+Dental,FU,18-Nov,192
+Bleeding Room,NC,18-Nov,
+Bleeding Room,FU,18-Nov,975
+Podiatry,NC,18-Nov,66
+Podiatry,FU,18-Nov,827
+Psychiatric-Including Child Guidance,NC,18-Nov,4
+Psychiatric-Including Child Guidance,FU,18-Nov,204
+Nutrition & Health Promotion,NC,18-Nov,0
+Nutrition & Health Promotion,FU,18-Nov,0
+Nutrition & Health Promotion,NC,18-Nov,14
+Nutrition & Health Promotion,FU,18-Nov,120
+Occupational Therapy (Physical),NC,18-Nov,25
+Occupational Therapy (Physical),FU,18-Nov,235
+Occupational Therapy (Psychiatric),NC,18-Nov,14
+Occupational Therapy (Psychiatric),FU,18-Nov,72
+Speech & Language Therapy,NC,18-Nov,6
+Speech & Language Therapy,FU,18-Nov,110
+Physiotherapy,NC,18-Nov,141
+Physiotherapy,FU,18-Nov,"1,475"
+Social Worker-Psychiatric,NC,18-Nov,10
+Social Worker-Psychiatric,FU,18-Nov,135
+Social Worker-Physical (Medical),NC,18-Nov,0
+Social Worker-Physical (Medical),FU,18-Nov,12
+Tissue Viability Clinic,NC,18-Nov,14
+Tissue Viability Clinic,FU,18-Nov,294
+Hyperbaric Unit-Oxygen treatment,NC,18-Nov,0
+Hyperbaric Unit-Oxygen treatment,FU,18-Nov,10
+Hyperbaric Unit-Emergency divers,NC,18-Nov,0
+Hyperbaric Unit-Emergency divers,FU,18-Nov,0
+12 Lead Electrocardiograms,NC,18-Nov,545
+12 Lead Electrocardiograms,FU,18-Nov,0
+ECG Stress tests,NC,18-Nov,15
+ECG Stress tests,FU,18-Nov,0
+Holters,NC,18-Nov,17
+Holters,FU,18-Nov,0
+Lung Function tests,NC,18-Nov,10
+Lung Function tests,FU,18-Nov,0
+Echocardiograms,NC,18-Nov,25
+Echocardiograms,FU,18-Nov,0
+BP Monitoring,NC,18-Nov,3
+BP Monitoring,FU,18-Nov,0
+Acupuncture,NC,18-Dec,6
+Acupuncture,FU,18-Dec,33
+Pain,NC,18-Dec,3
+Pain,FU,18-Dec,4
+Pacemaker,NC,18-Dec,0
+Pacemaker,FU,18-Dec,0
+Heart Valve Clinic,NC,18-Dec,0
+Heart Valve Clinic,FU,18-Dec,0
+Cardiology,NC,18-Dec,10
+Cardiology,FU,18-Dec,81
+Dermatology,NC,18-Dec,49
+Dermatology,FU,18-Dec,49
+Diabetes Education Services.,NC,18-Dec,0
+Diabetes Education Services.,FU,18-Dec,0
+Diabetology,NC,18-Dec,7
+Diabetology,FU,18-Dec,63
+Audiology,NC,18-Dec,8
+Audiology,FU,18-Dec,24
+ENT,NC,18-Dec,26
+ENT,FU,18-Dec,16
+POC-ACC,NC,18-Dec,0
+POC-ACC,FU,18-Dec,307
+ACC,NC,18-Dec,1
+ACC,FU,18-Dec,66
+Medical,NC,18-Dec,59
+Medical,FU,18-Dec,157
+Juvenile,NC,18-Dec,4
+Juvenile,FU,18-Dec,9
+Endocrine,NC,18-Dec,2
+Endocrine,FU,18-Dec,2
+Rheumatology,NC,18-Dec,8
+Rheumatology,FU,18-Dec,11
+Neurology,NC,18-Dec,24
+Neurology,FU,18-Dec,19
+Naphrology,NC,18-Dec,0
+Naphrology,FU,18-Dec,0
+Dietician,NC,18-Dec,12
+Dietician,FU,18-Dec,15
+Fertility Care,NC,18-Dec,0
+Fertility Care,FU,18-Dec,0
+Naprotechnology,NC,18-Dec,2
+Naprotechnology,FU,18-Dec,2
+Antenatal,NC,18-Dec,"43,684"
+Antenatal,FU,18-Dec,19
+Postnatal,NC,18-Dec,0
+Postnatal,FU,18-Dec,326
+Gynaecology,NC,18-Dec,598
+Gynaecology,FU,18-Dec,80
+Oncology,NC,18-Dec,13
+Oncology,FU,18-Dec,107
+Palliative Care,NC,18-Dec,1
+Palliative Care,FU,18-Dec,7
+Ophthalmic,NC,18-Dec,70
+Ophthalmic,FU,18-Dec,115
+Glaucoma,NC,18-Dec,0
+Glaucoma,FU,18-Dec,0
+Visual Fields,NC,18-Dec,0
+Visual Fields,FU,18-Dec,2
+Orthopaedic,NC,18-Dec,78
+Orthopaedic,FU,18-Dec,112
+Orthopaedic,NC,18-Dec,58
+Orthopaedic,FU,18-Dec,57
+Surgical,NC,18-Dec,72
+Surgical,FU,18-Dec,148
+Thyroid,NC,18-Dec,0
+Thyroid,FU,18-Dec,0
+Urology,NC,18-Dec,17
+Urology,FU,18-Dec,40
+Breast clinic,NC,18-Dec,13
+Breast clinic,FU,18-Dec,11
+Respiratory Clinic,NC,18-Dec,0
+Respiratory Clinic,FU,18-Dec,0
+Multiple Sclerosis,NC,18-Dec,0
+Multiple Sclerosis,FU,18-Dec,0
+Colon Rectal Screening,NC,18-Dec,18
+Colon Rectal Screening,FU,18-Dec,5
+Cervical Screening,NC,18-Dec,14
+Cervical Screening,FU,18-Dec,2
+Detox,NC,18-Dec,1
+Detox,FU,18-Dec,395
+Dental,NC,18-Dec,21
+Dental,FU,18-Dec,60
+Bleeding Room,NC,18-Dec,
+Bleeding Room,FU,18-Dec,752
+Podiatry,NC,18-Dec,35
+Podiatry,FU,18-Dec,573
+Psychiatric-Including Child Guidance,NC,18-Dec,10
+Psychiatric-Including Child Guidance,FU,18-Dec,116
+Nutrition & Health Promotion,NC,18-Dec,0
+Nutrition & Health Promotion,FU,18-Dec,0
+Nutrition & Health Promotion,NC,18-Dec,26
+Nutrition & Health Promotion,FU,18-Dec,123
+Occupational Therapy (Physical),NC,18-Dec,14
+Occupational Therapy (Physical),FU,18-Dec,163
+Occupational Therapy (Psychiatric),NC,18-Dec,22
+Occupational Therapy (Psychiatric),FU,18-Dec,86
+Speech & Language Therapy,NC,18-Dec,3
+Speech & Language Therapy,FU,18-Dec,129
+Physiotherapy,NC,18-Dec,115
+Physiotherapy,FU,18-Dec,"1,126"
+Social Worker-Psychiatric,NC,18-Dec,2
+Social Worker-Psychiatric,FU,18-Dec,120
+Social Worker-Physical (Medical),NC,18-Dec,0
+Social Worker-Physical (Medical),FU,18-Dec,12
+Tissue Viability Clinic,NC,18-Dec,14
+Tissue Viability Clinic,FU,18-Dec,306
+Hyperbaric Unit-Oxygen treatment,NC,18-Dec,2
+Hyperbaric Unit-Oxygen treatment,FU,18-Dec,24
+Hyperbaric Unit-Emergency divers,NC,18-Dec,0
+Hyperbaric Unit-Emergency divers,FU,18-Dec,0
+12 Lead Electrocardiograms,NC,18-Dec,562
+12 Lead Electrocardiograms,FU,18-Dec,0
+ECG Stress tests,NC,18-Dec,19
+ECG Stress tests,FU,18-Dec,0
+Holters,NC,18-Dec,24
+Holters,FU,18-Dec,0
+Lung Function tests,NC,18-Dec,1
+Lung Function tests,FU,18-Dec,0
+Echocardiograms,NC,18-Dec,186
+Echocardiograms,FU,18-Dec,0
+BP Monitoring,NC,18-Dec,0
+BP Monitoring,FU,18-Dec,0
+Acupuncture,NC,19-Jan,4
+Acupuncture,FU,19-Jan,20
+Pain,NC,19-Jan,7
+Pain,FU,19-Jan,4
+Pacemaker,NC,19-Jan,0
+Pacemaker,FU,19-Jan,53
+Heart Valve Clinic,NC,19-Jan,0
+Heart Valve Clinic,FU,19-Jan,0
+Cardiology,NC,19-Jan,6
+Cardiology,FU,19-Jan,25
+Dermatology,NC,19-Jan,37
+Dermatology,FU,19-Jan,54
+Diabetes Education Services.,NC,19-Jan,0
+Diabetes Education Services.,FU,19-Jan,0
+Diabetology,NC,19-Jan,12
+Diabetology,FU,19-Jan,104
+Audiology,NC,19-Jan,11
+Audiology,FU,19-Jan,21
+ENT,NC,19-Jan,41
+ENT,FU,19-Jan,34
+POC-ACC,NC,19-Jan,0
+POC-ACC,FU,19-Jan,247
+ACC,NC,19-Jan,5
+ACC,FU,19-Jan,102
+Medical,NC,19-Jan,88
+Medical,FU,19-Jan,208
+Juvenile,NC,19-Jan,4
+Juvenile,FU,19-Jan,11
+Endocrine,NC,19-Jan,5
+Endocrine,FU,19-Jan,5
+Rheumatology,NC,19-Jan,13
+Rheumatology,FU,19-Jan,19
+Neurology,NC,19-Jan,28
+Neurology,FU,19-Jan,14
+Naphrology,NC,19-Jan,0
+Naphrology,FU,19-Jan,0
+Dietician,NC,19-Jan,15
+Dietician,FU,19-Jan,12
+Fertility Care,NC,19-Jan,1
+Fertility Care,FU,19-Jan,0
+Naprotechnology,NC,19-Jan,2
+Naprotechnology,FU,19-Jan,0
+Antenatal,NC,19-Jan,32
+Antenatal,FU,19-Jan,128
+Postnatal,NC,19-Jan,0
+Postnatal,FU,19-Jan,13
+Gynaecology,NC,19-Jan,55
+Gynaecology,FU,19-Jan,107
+Oncology,NC,19-Jan,7
+Oncology,FU,19-Jan,89
+Palliative Care,NC,19-Jan,1
+Palliative Care,FU,19-Jan,6
+Ophthalmic,NC,19-Jan,55
+Ophthalmic,FU,19-Jan,120
+Glaucoma,NC,19-Jan,0
+Glaucoma,FU,19-Jan,0
+Visual Fields,NC,19-Jan,2
+Visual Fields,FU,19-Jan,3
+Orthopaedic,NC,19-Jan,128
+Orthopaedic,FU,19-Jan,164
+Orthopaedic,NC,19-Jan,45
+Orthopaedic,FU,19-Jan,154
+Surgical,NC,19-Jan,131
+Surgical,FU,19-Jan,202
+Thyroid,NC,19-Jan,0
+Thyroid,FU,19-Jan,0
+Urology,NC,19-Jan,41
+Urology,FU,19-Jan,116
+Breast clinic,NC,19-Jan,15
+Breast clinic,FU,19-Jan,11
+Respiratory Clinic,NC,19-Jan,0
+Respiratory Clinic,FU,19-Jan,0
+Multiple Sclerosis,NC,19-Jan,0
+Multiple Sclerosis,FU,19-Jan,0
+Colon Rectal Screening,NC,19-Jan,35
+Colon Rectal Screening,FU,19-Jan,5
+Cervical Screening,NC,19-Jan,19
+Cervical Screening,FU,19-Jan,2
+Detox,NC,19-Jan,0
+Detox,FU,19-Jan,387
+Dental,NC,19-Jan,35
+Dental,FU,19-Jan,55
+Bleeding Room,NC,19-Jan,0
+Bleeding Room,FU,19-Jan,1078
+Podiatry,NC,19-Jan,63
+Podiatry,FU,19-Jan,784
+Psychiatric-Including Child Guidance,NC,19-Jan,14
+Psychiatric-Including Child Guidance,FU,19-Jan,204
+Nutrition & Health Promotion,NC,19-Jan,6
+Nutrition & Health Promotion,FU,19-Jan,23
+Nutrition & Health Promotion,NC,19-Jan,10
+Nutrition & Health Promotion,FU,19-Jan,144
+Occupational Therapy (Physical),NC,19-Jan,26
+Occupational Therapy (Physical),FU,19-Jan,218
+Occupational Therapy (Psychiatric),NC,19-Jan,8
+Occupational Therapy (Psychiatric),FU,19-Jan,55
+Speech & Language Therapy,NC,19-Jan,7
+Speech & Language Therapy,FU,19-Jan,134
+Physiotherapy,NC,19-Jan,146
+Physiotherapy,FU,19-Jan,1414
+Social Worker-Psychiatric,NC,19-Jan,18
+Social Worker-Psychiatric,FU,19-Jan,114
+Social Worker-Physical (Medical),NC,19-Jan,3
+Social Worker-Physical (Medical),FU,19-Jan,12
+Tissue Viability Clinic,NC,19-Jan,14
+Tissue Viability Clinic,FU,19-Jan,261
+Hyperbaric Unit-Oxygen treatment,NC,19-Jan,0
+Hyperbaric Unit-Oxygen treatment,FU,19-Jan,17
+Hyperbaric Unit-Emergency divers,NC,19-Jan,0
+Hyperbaric Unit-Emergency divers,FU,19-Jan,0
+12 Lead Electrocardiograms,NC,19-Jan,578
+12 Lead Electrocardiograms,FU,19-Jan,0
+ECG Stress tests,NC,19-Jan,12
+ECG Stress tests,FU,19-Jan,0
+Holters,NC,19-Jan,25
+Holters,FU,19-Jan,0
+Lung Function tests,NC,19-Jan,3
+Lung Function tests,FU,19-Jan,0
+Echocardiograms,NC,19-Jan,200
+Echocardiograms,FU,19-Jan,0
+BP Monitoring,NC,19-Jan,2
+BP Monitoring,FU,19-Jan,0
+Acupuncture,NC,19-Feb,1
+Acupuncture,FU,19-Feb,21
+Pain,NC,19-Feb,4
+Pain,FU,19-Feb,4
+Pacemaker,NC,19-Feb,0
+Pacemaker,FU,19-Feb,56
+Heart Valve Clinic,NC,19-Feb,0
+Heart Valve Clinic,FU,19-Feb,0
+Cardiology,NC,19-Feb,6
+Cardiology,FU,19-Feb,31
+Dermatology,NC,19-Feb,58
+Dermatology,FU,19-Feb,61
+Diabetes Education Services.,NC,19-Feb,0
+Diabetes Education Services.,FU,19-Feb,0
+Diabetology,NC,19-Feb,15
+Diabetology,FU,19-Feb,107
+Audiology,NC,19-Feb,11
+Audiology,FU,19-Feb,26
+ENT,NC,19-Feb,31
+ENT,FU,19-Feb,31
+POC-ACC,NC,19-Feb,0
+POC-ACC,FU,19-Feb,252
+ACC,NC,19-Feb,6
+ACC,FU,19-Feb,120
+Medical,NC,19-Feb,84
+Medical,FU,19-Feb,187
+Juvenile,NC,19-Feb,0
+Juvenile,FU,19-Feb,13
+Endocrine,NC,19-Feb,5
+Endocrine,FU,19-Feb,5
+Rheumatology,NC,19-Feb,12
+Rheumatology,FU,19-Feb,19
+Neurology,NC,19-Feb,28
+Neurology,FU,19-Feb,15
+Naphrology,NC,19-Feb,2
+Naphrology,FU,19-Feb,1
+Dietician,NC,19-Feb,11
+Dietician,FU,19-Feb,21
+Fertility Care,NC,19-Feb,2
+Fertility Care,FU,19-Feb,2
+Naprotechnology,NC,19-Feb,6
+Naprotechnology,FU,19-Feb,1
+Antenatal,NC,19-Feb,28
+Antenatal,FU,19-Feb,131
+Postnatal,NC,19-Feb,0
+Postnatal,FU,19-Feb,15
+Gynaecology,NC,19-Feb,70
+Gynaecology,FU,19-Feb,91
+Oncology,NC,19-Feb,9
+Oncology,FU,19-Feb,113
+Palliative Care,NC,19-Feb,1
+Palliative Care,FU,19-Feb,5
+Ophthalmic,NC,19-Feb,61
+Ophthalmic,FU,19-Feb,96
+Glaucoma,NC,19-Feb,0
+Glaucoma,FU,19-Feb,0
+Visual Fields,NC,19-Feb,3
+Visual Fields,FU,19-Feb,1
+Orthopaedic,NC,19-Feb,94
+Orthopaedic,FU,19-Feb,120
+Orthopaedic,NC,19-Feb,32
+Orthopaedic,FU,19-Feb,124
+Surgical,NC,19-Feb,110
+Surgical,FU,19-Feb,177
+Thyroid,NC,19-Feb,0
+Thyroid,FU,19-Feb,0
+Urology,NC,19-Feb,27
+Urology,FU,19-Feb,87
+Breast clinic,NC,19-Feb,15
+Breast clinic,FU,19-Feb,18
+Respiratory Clinic,NC,19-Feb,0
+Respiratory Clinic,FU,19-Feb,0
+Multiple Sclerosis,NC,19-Feb,0
+Multiple Sclerosis,FU,19-Feb,0
+Colon Rectal Screening,NC,19-Feb,24
+Colon Rectal Screening,FU,19-Feb,10
+Cervical Screening,NC,19-Feb,9
+Cervical Screening,FU,19-Feb,2
+Detox,NC,19-Feb,0
+Detox,FU,19-Feb,350
+Dental,NC,19-Feb,52
+Dental,FU,19-Feb,53
+Bleeding Room,NC,19-Feb,0
+Bleeding Room,FU,19-Feb,1000
+Podiatry,NC,19-Feb,55
+Podiatry,FU,19-Feb,764
+Psychiatric-Including Child Guidance,NC,19-Feb,11
+Psychiatric-Including Child Guidance,FU,19-Feb,190
+Nutrition & Health Promotion,NC,19-Feb,9
+Nutrition & Health Promotion,FU,19-Feb,31
+Nutrition & Health Promotion,NC,19-Feb,17
+Nutrition & Health Promotion,FU,19-Feb,108
+Occupational Therapy (Physical),NC,19-Feb,32
+Occupational Therapy (Physical),FU,19-Feb,242
+Occupational Therapy (Psychiatric),NC,19-Feb,6
+Occupational Therapy (Psychiatric),FU,19-Feb,62
+Speech & Language Therapy,NC,19-Feb,9
+Speech & Language Therapy,FU,19-Feb,134
+Physiotherapy,NC,19-Feb,132
+Physiotherapy,FU,19-Feb,1548
+Social Worker-Psychiatric,NC,19-Feb,5
+Social Worker-Psychiatric,FU,19-Feb,133
+Social Worker-Physical (Medical),NC,19-Feb,2
+Social Worker-Physical (Medical),FU,19-Feb,14
+Tissue Viability Clinic,NC,19-Feb,29
+Tissue Viability Clinic,FU,19-Feb,295
+Hyperbaric Unit-Oxygen treatment,NC,19-Feb,0
+Hyperbaric Unit-Oxygen treatment,FU,19-Feb,17
+Hyperbaric Unit-Emergency divers,NC,19-Feb,0
+Hyperbaric Unit-Emergency divers,FU,19-Feb,0
+12 Lead Electrocardiograms,NC,19-Feb,575
+12 Lead Electrocardiograms,FU,19-Feb,0
+ECG Stress tests,NC,19-Feb,16
+ECG Stress tests,FU,19-Feb,0
+Holters,NC,19-Feb,69
+Holters,FU,19-Feb,0
+Lung Function tests,NC,19-Feb,6
+Lung Function tests,FU,19-Feb,0
+Echocardiograms,NC,19-Feb,21
+Echocardiograms,FU,19-Feb,0
+BP Monitoring,NC,19-Feb,0
+BP Monitoring,FU,19-Feb,0
+Acupuncture,NC,19-Mar,13
+Acupuncture,FU,19-Mar,49
+Pain,NC,19-Mar,6
+Pain,FU,19-Mar,7
+Pacemaker,NC,19-Mar,0
+Pacemaker,FU,19-Mar,20
+Heart Valve Clinic,NC,19-Mar,0
+Heart Valve Clinic,FU,19-Mar,0
+Cardiology,NC,19-Mar,6
+Cardiology,FU,19-Mar,31
+Dermatology,NC,19-Mar,60
+Dermatology,FU,19-Mar,58
+Diabetes Education Services.,NC,19-Mar,0
+Diabetes Education Services.,FU,19-Mar,0
+Diabetology,NC,19-Mar,12
+Diabetology,FU,19-Mar,68
+Audiology,NC,19-Mar,10
+Audiology,FU,19-Mar,26
+ENT,NC,19-Mar,64
+ENT,FU,19-Mar,43
+POC-ACC,NC,19-Mar,0
+POC-ACC,FU,19-Mar,225
+ACC,NC,19-Mar,1
+ACC,FU,19-Mar,109
+Medical,NC,19-Mar,92
+Medical,FU,19-Mar,195
+Juvenile,NC,19-Mar,3
+Juvenile,FU,19-Mar,8
+Endocrine,NC,19-Mar,3
+Endocrine,FU,19-Mar,8
+Rheumatology,NC,19-Mar,14
+Rheumatology,FU,19-Mar,21
+Neurology,NC,19-Mar,15
+Neurology,FU,19-Mar,11
+Naphrology,NC,19-Mar,5
+Naphrology,FU,19-Mar,2
+Dietician,NC,19-Mar,12
+Dietician,FU,19-Mar,9
+Fertility Care,NC,19-Mar,3
+Fertility Care,FU,19-Mar,2
+Naprotechnology,NC,19-Mar,3
+Naprotechnology,FU,19-Mar,7
+Antenatal,NC,19-Mar,24
+Antenatal,FU,19-Mar,151
+Postnatal,NC,19-Mar,0
+Postnatal,FU,19-Mar,12
+Gynaecology,NC,19-Mar,72
+Gynaecology,FU,19-Mar,128
+Oncology,NC,19-Mar,10
+Oncology,FU,19-Mar,118
+Palliative Care,NC,19-Mar,2
+Palliative Care,FU,19-Mar,6
+Ophthalmic,NC,19-Mar,64
+Ophthalmic,FU,19-Mar,107
+Glaucoma,NC,19-Mar,0
+Glaucoma,FU,19-Mar,4
+Visual Fields,NC,19-Mar,0
+Visual Fields,FU,19-Mar,1
+Orthopaedic,NC,19-Mar,140
+Orthopaedic,FU,19-Mar,128
+Orthopaedic,NC,19-Mar,32
+Orthopaedic,FU,19-Mar,135
+Surgical,NC,19-Mar,145
+Surgical,FU,19-Mar,202
+Thyroid,NC,19-Mar,0
+Thyroid,FU,19-Mar,0
+Urology,NC,19-Mar,36
+Urology,FU,19-Mar,103
+Breast clinic,NC,19-Mar,17
+Breast clinic,FU,19-Mar,19
+Respiratory Clinic,NC,19-Mar,0
+Respiratory Clinic,FU,19-Mar,0
+Multiple Sclerosis,NC,19-Mar,0
+Multiple Sclerosis,FU,19-Mar,0
+Colon Rectal Screening,NC,19-Mar,26
+Colon Rectal Screening,FU,19-Mar,5
+Cervical Screening,NC,19-Mar,24
+Cervical Screening,FU,19-Mar,3
+Detox,NC,19-Mar,0
+Detox,FU,19-Mar,367
+Dental,NC,19-Mar,92
+Dental,FU,19-Mar,36
+Bleeding Room,NC,19-Mar,0
+Bleeding Room,FU,19-Mar,1026
+Podiatry,NC,19-Mar,68
+Podiatry,FU,19-Mar,802
+Psychiatric-Including Child Guidance,NC,19-Mar,8
+Psychiatric-Including Child Guidance,FU,19-Mar,193
+Nutrition & Health Promotion,NC,19-Mar,5
+Nutrition & Health Promotion,FU,19-Mar,26
+Nutrition & Health Promotion,NC,19-Mar,14
+Nutrition & Health Promotion,FU,19-Mar,144
+Occupational Therapy (Physical),NC,19-Mar,25
+Occupational Therapy (Physical),FU,19-Mar,239
+Occupational Therapy (Psychiatric),NC,19-Mar,6
+Occupational Therapy (Psychiatric),FU,19-Mar,66
+Speech & Language Therapy,NC,19-Mar,6
+Speech & Language Therapy,FU,19-Mar,130
+Physiotherapy,NC,19-Mar,161
+Physiotherapy,FU,19-Mar,1538
+Social Worker-Psychiatric,NC,19-Mar,1
+Social Worker-Psychiatric,FU,19-Mar,137
+Social Worker-Physical (Medical),NC,19-Mar,0
+Social Worker-Physical (Medical),FU,19-Mar,16
+Tissue Viability Clinic,NC,19-Mar,27
+Tissue Viability Clinic,FU,19-Mar,277
+Hyperbaric Unit-Oxygen treatment,NC,19-Mar,1
+Hyperbaric Unit-Oxygen treatment,FU,19-Mar,17
+Hyperbaric Unit-Emergency divers,NC,19-Mar,1
+Hyperbaric Unit-Emergency divers,FU,19-Mar,0
+12 Lead Electrocardiograms,NC,19-Mar,525
+12 Lead Electrocardiograms,FU,19-Mar,0
+ECG Stress tests,NC,19-Mar,18
+ECG Stress tests,FU,19-Mar,0
+Holters,NC,19-Mar,45
+Holters,FU,19-Mar,0
+Lung Function tests,NC,19-Mar,2
+Lung Function tests,FU,19-Mar,0
+Echocardiograms,NC,19-Mar,33
+Echocardiograms,FU,19-Mar,0
+BP Monitoring,NC,19-Mar,0
+BP Monitoring,FU,19-Mar,0
+Acupuncture,NC,19-Apr,10
+Acupuncture,FU,19-Apr,60
+Pain,NC,19-Apr,5
+Pain,FU,19-Apr,4
+Pacemaker,NC,19-Apr,0
+Pacemaker,FU,19-Apr,43
+Heart Valve Clinic,NC,19-Apr,0
+Heart Valve Clinic,FU,19-Apr,0
+Cardiology,NC,19-Apr,9
+Cardiology,FU,19-Apr,25
+Dermatology,NC,19-Apr,52
+Dermatology,FU,19-Apr,58
+Diabetes Education Services.,NC,19-Apr,0
+Diabetes Education Services.,FU,19-Apr,0
+Diabetology,NC,19-Apr,11
+Diabetology,FU,19-Apr,66
+Audiology,NC,19-Apr,24
+Audiology,FU,19-Apr,19
+ENT,NC,19-Apr,30
+ENT,FU,19-Apr,16
+POC-ACC,NC,19-Apr,0
+POC-ACC,FU,19-Apr,256
+ACC,NC,19-Apr,4
+ACC,FU,19-Apr,149
+Medical,NC,19-Apr,63
+Medical,FU,19-Apr,169
+Juvenile,NC,19-Apr,0
+Juvenile,FU,19-Apr,6
+Endocrine,NC,19-Apr,6
+Endocrine,FU,19-Apr,14
+Rheumatology,NC,19-Apr,8
+Rheumatology,FU,19-Apr,20
+Neurology,NC,19-Apr,22
+Neurology,FU,19-Apr,28
+Naphrology,NC,19-Apr,3
+Naphrology,FU,19-Apr,2
+Dietician,NC,19-Apr,14
+Dietician,FU,19-Apr,14
+Fertility Care,NC,19-Apr,4
+Fertility Care,FU,19-Apr,3
+Naprotechnology,NC,19-Apr,8
+Naprotechnology,FU,19-Apr,7
+Antenatal,NC,19-Apr,14
+Antenatal,FU,19-Apr,138
+Postnatal,NC,19-Apr,0
+Postnatal,FU,19-Apr,8
+Gynaecology,NC,19-Apr,57
+Gynaecology,FU,19-Apr,84
+Oncology,NC,19-Apr,6
+Oncology,FU,19-Apr,116
+Palliative Care,NC,19-Apr,4
+Palliative Care,FU,19-Apr,3
+Ophthalmic,NC,19-Apr,62
+Ophthalmic,FU,19-Apr,117
+Glaucoma,NC,19-Apr,4
+Glaucoma,FU,19-Apr,16
+Visual Fields,NC,19-Apr,0
+Visual Fields,FU,19-Apr,1
+Orthopaedic,NC,19-Apr,96
+Orthopaedic,FU,19-Apr,145
+Orthopaedic,NC,19-Apr,44
+Orthopaedic,FU,19-Apr,143
+Surgical,NC,19-Apr,117
+Surgical,FU,19-Apr,178
+Thyroid,NC,19-Apr,0
+Thyroid,FU,19-Apr,0
+Urology,NC,19-Apr,25
+Urology,FU,19-Apr,110
+Breast clinic,NC,19-Apr,13
+Breast clinic,FU,19-Apr,23
+Respiratory Clinic,NC,19-Apr,0
+Respiratory Clinic,FU,19-Apr,0
+Multiple Sclerosis,NC,19-Apr,0
+Multiple Sclerosis,FU,19-Apr,0
+Colon Rectal Screening,NC,19-Apr,23
+Colon Rectal Screening,FU,19-Apr,7
+Cervical Screening,NC,19-Apr,23
+Cervical Screening,FU,19-Apr,1
+Detox,NC,19-Apr,2
+Detox,FU,19-Apr,366
+Dental,NC,19-Apr,389
+Dental,FU,19-Apr,125
+Bleeding Room,NC,19-Apr,0
+Bleeding Room,FU,19-Apr,947
+Podiatry,NC,19-Apr,50
+Podiatry,FU,19-Apr,696
+Psychiatric-Including Child Guidance,NC,19-Apr,12
+Psychiatric-Including Child Guidance,FU,19-Apr,213
+Nutrition & Health Promotion,NC,19-Apr,6
+Nutrition & Health Promotion,FU,19-Apr,24
+Nutrition & Health Promotion,NC,19-Apr,14
+Nutrition & Health Promotion,FU,19-Apr,127
+Occupational Therapy (Physical),NC,19-Apr,22
+Occupational Therapy (Physical),FU,19-Apr,264
+Occupational Therapy (Psychiatric),NC,19-Apr,8
+Occupational Therapy (Psychiatric),FU,19-Apr,76
+Speech & Language Therapy,NC,19-Apr,3
+Speech & Language Therapy,FU,19-Apr,141
+Physiotherapy,NC,19-Apr,127
+Physiotherapy,FU,19-Apr,1632
+Social Worker-Psychiatric,NC,19-Apr,6
+Social Worker-Psychiatric,FU,19-Apr,138
+Social Worker-Physical (Medical),NC,19-Apr,1
+Social Worker-Physical (Medical),FU,19-Apr,16
+Tissue Viability Clinic,NC,19-Apr,16
+Tissue Viability Clinic,FU,19-Apr,241
+Hyperbaric Unit-Oxygen treatment,NC,19-Apr,0
+Hyperbaric Unit-Oxygen treatment,FU,19-Apr,20
+Hyperbaric Unit-Emergency divers,NC,19-Apr,0
+Hyperbaric Unit-Emergency divers,FU,19-Apr,0
+12 Lead Electrocardiograms,NC,19-Apr,560
+12 Lead Electrocardiograms,FU,19-Apr,0
+ECG Stress tests,NC,19-Apr,38
+ECG Stress tests,FU,19-Apr,0
+Holters,NC,19-Apr,25
+Holters,FU,19-Apr,0
+Lung Function tests,NC,19-Apr,7
+Lung Function tests,FU,19-Apr,0
+Echocardiograms,NC,19-Apr,33
+Echocardiograms,FU,19-Apr,0
+BP Monitoring,NC,19-Apr,12
+BP Monitoring,FU,19-Apr,0
+Acupuncture,NC,19-May,10
+Acupuncture,FU,19-May,50
+Pain,NC,19-May,4
+Pain,FU,19-May,6
+Pacemaker,NC,19-May,0
+Pacemaker,FU,19-May,42
+Heart Valve Clinic,NC,19-May,0
+Heart Valve Clinic,FU,19-May,0
+Cardiology,NC,19-May,5
+Cardiology,FU,19-May,11
+Dermatology,NC,19-May,44
+Dermatology,FU,19-May,71
+Diabetes Education Services.,NC,19-May,0
+Diabetes Education Services.,FU,19-May,0
+Diabetology,NC,19-May,44
+Diabetology,FU,19-May,71
+Audiology,NC,19-May,18
+Audiology,FU,19-May,14
+ENT,NC,19-May,53
+ENT,FU,19-May,31
+POC-ACC,NC,19-May,0
+POC-ACC,FU,19-May,275
+ACC,NC,19-May,4
+ACC,FU,19-May,104
+Medical,NC,19-May,74
+Medical,FU,19-May,188
+Juvenile,NC,19-May,2
+Juvenile,FU,19-May,9
+Endocrine,NC,19-May,1
+Endocrine,FU,19-May,11
+Rheumatology,NC,19-May,8
+Rheumatology,FU,19-May,25
+Neurology,NC,19-May,30
+Neurology,FU,19-May,24
+Naphrology,NC,19-May,5
+Naphrology,FU,19-May,3
+Dietician,NC,19-May,19
+Dietician,FU,19-May,18
+Fertility Care,NC,19-May,2
+Fertility Care,FU,19-May,3
+Naprotechnology,NC,19-May,1
+Naprotechnology,FU,19-May,5
+Antenatal,NC,19-May,36
+Antenatal,FU,19-May,162
+Postnatal,NC,19-May,0
+Postnatal,FU,19-May,13
+Gynaecology,NC,19-May,61
+Gynaecology,FU,19-May,113
+Oncology,NC,19-May,5
+Oncology,FU,19-May,105
+Palliative Care,NC,19-May,1
+Palliative Care,FU,19-May,4
+Ophthalmic,NC,19-May,55
+Ophthalmic,FU,19-May,116
+Glaucoma,NC,19-May,2
+Glaucoma,FU,19-May,5
+Visual Fields,NC,19-May,0
+Visual Fields,FU,19-May,4
+Orthopaedic,NC,19-May,167
+Orthopaedic,FU,19-May,159
+Orthopaedic,NC,19-May,37
+Orthopaedic,FU,19-May,156
+Surgical,NC,19-May,112
+Surgical,FU,19-May,235
+Thyroid,NC,19-May,0
+Thyroid,FU,19-May,0
+Urology,NC,19-May,31
+Urology,FU,19-May,107
+Breast clinic,NC,19-May,14
+Breast clinic,FU,19-May,21
+Respiratory Clinic,NC,19-May,0
+Respiratory Clinic,FU,19-May,0
+Multiple Sclerosis,NC,19-May,0
+Multiple Sclerosis,FU,19-May,0
+Colon Rectal Screening,NC,19-May,28
+Colon Rectal Screening,FU,19-May,7
+Cervical Screening,NC,19-May,25
+Cervical Screening,FU,19-May,0
+Detox,NC,19-May,1
+Detox,FU,19-May,430
+Dental,NC,19-May,312
+Dental,FU,19-May,189
+Bleeding Room,NC,19-May,0
+Bleeding Room,FU,19-May,1057
+Podiatry,NC,19-May,86
+Podiatry,FU,19-May,795
+Psychiatric-Including Child Guidance,NC,19-May,8
+Psychiatric-Including Child Guidance,FU,19-May,193
+Nutrition & Health Promotion,NC,19-May,7
+Nutrition & Health Promotion,FU,19-May,21
+Nutrition & Health Promotion,NC,19-May,14
+Nutrition & Health Promotion,FU,19-May,139
+Occupational Therapy (Physical),NC,19-May,37
+Occupational Therapy (Physical),FU,19-May,369
+Occupational Therapy (Psychiatric),NC,19-May,11
+Occupational Therapy (Psychiatric),FU,19-May,86
+Speech & Language Therapy,NC,19-May,9
+Speech & Language Therapy,FU,19-May,146
+Physiotherapy,NC,19-May,153
+Physiotherapy,FU,19-May,1514
+Social Worker-Psychiatric,NC,19-May,1
+Social Worker-Psychiatric,FU,19-May,144
+Social Worker-Physical (Medical),NC,19-May,1
+Social Worker-Physical (Medical),FU,19-May,17
+Tissue Viability Clinic,NC,19-May,30
+Tissue Viability Clinic,FU,19-May,249
+Hyperbaric Unit-Oxygen treatment,NC,19-May,1
+Hyperbaric Unit-Oxygen treatment,FU,19-May,19
+Hyperbaric Unit-Emergency divers,NC,19-May,1
+Hyperbaric Unit-Emergency divers,FU,19-May,1
+12 Lead Electrocardiograms,NC,19-May,515
+12 Lead Electrocardiograms,FU,19-May,0
+ECG Stress tests,NC,19-May,21
+ECG Stress tests,FU,19-May,0
+Holters,NC,19-May,22
+Holters,FU,19-May,0
+Lung Function tests,NC,19-May,22
+Lung Function tests,FU,19-May,0
+Echocardiograms,NC,19-May,38
+Echocardiograms,FU,19-May,0
+BP Monitoring,NC,19-May,18
+BP Monitoring,FU,19-May,0
+Acupuncture,NC,19-Jun,11
+Acupuncture,FU,19-Jun,58
+Pain,NC,19-Jun,5
+Pain,FU,19-Jun,2
+Pacemaker,NC,19-Jun,0
+Pacemaker,FU,19-Jun,44
+Heart Valve Clinic,NC,19-Jun,0
+Heart Valve Clinic,FU,19-Jun,0
+Cardiology,NC,19-Jun,6
+Cardiology,FU,19-Jun,19
+Dermatology,NC,19-Jun,51
+Dermatology,FU,19-Jun,43
+Diabetes Education Services.,NC,19-Jun,0
+Diabetes Education Services.,FU,19-Jun,0
+Diabetology,NC,19-Jun,11
+Diabetology,FU,19-Jun,72
+Audiology,NC,19-Jun,27
+Audiology,FU,19-Jun,5
+ENT,NC,19-Jun,28
+ENT,FU,19-Jun,18
+POC-ACC,NC,19-Jun,0
+POC-ACC,FU,19-Jun,206
+ACC,NC,19-Jun,2
+ACC,FU,19-Jun,104
+Medical,NC,19-Jun,74
+Medical,FU,19-Jun,160
+Juvenile,NC,19-Jun,5
+Juvenile,FU,19-Jun,10
+Endocrine,NC,19-Jun,6
+Endocrine,FU,19-Jun,9
+Rheumatology,NC,19-Jun,5
+Rheumatology,FU,19-Jun,12
+Neurology,NC,19-Jun,31
+Neurology,FU,19-Jun,24
+Naphrology,NC,19-Jun,3
+Naphrology,FU,19-Jun,3
+Dietician,NC,19-Jun,16
+Dietician,FU,19-Jun,9
+Fertility Care,NC,19-Jun,2
+Fertility Care,FU,19-Jun,1
+Naprotechnology,NC,19-Jun,7
+Naprotechnology,FU,19-Jun,1
+Antenatal,NC,19-Jun,23
+Antenatal,FU,19-Jun,148
+Postnatal,NC,19-Jun,0
+Postnatal,FU,19-Jun,11
+Gynaecology,NC,19-Jun,45
+Gynaecology,FU,19-Jun,71
+Oncology,NC,19-Jun,8
+Oncology,FU,19-Jun,115
+Palliative Care,NC,19-Jun,2
+Palliative Care,FU,19-Jun,4
+Ophthalmic,NC,19-Jun,67
+Ophthalmic,FU,19-Jun,105
+Glaucoma,NC,19-Jun,1
+Glaucoma,FU,19-Jun,6
+Visual Fields,NC,19-Jun,0
+Visual Fields,FU,19-Jun,2
+Orthopaedic,NC,19-Jun,115
+Orthopaedic,FU,19-Jun,138
+Orthopaedic,NC,19-Jun,30
+Orthopaedic,FU,19-Jun,134
+Surgical,NC,19-Jun,106
+Surgical,FU,19-Jun,158
+Thyroid,NC,19-Jun,0
+Thyroid,FU,19-Jun,0
+Urology,NC,19-Jun,36
+Urology,FU,19-Jun,54
+Breast clinic,NC,19-Jun,18
+Breast clinic,FU,19-Jun,15
+Respiratory Clinic,NC,19-Jun,0
+Respiratory Clinic,FU,19-Jun,0
+Multiple Sclerosis,NC,19-Jun,0
+Multiple Sclerosis,FU,19-Jun,0
+Colon Rectal Screening,NC,19-Jun,20
+Colon Rectal Screening,FU,19-Jun,4
+Cervical Screening,NC,19-Jun,30
+Cervical Screening,FU,19-Jun,2
+Detox,NC,19-Jun,1
+Detox,FU,19-Jun,445
+Dental,NC,19-Jun,202
+Dental,FU,19-Jun,240
+Bleeding Room,NC,19-Jun,0
+Bleeding Room,FU,19-Jun,899
+Podiatry,NC,19-Jun,68
+Podiatry,FU,19-Jun,777
+Psychiatric-Including Child Guidance,NC,19-Jun,13
+Psychiatric-Including Child Guidance,FU,19-Jun,158
+Nutrition & Health Promotion,NC,19-Jun,5
+Nutrition & Health Promotion,FU,19-Jun,22
+Nutrition & Health Promotion,NC,19-Jun,8
+Nutrition & Health Promotion,FU,19-Jun,130
+Occupational Therapy (Physical),NC,19-Jun,2
+Occupational Therapy (Physical),FU,19-Jun,222
+Occupational Therapy (Psychiatric),NC,19-Jun,8
+Occupational Therapy (Psychiatric),FU,19-Jun,70
+Speech & Language Therapy,NC,19-Jun,16
+Speech & Language Therapy,FU,19-Jun,153
+Physiotherapy,NC,19-Jun,174
+Physiotherapy,FU,19-Jun,1365
+Social Worker-Psychiatric,NC,19-Jun,2
+Social Worker-Psychiatric,FU,19-Jun,138
+Social Worker-Physical (Medical),NC,19-Jun,0
+Social Worker-Physical (Medical),FU,19-Jun,18
+Tissue Viability Clinic,NC,19-Jun,24
+Tissue Viability Clinic,FU,19-Jun,343
+Hyperbaric Unit-Oxygen treatment,NC,19-Jun,1
+Hyperbaric Unit-Oxygen treatment,FU,19-Jun,18
+Hyperbaric Unit-Emergency divers,NC,19-Jun,2
+Hyperbaric Unit-Emergency divers,FU,19-Jun,1
+12 Lead Electrocardiograms,NC,19-Jun,535
+12 Lead Electrocardiograms,FU,19-Jun,0
+ECG Stress tests,NC,19-Jun,18
+ECG Stress tests,FU,19-Jun,0
+Holters,NC,19-Jun,18
+Holters,FU,19-Jun,0
+Lung Function tests,NC,19-Jun,1
+Lung Function tests,FU,19-Jun,0
+Echocardiograms,NC,19-Jun,13
+Echocardiograms,FU,19-Jun,0
+BP Monitoring,NC,19-Jun,7
+BP Monitoring,FU,19-Jun,0
+Acupuncture,NC,19-Jul,12
+Acupuncture,FU,19-Jul,88
+Pain,NC,19-Jul,6
+Pain,FU,19-Jul,3
+Pacemaker,NC,19-Jul,0
+Pacemaker,FU,19-Jul,39
+Heart Valve Clinic,NC,19-Jul,0
+Heart Valve Clinic,FU,19-Jul,0
+Cardiology,NC,19-Jul,16
+Cardiology,FU,19-Jul,37
+Dermatology,NC,19-Jul,57
+Dermatology,FU,19-Jul,69
+Diabetes Education Services.,NC,19-Jul,0
+Diabetes Education Services.,FU,19-Jul,0
+Diabetology,NC,19-Jul,13
+Diabetology,FU,19-Jul,86
+Audiology,NC,19-Jul,15
+Audiology,FU,19-Jul,12
+ENT,NC,19-Jul,39
+ENT,FU,19-Jul,26
+POC-ACC,NC,19-Jul,0
+POC-ACC,FU,19-Jul,211
+ACC,NC,19-Jul,3
+ACC,FU,19-Jul,110
+Medical,NC,19-Jul,81
+Medical,FU,19-Jul,172
+Juvenile,NC,19-Jul,4
+Juvenile,FU,19-Jul,5
+Endocrine,NC,19-Jul,6
+Endocrine,FU,19-Jul,6
+Rheumatology,NC,19-Jul,9
+Rheumatology,FU,19-Jul,24
+Neurology,NC,19-Jul,33
+Neurology,FU,19-Jul,41
+Naphrology,NC,19-Jul,3
+Naphrology,FU,19-Jul,7
+Dietician,NC,19-Jul,15
+Dietician,FU,19-Jul,24
+Fertility Care,NC,19-Jul,0
+Fertility Care,FU,19-Jul,1
+Naprotechnology,NC,19-Jul,3
+Naprotechnology,FU,19-Jul,2
+Antenatal,NC,19-Jul,22
+Antenatal,FU,19-Jul,178
+Postnatal,NC,19-Jul,0
+Postnatal,FU,19-Jul,15
+Gynaecology,NC,19-Jul,56
+Gynaecology,FU,19-Jul,88
+Oncology,NC,19-Jul,8
+Oncology,FU,19-Jul,132
+Palliative Care,NC,19-Jul,1
+Palliative Care,FU,19-Jul,3
+Ophthalmic,NC,19-Jul,117
+Ophthalmic,FU,19-Jul,178
+Glaucoma,NC,19-Jul,1
+Glaucoma,FU,19-Jul,8
+Visual Fields,NC,19-Jul,0
+Visual Fields,FU,19-Jul,3
+Orthopaedic,NC,19-Jul,106
+Orthopaedic,FU,19-Jul,144
+Orthopaedic,NC,19-Jul,32
+Orthopaedic,FU,19-Jul,137
+Surgical,NC,19-Jul,116
+Surgical,FU,19-Jul,172
+Thyroid,NC,19-Jul,0
+Thyroid,FU,19-Jul,0
+Urology,NC,19-Jul,31
+Urology,FU,19-Jul,90
+Breast clinic,NC,19-Jul,16
+Breast clinic,FU,19-Jul,13
+Respiratory Clinic,NC,19-Jul,0
+Respiratory Clinic,FU,19-Jul,0
+Multiple Sclerosis,NC,19-Jul,0
+Multiple Sclerosis,FU,19-Jul,0
+Colon Rectal Screening,NC,19-Jul,19
+Colon Rectal Screening,FU,19-Jul,9
+Cervical Screening,NC,19-Jul,5
+Cervical Screening,FU,19-Jul,4
+Detox,NC,19-Jul,0
+Detox,FU,19-Jul,432
+Dental,NC,19-Jul,225
+Dental,FU,19-Jul,289
+Bleeding Room,NC,19-Jul,0
+Bleeding Room,FU,19-Jul,1022
+Podiatry,NC,19-Jul,79
+Podiatry,FU,19-Jul,765
+Psychiatric-Including Child Guidance,NC,19-Jul,12
+Psychiatric-Including Child Guidance,FU,19-Jul,242
+Nutrition & Health Promotion,NC,19-Jul,6
+Nutrition & Health Promotion,FU,19-Jul,18
+Nutrition & Health Promotion,NC,19-Jul,13
+Nutrition & Health Promotion,FU,19-Jul,136
+Occupational Therapy (Physical),NC,19-Jul,26
+Occupational Therapy (Physical),FU,19-Jul,151
+Occupational Therapy (Psychiatric),NC,19-Jul,10
+Occupational Therapy (Psychiatric),FU,19-Jul,89
+Speech & Language Therapy,NC,19-Jul,16
+Speech & Language Therapy,FU,19-Jul,187
+Physiotherapy,NC,19-Jul,162
+Physiotherapy,FU,19-Jul,1473
+Social Worker-Psychiatric,NC,19-Jul,1
+Social Worker-Psychiatric,FU,19-Jul,137
+Social Worker-Physical (Medical),NC,19-Jul,0
+Social Worker-Physical (Medical),FU,19-Jul,14
+Tissue Viability Clinic,NC,19-Jul,35
+Tissue Viability Clinic,FU,19-Jul,333
+Hyperbaric Unit-Oxygen treatment,NC,19-Jul,1
+Hyperbaric Unit-Oxygen treatment,FU,19-Jul,21
+Hyperbaric Unit-Emergency divers,NC,19-Jul,0
+Hyperbaric Unit-Emergency divers,FU,19-Jul,0
+12 Lead Electrocardiograms,NC,19-Jul,560
+12 Lead Electrocardiograms,FU,19-Jul,0
+ECG Stress tests,NC,19-Jul,11
+ECG Stress tests,FU,19-Jul,0
+Holters,NC,19-Jul,19
+Holters,FU,19-Jul,0
+Lung Function tests,NC,19-Jul,2
+Lung Function tests,FU,19-Jul,0
+Echocardiograms,NC,19-Jul,27
+Echocardiograms,FU,19-Jul,0
+BP Monitoring,NC,19-Jul,4
+BP Monitoring,FU,19-Jul,0
+Acupuncture,NC,19-Aug,7
+Acupuncture,FU,19-Aug,60
+Pain,NC,19-Aug,8
+Pain,FU,19-Aug,5
+Pacemaker,NC,19-Aug,0
+Pacemaker,FU,19-Aug,45
+Heart Valve Clinic,NC,19-Aug,0
+Heart Valve Clinic,FU,19-Aug,0
+Cardiology,NC,19-Aug,10
+Cardiology,FU,19-Aug,24
+Dermatology,NC,19-Aug,52
+Dermatology,FU,19-Aug,59
+Diabetes Education Services.,NC,19-Aug,0
+Diabetes Education Services.,FU,19-Aug,0
+Diabetology,NC,19-Aug,10
+Diabetology,FU,19-Aug,75
+Audiology,NC,19-Aug,9
+Audiology,FU,19-Aug,20
+ENT,NC,19-Aug,33
+ENT,FU,19-Aug,28
+POC-ACC,NC,19-Aug,0
+POC-ACC,FU,19-Aug,228
+ACC,NC,19-Aug,1
+ACC,FU,19-Aug,110
+Medical,NC,19-Aug,70
+Medical,FU,19-Aug,160
+Juvenile,NC,19-Aug,4
+Juvenile,FU,19-Aug,2
+Endocrine,NC,19-Aug,8
+Endocrine,FU,19-Aug,7
+Rheumatology,NC,19-Aug,10
+Rheumatology,FU,19-Aug,16
+Neurology,NC,19-Aug,25
+Neurology,FU,19-Aug,35
+Naphrology,NC,19-Aug,3
+Naphrology,FU,19-Aug,6
+Dietician,NC,19-Aug,13
+Dietician,FU,19-Aug,10
+Fertility Care,NC,19-Aug,0
+Fertility Care,FU,19-Aug,2
+Naprotechnology,NC,19-Aug,9
+Naprotechnology,FU,19-Aug,3
+Antenatal,NC,19-Aug,20
+Antenatal,FU,19-Aug,194
+Postnatal,NC,19-Aug,0
+Postnatal,FU,19-Aug,15
+Gynaecology,NC,19-Aug,45
+Gynaecology,FU,19-Aug,98
+Oncology,NC,19-Aug,5
+Oncology,FU,19-Aug,129
+Palliative Care,NC,19-Aug,3
+Palliative Care,FU,19-Aug,7
+Ophthalmic,NC,19-Aug,113
+Ophthalmic,FU,19-Aug,143
+Glaucoma,NC,19-Aug,1
+Glaucoma,FU,19-Aug,1
+Visual Fields,NC,19-Aug,1
+Visual Fields,FU,19-Aug,3
+Orthopaedic,NC,19-Aug,81
+Orthopaedic,FU,19-Aug,122
+Orthopaedic,NC,19-Aug,42
+Orthopaedic,FU,19-Aug,120
+Surgical,NC,19-Aug,133
+Surgical,FU,19-Aug,183
+Thyroid,NC,19-Aug,0
+Thyroid,FU,19-Aug,0
+Urology,NC,19-Aug,29
+Urology,FU,19-Aug,75
+Breast clinic,NC,19-Aug,23
+Breast clinic,FU,19-Aug,18
+Respiratory Clinic,NC,19-Aug,0
+Respiratory Clinic,FU,19-Aug,0
+Multiple Sclerosis,NC,19-Aug,0
+Multiple Sclerosis,FU,19-Aug,0
+Colon Rectal Screening,NC,19-Aug,29
+Colon Rectal Screening,FU,19-Aug,9
+Cervical Screening,NC,19-Aug,18
+Cervical Screening,FU,19-Aug,1
+Detox,NC,19-Aug,1
+Detox,FU,19-Aug,435
+Dental,NC,19-Aug,152
+Dental,FU,19-Aug,340
+Bleeding Room,NC,19-Aug,0
+Bleeding Room,FU,19-Aug,916
+Podiatry,NC,19-Aug,6
+Podiatry,FU,19-Aug,779
+Psychiatric-Including Child Guidance,NC,19-Aug,13
+Psychiatric-Including Child Guidance,FU,19-Aug,163
+Nutrition & Health Promotion,NC,19-Aug,3
+Nutrition & Health Promotion,FU,19-Aug,19
+Nutrition & Health Promotion,NC,19-Aug,2
+Nutrition & Health Promotion,FU,19-Aug,118
+Occupational Therapy (Physical),NC,19-Aug,22
+Occupational Therapy (Physical),FU,19-Aug,216
+Occupational Therapy (Psychiatric),NC,19-Aug,10
+Occupational Therapy (Psychiatric),FU,19-Aug,64
+Speech & Language Therapy,NC,19-Aug,9
+Speech & Language Therapy,FU,19-Aug,202
+Physiotherapy,NC,19-Aug,154
+Physiotherapy,FU,19-Aug,1278
+Social Worker-Psychiatric,NC,19-Aug,4
+Social Worker-Psychiatric,FU,19-Aug,140
+Social Worker-Physical (Medical),NC,19-Aug,0
+Social Worker-Physical (Medical),FU,19-Aug,14
+Tissue Viability Clinic,NC,19-Aug,28
+Tissue Viability Clinic,FU,19-Aug,340
+Hyperbaric Unit-Oxygen treatment,NC,19-Aug,0
+Hyperbaric Unit-Oxygen treatment,FU,19-Aug,21
+Hyperbaric Unit-Emergency divers,NC,19-Aug,3
+Hyperbaric Unit-Emergency divers,FU,19-Aug,2
+12 Lead Electrocardiograms,NC,19-Aug,525
+12 Lead Electrocardiograms,FU,19-Aug,0
+ECG Stress tests,NC,19-Aug,19
+ECG Stress tests,FU,19-Aug,0
+Holters,NC,19-Aug,14
+Holters,FU,19-Aug,0
+Lung Function tests,NC,19-Aug,5
+Lung Function tests,FU,19-Aug,0
+Echocardiograms,NC,19-Aug,1
+Echocardiograms,FU,19-Aug,0
+BP Monitoring,NC,19-Aug,4
+BP Monitoring,FU,19-Aug,0
+Acupuncture,NC,19-Sep,9
+Acupuncture,FU,19-Sep,61
+Pain,NC,19-Sep,5
+Pain,FU,19-Sep,3
+Pacemaker,NC,19-Sep,0
+Pacemaker,FU,19-Sep,37
+Heart Valve Clinic,NC,19-Sep,0
+Heart Valve Clinic,FU,19-Sep,0
+Cardiology,NC,19-Sep,5
+Cardiology,FU,19-Sep,9
+Dermatology,NC,19-Sep,53
+Dermatology,FU,19-Sep,42
+Diabetes Education Services.,NC,19-Sep,0
+Diabetes Education Services.,FU,19-Sep,0
+Diabetology,NC,19-Sep,9
+Diabetology,FU,19-Sep,63
+Audiology,NC,19-Sep,14
+Audiology,FU,19-Sep,11
+ENT,NC,19-Sep,20
+ENT,FU,19-Sep,23
+POC-ACC,NC,19-Sep,0
+POC-ACC,FU,19-Sep,218
+ACC,NC,19-Sep,1
+ACC,FU,19-Sep,99
+Medical,NC,19-Sep,62
+Medical,FU,19-Sep,172
+Juvenile,NC,19-Sep,5
+Juvenile,FU,19-Sep,9
+Endocrine,NC,19-Sep,7
+Endocrine,FU,19-Sep,7
+Rheumatology,NC,19-Sep,5
+Rheumatology,FU,19-Sep,13
+Neurology,NC,19-Sep,28
+Neurology,FU,19-Sep,33
+Naphrology,NC,19-Sep,4
+Naphrology,FU,19-Sep,4
+Dietician,NC,19-Sep,3
+Dietician,FU,19-Sep,4
+Fertility Care,NC,19-Sep,0
+Fertility Care,FU,19-Sep,1
+Naprotechnology,NC,19-Sep,0
+Naprotechnology,FU,19-Sep,2
+Antenatal,NC,19-Sep,15
+Antenatal,FU,19-Sep,130
+Postnatal,NC,19-Sep,0
+Postnatal,FU,19-Sep,17
+Gynaecology,NC,19-Sep,60
+Gynaecology,FU,19-Sep,90
+Oncology,NC,19-Sep,6
+Oncology,FU,19-Sep,113
+Palliative Care,NC,19-Sep,4
+Palliative Care,FU,19-Sep,8
+Ophthalmic,NC,19-Sep,114
+Ophthalmic,FU,19-Sep,136
+Glaucoma,NC,19-Sep,2
+Glaucoma,FU,19-Sep,7
+Visual Fields,NC,19-Sep,1
+Visual Fields,FU,19-Sep,3
+Orthopaedic,NC,19-Sep,75
+Orthopaedic,FU,19-Sep,113
+Orthopaedic,NC,19-Sep,48
+Orthopaedic,FU,19-Sep,147
+Surgical,NC,19-Sep,111
+Surgical,FU,19-Sep,201
+Thyroid,NC,19-Sep,0
+Thyroid,FU,19-Sep,0
+Urology,NC,19-Sep,22
+Urology,FU,19-Sep,72
+Breast clinic,NC,19-Sep,11
+Breast clinic,FU,19-Sep,18
+Respiratory Clinic,NC,19-Sep,0
+Respiratory Clinic,FU,19-Sep,0
+Multiple Sclerosis,NC,19-Sep,0
+Multiple Sclerosis,FU,19-Sep,0
+Colon Rectal Screening,NC,19-Sep,33
+Colon Rectal Screening,FU,19-Sep,6
+Cervical Screening,NC,19-Sep,19
+Cervical Screening,FU,19-Sep,0
+Detox,NC,19-Sep,1
+Detox,FU,19-Sep,399
+Dental,NC,19-Sep,85
+Dental,FU,19-Sep,339
+Bleeding Room,NC,19-Sep,0
+Bleeding Room,FU,19-Sep,965
+Podiatry,NC,19-Sep,67
+Podiatry,FU,19-Sep,701
+Psychiatric-Including Child Guidance,NC,19-Sep,11
+Psychiatric-Including Child Guidance,FU,19-Sep,138
+Nutrition & Health Promotion,NC,19-Sep,5
+Nutrition & Health Promotion,FU,19-Sep,21
+Nutrition & Health Promotion,NC,19-Sep,10
+Nutrition & Health Promotion,FU,19-Sep,24
+Occupational Therapy (Physical),NC,19-Sep,23
+Occupational Therapy (Physical),FU,19-Sep,214
+Occupational Therapy (Psychiatric),NC,19-Sep,8
+Occupational Therapy (Psychiatric),FU,19-Sep,55
+Speech & Language Therapy,NC,19-Sep,7
+Speech & Language Therapy,FU,19-Sep,149
+Physiotherapy,NC,19-Sep,190
+Physiotherapy,FU,19-Sep,1151
+Social Worker-Psychiatric,NC,19-Sep,1
+Social Worker-Psychiatric,FU,19-Sep,141
+Social Worker-Physical (Medical),NC,19-Sep,1
+Social Worker-Physical (Medical),FU,19-Sep,13
+Tissue Viability Clinic,NC,19-Sep,27
+Tissue Viability Clinic,FU,19-Sep,371
+Hyperbaric Unit-Oxygen treatment,NC,19-Sep,1
+Hyperbaric Unit-Oxygen treatment,FU,19-Sep,18
+Hyperbaric Unit-Emergency divers,NC,19-Sep,4
+Hyperbaric Unit-Emergency divers,FU,19-Sep,0
+12 Lead Electrocardiograms,NC,19-Sep,531
+12 Lead Electrocardiograms,FU,19-Sep,0
+ECG Stress tests,NC,19-Sep,24
+ECG Stress tests,FU,19-Sep,0
+Holters,NC,19-Sep,18
+Holters,FU,19-Sep,0
+Lung Function tests,NC,19-Sep,5
+Lung Function tests,FU,19-Sep,0
+Echocardiograms,NC,19-Sep,18
+Echocardiograms,FU,19-Sep,0
+BP Monitoring,NC,19-Sep,4
+BP Monitoring,FU,19-Sep,0
+Acupuncture,NC,19-Oct,11
+Acupuncture,FU,19-Oct,82
+Pain,NC,19-Oct,9
+Pain,FU,19-Oct,3
+Pacemaker,NC,19-Oct,0
+Pacemaker,FU,19-Oct,48
+Heart Valve Clinic,NC,19-Oct,0
+Heart Valve Clinic,FU,19-Oct,0
+Cardiology,NC,19-Oct,18
+Cardiology,FU,19-Oct,13
+Dermatology,NC,19-Oct,72
+Dermatology,FU,19-Oct,52
+Diabetes Education Services.,NC,19-Oct,0
+Diabetes Education Services.,FU,19-Oct,0
+Diabetology,NC,19-Oct,16
+Diabetology,FU,19-Oct,94
+Audiology,NC,19-Oct,17
+Audiology,FU,19-Oct,9
+ENT,NC,19-Oct,51
+ENT,FU,19-Oct,38
+POC-ACC,NC,19-Oct,0
+POC-ACC,FU,19-Oct,258
+ACC,NC,19-Oct,8
+ACC,FU,19-Oct,124
+Medical,NC,19-Oct,45
+Medical,FU,19-Oct,123
+Juvenile,NC,19-Oct,3
+Juvenile,FU,19-Oct,8
+Endocrine,NC,19-Oct,6
+Endocrine,FU,19-Oct,5
+Rheumatology,NC,19-Oct,8
+Rheumatology,FU,19-Oct,25
+Neurology,NC,19-Oct,32
+Neurology,FU,19-Oct,31
+Naphrology,NC,19-Oct,5
+Naphrology,FU,19-Oct,7
+Dietician,NC,19-Oct,33
+Dietician,FU,19-Oct,24
+Fertility Care,NC,19-Oct,0
+Fertility Care,FU,19-Oct,0
+Naprotechnology,NC,19-Oct,4
+Naprotechnology,FU,19-Oct,2
+Antenatal,NC,19-Oct,18
+Antenatal,FU,19-Oct,159
+Postnatal,NC,19-Oct,0
+Postnatal,FU,19-Oct,15
+Gynaecology,NC,19-Oct,54
+Gynaecology,FU,19-Oct,93
+Oncology,NC,19-Oct,14
+Oncology,FU,19-Oct,135
+Palliative Care,NC,19-Oct,3
+Palliative Care,FU,19-Oct,12
+Ophthalmic,NC,19-Oct,124
+Ophthalmic,FU,19-Oct,171
+Glaucoma,NC,19-Oct,2
+Glaucoma,FU,19-Oct,6
+Visual Fields,NC,19-Oct,2
+Visual Fields,FU,19-Oct,9
+Orthopaedic,NC,19-Oct,107
+Orthopaedic,FU,19-Oct,184
+Orthopaedic,NC,19-Oct,50
+Orthopaedic,FU,19-Oct,170
+Surgical,NC,19-Oct,135
+Surgical,FU,19-Oct,194
+Thyroid,NC,19-Oct,3
+Thyroid,FU,19-Oct,10
+Urology,NC,19-Oct,40
+Urology,FU,19-Oct,108
+Breast clinic,NC,19-Oct,15
+Breast clinic,FU,19-Oct,22
+Respiratory Clinic,NC,19-Oct,0
+Respiratory Clinic,FU,19-Oct,0
+Multiple Sclerosis,NC,19-Oct,0
+Multiple Sclerosis,FU,19-Oct,0
+Colon Rectal Screening,NC,19-Oct,45
+Colon Rectal Screening,FU,19-Oct,13
+Cervical Screening,NC,19-Oct,24
+Cervical Screening,FU,19-Oct,0
+Detox,NC,19-Oct,3
+Detox,FU,19-Oct,36
+Dental,NC,19-Oct,52
+Dental,FU,19-Oct,455
+Bleeding Room,NC,19-Oct,0
+Bleeding Room,FU,19-Oct,1090
+Podiatry,NC,19-Oct,91
+Podiatry,FU,19-Oct,856
+Psychiatric-Including Child Guidance,NC,19-Oct,10
+Psychiatric-Including Child Guidance,FU,19-Oct,149
+Nutrition & Health Promotion,NC,19-Oct,6
+Nutrition & Health Promotion,FU,19-Oct,24
+Nutrition & Health Promotion,NC,19-Oct,15
+Nutrition & Health Promotion,FU,19-Oct,130
+Occupational Therapy (Physical),NC,19-Oct,21
+Occupational Therapy (Physical),FU,19-Oct,234
+Occupational Therapy (Psychiatric),NC,19-Oct,7
+Occupational Therapy (Psychiatric),FU,19-Oct,62
+Speech & Language Therapy,NC,19-Oct,8
+Speech & Language Therapy,FU,19-Oct,154
+Physiotherapy,NC,19-Oct,204
+Physiotherapy,FU,19-Oct,1481
+Social Worker-Psychiatric,NC,19-Oct,0
+Social Worker-Psychiatric,FU,19-Oct,144
+Social Worker-Physical (Medical),NC,19-Oct,0
+Social Worker-Physical (Medical),FU,19-Oct,14
+Tissue Viability Clinic,NC,19-Oct,27
+Tissue Viability Clinic,FU,19-Oct,380
+Hyperbaric Unit-Oxygen treatment,NC,19-Oct,1
+Hyperbaric Unit-Oxygen treatment,FU,19-Oct,8
+Hyperbaric Unit-Emergency divers,NC,19-Oct,8
+Hyperbaric Unit-Emergency divers,FU,19-Oct,3
+12 Lead Electrocardiograms,NC,19-Oct,519
+12 Lead Electrocardiograms,FU,19-Oct,0
+ECG Stress tests,NC,19-Oct,23
+ECG Stress tests,FU,19-Oct,0
+Holters,NC,19-Oct,27
+Holters,FU,19-Oct,0
+Lung Function tests,NC,19-Oct,9
+Lung Function tests,FU,19-Oct,0
+Echocardiograms,NC,19-Oct,42
+Echocardiograms,FU,19-Oct,0
+BP Monitoring,NC,19-Oct,6
+BP Monitoring,FU,19-Oct,0
+Acupuncture,NC,19-Nov,6
+Acupuncture,FU,19-Nov,58
+Pain,NC,19-Nov,8
+Pain,FU,19-Nov,3
+Pacemaker,NC,19-Nov,0
+Pacemaker,FU,19-Nov,34
+Heart Valve Clinic,NC,19-Nov,0
+Heart Valve Clinic,FU,19-Nov,0
+Cardiology,NC,19-Nov,12
+Cardiology,FU,19-Nov,19
+Dermatology,NC,19-Nov,51
+Dermatology,FU,19-Nov,67
+Diabetes Education Services.,NC,19-Nov,0
+Diabetes Education Services.,FU,19-Nov,0
+Diabetology,NC,19-Nov,17
+Diabetology,FU,19-Nov,73
+Audiology,NC,19-Nov,9
+Audiology,FU,19-Nov,16
+ENT,NC,19-Nov,48
+ENT,FU,19-Nov,24
+POC-ACC,NC,19-Nov,0
+POC-ACC,FU,19-Nov,179
+ACC,NC,19-Nov,5
+ACC,FU,19-Nov,100
+Medical,NC,19-Nov,65
+Medical,FU,19-Nov,137
+Juvenile,NC,19-Nov,7
+Juvenile,FU,19-Nov,7
+Endocrine,NC,19-Nov,7
+Endocrine,FU,19-Nov,6
+Rheumatology,NC,19-Nov,7
+Rheumatology,FU,19-Nov,14
+Neurology,NC,19-Nov,24
+Neurology,FU,19-Nov,33
+Naphrology,NC,19-Nov,3
+Naphrology,FU,19-Nov,6
+Dietician,NC,19-Nov,13
+Dietician,FU,19-Nov,11
+Fertility Care,NC,19-Nov,0
+Fertility Care,FU,19-Nov,0
+Naprotechnology,NC,19-Nov,1
+Naprotechnology,FU,19-Nov,6
+Antenatal,NC,19-Nov,22
+Antenatal,FU,19-Nov,147
+Postnatal,NC,19-Nov,0
+Postnatal,FU,19-Nov,16
+Gynaecology,NC,19-Nov,63
+Gynaecology,FU,19-Nov,106
+Oncology,NC,19-Nov,13
+Oncology,FU,19-Nov,123
+Palliative Care,NC,19-Nov,4
+Palliative Care,FU,19-Nov,5
+Ophthalmic,NC,19-Nov,81
+Ophthalmic,FU,19-Nov,108
+Glaucoma,NC,19-Nov,1
+Glaucoma,FU,19-Nov,3
+Visual Fields,NC,19-Nov,2
+Visual Fields,FU,19-Nov,22
+Orthopaedic,NC,19-Nov,98
+Orthopaedic,FU,19-Nov,170
+Orthopaedic,NC,19-Nov,46
+Orthopaedic,FU,19-Nov,141
+Surgical,NC,19-Nov,155
+Surgical,FU,19-Nov,207
+Thyroid,NC,19-Nov,2
+Thyroid,FU,19-Nov,9
+Urology,NC,19-Nov,26
+Urology,FU,19-Nov,99
+Breast clinic,NC,19-Nov,11
+Breast clinic,FU,19-Nov,24
+Respiratory Clinic,NC,19-Nov,0
+Respiratory Clinic,FU,19-Nov,0
+Multiple Sclerosis,NC,19-Nov,0
+Multiple Sclerosis,FU,19-Nov,0
+Colon Rectal Screening,NC,19-Nov,54
+Colon Rectal Screening,FU,19-Nov,15
+Cervical Screening,NC,19-Nov,17
+Cervical Screening,FU,19-Nov,2
+Detox,NC,19-Nov,0
+Detox,FU,19-Nov,562
+Dental,NC,19-Nov,27
+Dental,FU,19-Nov,436
+Bleeding Room,NC,19-Nov,0
+Bleeding Room,FU,19-Nov,1084
+Podiatry,NC,19-Nov,93
+Podiatry,FU,19-Nov,771
+Psychiatric-Including Child Guidance,NC,19-Nov,16
+Psychiatric-Including Child Guidance,FU,19-Nov,189
+Nutrition & Health Promotion,NC,19-Nov,8
+Nutrition & Health Promotion,FU,19-Nov,21
+Nutrition & Health Promotion,NC,19-Nov,12
+Nutrition & Health Promotion,FU,19-Nov,132
+Occupational Therapy (Physical),NC,19-Nov,24
+Occupational Therapy (Physical),FU,19-Nov,241
+Occupational Therapy (Psychiatric),NC,19-Nov,8
+Occupational Therapy (Psychiatric),FU,19-Nov,74
+Speech & Language Therapy,NC,19-Nov,12
+Speech & Language Therapy,FU,19-Nov,176
+Physiotherapy,NC,19-Nov,170
+Physiotherapy,FU,19-Nov,1428
+Social Worker-Psychiatric,NC,19-Nov,1
+Social Worker-Psychiatric,FU,19-Nov,144
+Social Worker-Physical (Medical),NC,19-Nov,0
+Social Worker-Physical (Medical),FU,19-Nov,14
+Tissue Viability Clinic,NC,19-Nov,22
+Tissue Viability Clinic,FU,19-Nov,369
+Hyperbaric Unit-Oxygen treatment,NC,19-Nov,0
+Hyperbaric Unit-Oxygen treatment,FU,19-Nov,2
+Hyperbaric Unit-Emergency divers,NC,19-Nov,2
+Hyperbaric Unit-Emergency divers,FU,19-Nov,7
+12 Lead Electrocardiograms,NC,19-Nov,525
+12 Lead Electrocardiograms,FU,19-Nov,0
+ECG Stress tests,NC,19-Nov,6
+ECG Stress tests,FU,19-Nov,0
+Holters,NC,19-Nov,19
+Holters,FU,19-Nov,0
+Lung Function tests,NC,19-Nov,9
+Lung Function tests,FU,19-Nov,0
+Echocardiograms,NC,19-Nov,35
+Echocardiograms,FU,19-Nov,0
+BP Monitoring,NC,19-Nov,6
+BP Monitoring,FU,19-Nov,0
+Acupuncture,NC,19-Dec,6
+Acupuncture,FU,19-Dec,48
+Pain,NC,19-Dec,7
+Pain,FU,19-Dec,3
+Pacemaker,NC,19-Dec,0
+Pacemaker,FU,19-Dec,45
+Heart Valve Clinic,NC,19-Dec,0
+Heart Valve Clinic,FU,19-Dec,0
+Cardiology,NC,19-Dec,17
+Cardiology,FU,19-Dec,12
+Dermatology,NC,19-Dec,55
+Dermatology,FU,19-Dec,25
+Diabetes Education Services.,NC,19-Dec,0
+Diabetes Education Services.,FU,19-Dec,0
+Diabetology,NC,19-Dec,14
+Diabetology,FU,19-Dec,89
+Audiology,NC,19-Dec,16
+Audiology,FU,19-Dec,8
+ENT,NC,19-Dec,50
+ENT,FU,19-Dec,19
+POC-ACC,NC,19-Dec,0
+POC-ACC,FU,19-Dec,223
+ACC,NC,19-Dec,8
+ACC,FU,19-Dec,128
+Medical,NC,19-Dec,54
+Medical,FU,19-Dec,129
+Juvenile,NC,19-Dec,7
+Juvenile,FU,19-Dec,4
+Endocrine,NC,19-Dec,6
+Endocrine,FU,19-Dec,7
+Rheumatology,NC,19-Dec,1
+Rheumatology,FU,19-Dec,11
+Neurology,NC,19-Dec,10
+Neurology,FU,19-Dec,14
+Naphrology,NC,19-Dec,5
+Naphrology,FU,19-Dec,7
+Dietician,NC,19-Dec,14
+Dietician,FU,19-Dec,15
+Fertility Care,NC,19-Dec,0
+Fertility Care,FU,19-Dec,0
+Naprotechnology,NC,19-Dec,0
+Naprotechnology,FU,19-Dec,3
+Antenatal,NC,19-Dec,24
+Antenatal,FU,19-Dec,115
+Postnatal,NC,19-Dec,0
+Postnatal,FU,19-Dec,16
+Gynaecology,NC,19-Dec,38
+Gynaecology,FU,19-Dec,71
+Oncology,NC,19-Dec,6
+Oncology,FU,19-Dec,105
+Palliative Care,NC,19-Dec,4
+Palliative Care,FU,19-Dec,10
+Ophthalmic,NC,19-Dec,102
+Ophthalmic,FU,19-Dec,103
+Glaucoma,NC,19-Dec,2
+Glaucoma,FU,19-Dec,5
+Visual Fields,NC,19-Dec,0
+Visual Fields,FU,19-Dec,0
+Orthopaedic,NC,19-Dec,58
+Orthopaedic,FU,19-Dec,91
+Orthopaedic,NC,19-Dec,35
+Orthopaedic,FU,19-Dec,137
+Surgical,NC,19-Dec,121
+Surgical,FU,19-Dec,165
+Thyroid,NC,19-Dec,0
+Thyroid,FU,19-Dec,0
+Urology,NC,19-Dec,23
+Urology,FU,19-Dec,58
+Breast clinic,NC,19-Dec,11
+Breast clinic,FU,19-Dec,24
+Respiratory Clinic,NC,19-Dec,0
+Respiratory Clinic,FU,19-Dec,0
+Multiple Sclerosis,NC,19-Dec,0
+Multiple Sclerosis,FU,19-Dec,0
+Colon Rectal Screening,NC,19-Dec,29
+Colon Rectal Screening,FU,19-Dec,7
+Cervical Screening,NC,19-Dec,16
+Cervical Screening,FU,19-Dec,2
+Detox,NC,19-Dec,0
+Detox,FU,19-Dec,605
+Dental,NC,19-Dec,
+Dental,FU,19-Dec,
+Bleeding Room,NC,19-Dec,0
+Bleeding Room,FU,19-Dec,892
+Podiatry,NC,19-Dec,63
+Podiatry,FU,19-Dec,617
+Psychiatric-Including Child Guidance,NC,19-Dec,8
+Psychiatric-Including Child Guidance,FU,19-Dec,149
+Nutrition & Health Promotion,NC,19-Dec,2
+Nutrition & Health Promotion,FU,19-Dec,9
+Nutrition & Health Promotion,NC,19-Dec,12
+Nutrition & Health Promotion,FU,19-Dec,122
+Occupational Therapy (Physical),NC,19-Dec,22
+Occupational Therapy (Physical),FU,19-Dec,67
+Occupational Therapy (Psychiatric),NC,19-Dec,10
+Occupational Therapy (Psychiatric),FU,19-Dec,76
+Speech & Language Therapy,NC,19-Dec,6
+Speech & Language Therapy,FU,19-Dec,147
+Physiotherapy,NC,19-Dec,136
+Physiotherapy,FU,19-Dec,1159
+Social Worker-Psychiatric,NC,19-Dec,2
+Social Worker-Psychiatric,FU,19-Dec,145
+Social Worker-Physical (Medical),NC,19-Dec,1
+Social Worker-Physical (Medical),FU,19-Dec,14
+Tissue Viability Clinic,NC,19-Dec,24
+Tissue Viability Clinic,FU,19-Dec,451
+Hyperbaric Unit-Oxygen treatment,NC,19-Dec,1
+Hyperbaric Unit-Oxygen treatment,FU,19-Dec,16
+Hyperbaric Unit-Emergency divers,NC,19-Dec,1
+Hyperbaric Unit-Emergency divers,FU,19-Dec,8
+12 Lead Electrocardiograms,NC,19-Dec,569
+12 Lead Electrocardiograms,FU,19-Dec,0
+ECG Stress tests,NC,19-Dec,3
+ECG Stress tests,FU,19-Dec,0
+Holters,NC,19-Dec,12
+Holters,FU,19-Dec,0
+Lung Function tests,NC,19-Dec,8
+Lung Function tests,FU,19-Dec,0
+Echocardiograms,NC,19-Dec,8
+Echocardiograms,FU,19-Dec,0
+BP Monitoring,NC,19-Dec,6
+BP Monitoring,FU,19-Dec,0
+Acupuncture,NC,20-Jan,4
+Acupuncture,FU,20-Jan,32
+Pain,NC,20-Jan,10
+Pain,FU,20-Jan,2
+Pacemaker,NC,20-Jan,0
+Pacemaker,FU,20-Jan,49
+Heart Valve Clinic,NC,20-Jan,0
+Heart Valve Clinic,FU,20-Jan,0
+Cardiology,NC,20-Jan,13
+Cardiology,FU,20-Jan,20
+Dermatology,NC,20-Jan,52
+Dermatology,FU,20-Jan,76
+Diabetes Education Services.,NC,20-Jan,0
+Diabetes Education Services.,FU,20-Jan,0
+Diabetology,NC,20-Jan,12
+Diabetology,FU,20-Jan,92
+Audiology,NC,20-Jan,15
+Audiology,FU,20-Jan,8
+ENT,NC,20-Jan,48
+ENT,FU,20-Jan,32
+POC-ACC,NC,20-Jan,0
+POC-ACC,FU,20-Jan,241
+ACC,NC,20-Jan,3
+ACC,FU,20-Jan,126
+Medical,NC,20-Jan,54
+Medical,FU,20-Jan,156
+Juvenile,NC,20-Jan,3
+Juvenile,FU,20-Jan,7
+Endocrine,NC,20-Jan,9
+Endocrine,FU,20-Jan,7
+Rheumatology,NC,20-Jan,8
+Rheumatology,FU,20-Jan,12
+Neurology,NC,20-Jan,30
+Neurology,FU,20-Jan,46
+Naphrology,NC,20-Jan,4
+Naphrology,FU,20-Jan,9
+Dietician,NC,20-Jan,10
+Dietician,FU,20-Jan,22
+Fertility Care,NC,20-Jan,0
+Fertility Care,FU,20-Jan,0
+Naprotechnology,NC,20-Jan,6
+Naprotechnology,FU,20-Jan,4
+Antenatal,NC,20-Jan,31
+Antenatal,FU,20-Jan,126
+Postnatal,NC,20-Jan,0
+Postnatal,FU,20-Jan,28
+Gynaecology,NC,20-Jan,47
+Gynaecology,FU,20-Jan,97
+Oncology,NC,20-Jan,11
+Oncology,FU,20-Jan,129
+Palliative Care,NC,20-Jan,2
+Palliative Care,FU,20-Jan,4
+Ophthalmic,NC,20-Jan,149
+Ophthalmic,FU,20-Jan,124
+Glaucoma,NC,20-Jan,1
+Glaucoma,FU,20-Jan,6
+Visual Fields,NC,20-Jan,4
+Visual Fields,FU,20-Jan,28
+Orthopaedic,NC,20-Jan,96
+Orthopaedic,FU,20-Jan,167
+Orthopaedic,NC,20-Jan,41
+Orthopaedic,FU,20-Jan,183
+Surgical,NC,20-Jan,116
+Surgical,FU,20-Jan,255
+Thyroid,NC,20-Jan,0
+Thyroid,FU,20-Jan,13
+Urology,NC,20-Jan,32
+Urology,FU,20-Jan,86
+Breast clinic,NC,20-Jan,25
+Breast clinic,FU,20-Jan,18
+Respiratory Clinic,NC,20-Jan,0
+Respiratory Clinic,FU,20-Jan,0
+Multiple Sclerosis,NC,20-Jan,0
+Multiple Sclerosis,FU,20-Jan,0
+Colon Rectal Screening,NC,20-Jan,44
+Colon Rectal Screening,FU,20-Jan,12
+Cervical Screening,NC,20-Jan,7
+Cervical Screening,FU,20-Jan,1
+Detox,NC,20-Jan,0
+Detox,FU,20-Jan,529
+Dental,NC,20-Jan,49
+Dental,FU,20-Jan,430
+Bleeding Room,NC,20-Jan,0
+Bleeding Room,FU,20-Jan,1014
+Podiatry,NC,20-Jan,91
+Podiatry,FU,20-Jan,841
+Psychiatric-Including Child Guidance,NC,20-Jan,18
+Psychiatric-Including Child Guidance,FU,20-Jan,215
+Nutrition & Health Promotion,NC,20-Jan,3
+Nutrition & Health Promotion,FU,20-Jan,21
+Nutrition & Health Promotion,NC,20-Jan,12
+Nutrition & Health Promotion,FU,20-Jan,25
+Occupational Therapy (Physical),NC,20-Jan,38
+Occupational Therapy (Physical),FU,20-Jan,205
+Occupational Therapy (Psychiatric),NC,20-Jan,10
+Occupational Therapy (Psychiatric),FU,20-Jan,86
+Speech & Language Therapy,NC,20-Jan,11
+Speech & Language Therapy,FU,20-Jan,147
+Physiotherapy,NC,20-Jan,173
+Physiotherapy,FU,20-Jan,1583
+Social Worker-Psychiatric,NC,20-Jan,0
+Social Worker-Psychiatric,FU,20-Jan,145
+Social Worker-Physical (Medical),NC,20-Jan,0
+Social Worker-Physical (Medical),FU,20-Jan,14
+Tissue Viability Clinic,NC,20-Jan,26
+Tissue Viability Clinic,FU,20-Jan,405
+Hyperbaric Unit-Oxygen treatment,NC,20-Jan,0
+Hyperbaric Unit-Oxygen treatment,FU,20-Jan,13
+Hyperbaric Unit-Emergency divers,NC,20-Jan,0
+Hyperbaric Unit-Emergency divers,FU,20-Jan,0
+12 Lead Electrocardiograms,NC,20-Jan,0
+12 Lead Electrocardiograms,FU,20-Jan,510
+ECG Stress tests,NC,20-Jan,0
+ECG Stress tests,FU,20-Jan,10
+Holters,NC,20-Jan,0
+Holters,FU,20-Jan,14
+Lung Function tests,NC,20-Jan,0
+Lung Function tests,FU,20-Jan,4
+Echocardiograms,NC,20-Jan,0
+Echocardiograms,FU,20-Jan,42
+BP Monitoring,NC,20-Jan,0
+BP Monitoring,FU,20-Jan,12
+Acupuncture,NC,20-Feb,4
+Acupuncture,FU,20-Feb,7
+Pain,NC,20-Feb,10
+Pain,FU,20-Feb,3
+Pacemaker,NC,20-Feb,0
+Pacemaker,FU,20-Feb,49
+Heart Valve Clinic,NC,20-Feb,0
+Heart Valve Clinic,FU,20-Feb,4
+Cardiology,NC,20-Feb,13
+Cardiology,FU,20-Feb,19
+Dermatology,NC,20-Feb,63
+Dermatology,FU,20-Feb,79
+Diabetes Education Services.,NC,20-Feb,0
+Diabetes Education Services.,FU,20-Feb,0
+Diabetology,NC,20-Feb,13
+Diabetology,FU,20-Feb,83
+Audiology,NC,20-Feb,11
+Audiology,FU,20-Feb,21
+ENT,NC,20-Feb,23
+ENT,FU,20-Feb,14
+POC-ACC,NC,20-Feb,0
+POC-ACC,FU,20-Feb,208
+ACC,NC,20-Feb,3
+ACC,FU,20-Feb,117
+Medical,NC,20-Feb,39
+Medical,FU,20-Feb,106
+Juvenile,NC,20-Feb,4
+Juvenile,FU,20-Feb,8
+Endocrine,NC,20-Feb,4
+Endocrine,FU,20-Feb,1
+Rheumatology,NC,20-Feb,9
+Rheumatology,FU,20-Feb,13
+Neurology,NC,20-Feb,16
+Neurology,FU,20-Feb,33
+Naphrology,NC,20-Feb,3
+Naphrology,FU,20-Feb,7
+Dietician,NC,20-Feb,17
+Dietician,FU,20-Feb,17
+Fertility Care,NC,20-Feb,0
+Fertility Care,FU,20-Feb,0
+Naprotechnology,NC,20-Feb,2
+Naprotechnology,FU,20-Feb,1
+Antenatal,NC,20-Feb,27
+Antenatal,FU,20-Feb,101
+Postnatal,NC,20-Feb,0
+Postnatal,FU,20-Feb,19
+Gynaecology,NC,20-Feb,59
+Gynaecology,FU,20-Feb,84
+Oncology,NC,20-Feb,13
+Oncology,FU,20-Feb,112
+Palliative Care,NC,20-Feb,4
+Palliative Care,FU,20-Feb,13
+Ophthalmic,NC,20-Feb,136
+Ophthalmic,FU,20-Feb,125
+Glaucoma,NC,20-Feb,2
+Glaucoma,FU,20-Feb,1
+Visual Fields,NC,20-Feb,1
+Visual Fields,FU,20-Feb,10
+Orthopaedic,NC,20-Feb,89
+Orthopaedic,FU,20-Feb,116
+Orthopaedic,NC,20-Feb,38
+Orthopaedic,FU,20-Feb,136
+Surgical,NC,20-Feb,104
+Surgical,FU,20-Feb,180
+Thyroid,NC,20-Feb,3
+Thyroid,FU,20-Feb,7
+Urology,NC,20-Feb,38
+Urology,FU,20-Feb,74
+Breast clinic,NC,20-Feb,8
+Breast clinic,FU,20-Feb,15
+Respiratory Clinic,NC,20-Feb,10
+Respiratory Clinic,FU,20-Feb,2
+Multiple Sclerosis,NC,20-Feb,
+Multiple Sclerosis,FU,20-Feb,0
+Colon Rectal Screening,NC,20-Feb,16
+Colon Rectal Screening,FU,20-Feb,7
+Cervical Screening,NC,20-Feb,20
+Cervical Screening,FU,20-Feb,0
+Detox,NC,20-Feb,0
+Detox,FU,20-Feb,493
+Dental,NC,20-Feb,18
+Dental,FU,20-Feb,331
+Bleeding Room,NC,20-Feb,0
+Bleeding Room,FU,20-Feb,989
+Podiatry,NC,20-Feb,81
+Podiatry,FU,20-Feb,698
+Psychiatric-Including Child Guidance,NC,20-Feb,17
+Psychiatric-Including Child Guidance,FU,20-Feb,180
+Nutrition & Health Promotion,NC,20-Feb,3
+Nutrition & Health Promotion,FU,20-Feb,13
+Nutrition & Health Promotion,NC,20-Feb,15
+Nutrition & Health Promotion,FU,20-Feb,152
+Occupational Therapy (Physical),NC,20-Feb,27
+Occupational Therapy (Physical),FU,20-Feb,201
+Occupational Therapy (Psychiatric),NC,20-Feb,14
+Occupational Therapy (Psychiatric),FU,20-Feb,112
+Speech & Language Therapy,NC,20-Feb,6
+Speech & Language Therapy,FU,20-Feb,153
+Physiotherapy,NC,20-Feb,178
+Physiotherapy,FU,20-Feb,1358
+Social Worker-Psychiatric,NC,20-Feb,6
+Social Worker-Psychiatric,FU,20-Feb,143
+Social Worker-Physical (Medical),NC,20-Feb,0
+Social Worker-Physical (Medical),FU,20-Feb,0
+Tissue Viability Clinic,NC,20-Feb,20
+Tissue Viability Clinic,FU,20-Feb,217
+Hyperbaric Unit-Oxygen treatment,NC,20-Feb,2
+Hyperbaric Unit-Oxygen treatment,FU,20-Feb,10
+Hyperbaric Unit-Emergency divers,NC,20-Feb,0
+Hyperbaric Unit-Emergency divers,FU,20-Feb,0
+12 Lead Electrocardiograms,NC,20-Feb,470
+12 Lead Electrocardiograms,FU,20-Feb,0
+ECG Stress tests,NC,20-Feb,13
+ECG Stress tests,FU,20-Feb,0
+Holters,NC,20-Feb,24
+Holters,FU,20-Feb,0
+Lung Function tests,NC,20-Feb,16
+Lung Function tests,FU,20-Feb,0
+Echocardiograms,NC,20-Feb,58
+Echocardiograms,FU,20-Feb,3
+BP Monitoring,NC,20-Feb,10
+BP Monitoring,FU,20-Feb,0
+Acupuncture,NC,20-Mar,4
+Acupuncture,FU,20-Mar,20
+Pain,NC,20-Mar,0
+Pain,FU,20-Mar,0
+Pacemaker,NC,20-Mar,0
+Pacemaker,FU,20-Mar,13
+Heart Valve Clinic,NC,20-Mar,
+Heart Valve Clinic,FU,20-Mar,
+Cardiology,NC,20-Mar,10
+Cardiology,FU,20-Mar,9
+Dermatology,NC,20-Mar,40
+Dermatology,FU,20-Mar,39
+Diabetes Education Services.,NC,20-Mar,0
+Diabetes Education Services.,FU,20-Mar,0
+Diabetology,NC,20-Mar,5
+Diabetology,FU,20-Mar,49
+Audiology,NC,20-Mar,11
+Audiology,FU,20-Mar,4
+ENT,NC,20-Mar,16
+ENT,FU,20-Mar,18
+POC-ACC,NC,20-Mar,0
+POC-ACC,FU,20-Mar,169
+ACC,NC,20-Mar,11
+ACC,FU,20-Mar,56
+Medical,NC,20-Mar,25
+Medical,FU,20-Mar,72
+Juvenile,NC,20-Mar,2
+Juvenile,FU,20-Mar,4
+Endocrine,NC,20-Mar,3
+Endocrine,FU,20-Mar,4
+Rheumatology,NC,20-Mar,6
+Rheumatology,FU,20-Mar,8
+Neurology,NC,20-Mar,17
+Neurology,FU,20-Mar,14
+Naphrology,NC,20-Mar,0
+Naphrology,FU,20-Mar,0
+Dietician,NC,20-Mar,11
+Dietician,FU,20-Mar,7
+Fertility Care,NC,20-Mar,0
+Fertility Care,FU,20-Mar,0
+Naprotechnology,NC,20-Mar,1
+Naprotechnology,FU,20-Mar,0
+Antenatal,NC,20-Mar,25
+Antenatal,FU,20-Mar,101
+Postnatal,NC,20-Mar,0
+Postnatal,FU,20-Mar,10
+Gynaecology,NC,20-Mar,29
+Gynaecology,FU,20-Mar,71
+Oncology,NC,20-Mar,2
+Oncology,FU,20-Mar,55
+Palliative Care,NC,20-Mar,4
+Palliative Care,FU,20-Mar,3
+Ophthalmic,NC,20-Mar,85
+Ophthalmic,FU,20-Mar,58
+Glaucoma,NC,20-Mar,0
+Glaucoma,FU,20-Mar,0
+Visual Fields,NC,20-Mar,0
+Visual Fields,FU,20-Mar,7
+Orthopaedic,NC,20-Mar,20
+Orthopaedic,FU,20-Mar,47
+Orthopaedic,NC,20-Mar,18
+Orthopaedic,FU,20-Mar,70
+Surgical,NC,20-Mar,48
+Surgical,FU,20-Mar,106
+Thyroid,NC,20-Mar,4
+Thyroid,FU,20-Mar,5
+Urology,NC,20-Mar,7
+Urology,FU,20-Mar,39
+Breast clinic,NC,20-Mar,10
+Breast clinic,FU,20-Mar,13
+Respiratory Clinic,NC,20-Mar,9
+Respiratory Clinic,FU,20-Mar,2
+Multiple Sclerosis,NC,20-Mar,0
+Multiple Sclerosis,FU,20-Mar,0
+Colon Rectal Screening,NC,20-Mar,23
+Colon Rectal Screening,FU,20-Mar,8
+Cervical Screening,NC,20-Mar,5
+Cervical Screening,FU,20-Mar,0
+Detox,NC,20-Mar,0
+Detox,FU,20-Mar,520
+Dental,NC,20-Mar,21
+Dental,FU,20-Mar,156
+Bleeding Room,NC,20-Mar,0
+Bleeding Room,FU,20-Mar,734
+Podiatry,NC,20-Mar,36
+Podiatry,FU,20-Mar,385
+Psychiatric-Including Child Guidance,NC,20-Mar,18
+Psychiatric-Including Child Guidance,FU,20-Mar,70
+Nutrition & Health Promotion,NC,20-Mar,2
+Nutrition & Health Promotion,FU,20-Mar,5
+Nutrition & Health Promotion,NC,20-Mar,12
+Nutrition & Health Promotion,FU,20-Mar,75
+Occupational Therapy (Physical),NC,20-Mar,14
+Occupational Therapy (Physical),FU,20-Mar,81
+Occupational Therapy (Psychiatric),NC,20-Mar,3
+Occupational Therapy (Psychiatric),FU,20-Mar,56
+Speech & Language Therapy,NC,20-Mar,7
+Speech & Language Therapy,FU,20-Mar,94
+Physiotherapy,NC,20-Mar,94
+Physiotherapy,FU,20-Mar,806
+Social Worker-Psychiatric,NC,20-Mar,2
+Social Worker-Psychiatric,FU,20-Mar,147
+Social Worker-Physical (Medical),NC,20-Mar,0
+Social Worker-Physical (Medical),FU,20-Mar,0
+Tissue Viability Clinic,NC,20-Mar,17
+Tissue Viability Clinic,FU,20-Mar,278
+Hyperbaric Unit-Oxygen treatment,NC,20-Mar,0
+Hyperbaric Unit-Oxygen treatment,FU,20-Mar,15
+Hyperbaric Unit-Emergency divers,NC,20-Mar,1
+Hyperbaric Unit-Emergency divers,FU,20-Mar,0
+12 Lead Electrocardiograms,NC,20-Mar,271
+12 Lead Electrocardiograms,FU,20-Mar,0
+ECG Stress tests,NC,20-Mar,6
+ECG Stress tests,FU,20-Mar,0
+Holters,NC,20-Mar,20
+Holters,FU,20-Mar,0
+Lung Function tests,NC,20-Mar,4
+Lung Function tests,FU,20-Mar,0
+Echocardiograms,NC,20-Mar,46
+Echocardiograms,FU,20-Mar,0
+BP Monitoring,NC,20-Mar,9
+BP Monitoring,FU,20-Mar,0
+Acupuncture,NC,20-Apr,0
+Acupuncture,FU,20-Apr,0
+Pain,NC,20-Apr,0
+Pain,FU,20-Apr,0
+Pacemaker,NC,20-Apr,0
+Pacemaker,FU,20-Apr,18
+Heart Valve Clinic,NC,20-Apr,0
+Heart Valve Clinic,FU,20-Apr,0
+Cardiology,NC,20-Apr,0
+Cardiology,FU,20-Apr,0
+Dermatology,NC,20-Apr,5
+Dermatology,FU,20-Apr,0
+Diabetes Education Services.,NC,20-Apr,0
+Diabetes Education Services.,FU,20-Apr,0
+Diabetology,NC,20-Apr,1
+Diabetology,FU,20-Apr,0
+Audiology,NC,20-Apr,0
+Audiology,FU,20-Apr,0
+ENT,NC,20-Apr,0
+ENT,FU,20-Apr,0
+POC-ACC,NC,20-Apr,0
+POC-ACC,FU,20-Apr,189
+ACC,NC,20-Apr,0
+ACC,FU,20-Apr,1
+Medical,NC,20-Apr,4
+Medical,FU,20-Apr,10
+Juvenile,NC,20-Apr,0
+Juvenile,FU,20-Apr,0
+Endocrine,NC,20-Apr,0
+Endocrine,FU,20-Apr,0
+Rheumatology,NC,20-Apr,1
+Rheumatology,FU,20-Apr,2
+Neurology,NC,20-Apr,0
+Neurology,FU,20-Apr,0
+Naphrology,NC,20-Apr,0
+Naphrology,FU,20-Apr,0
+Dietician,NC,20-Apr,0
+Dietician,FU,20-Apr,0
+Fertility Care,NC,20-Apr,0
+Fertility Care,FU,20-Apr,0
+Naprotechnology,NC,20-Apr,0
+Naprotechnology,FU,20-Apr,0
+Antenatal,NC,20-Apr,26
+Antenatal,FU,20-Apr,73
+Postnatal,NC,20-Apr,0
+Postnatal,FU,20-Apr,0
+Gynaecology,NC,20-Apr,10
+Gynaecology,FU,20-Apr,26
+Oncology,NC,20-Apr,0
+Oncology,FU,20-Apr,0
+Palliative Care,NC,20-Apr,0
+Palliative Care,FU,20-Apr,0
+Ophthalmic,NC,20-Apr,25
+Ophthalmic,FU,20-Apr,22
+Glaucoma,NC,20-Apr,0
+Glaucoma,FU,20-Apr,0
+Visual Fields,NC,20-Apr,0
+Visual Fields,FU,20-Apr,0
+Orthopaedic,NC,20-Apr,3
+Orthopaedic,FU,20-Apr,20
+Orthopaedic,NC,20-Apr,21
+Orthopaedic,FU,20-Apr,39
+Surgical,NC,20-Apr,4
+Surgical,FU,20-Apr,13
+Thyroid,NC,20-Apr,0
+Thyroid,FU,20-Apr,0
+Urology,NC,20-Apr,0
+Urology,FU,20-Apr,1
+Breast clinic,NC,20-Apr,4
+Breast clinic,FU,20-Apr,6
+Respiratory Clinic,NC,20-Apr,0
+Respiratory Clinic,FU,20-Apr,1
+Multiple Sclerosis,NC,20-Apr,0
+Multiple Sclerosis,FU,20-Apr,0
+Colon Rectal Screening,NC,20-Apr,0
+Colon Rectal Screening,FU,20-Apr,0
+Cervical Screening,NC,20-Apr,0
+Cervical Screening,FU,20-Apr,0
+Detox,NC,20-Apr,0
+Detox,FU,20-Apr,360
+Dental,NC,20-Apr,15
+Dental,FU,20-Apr,13
+Bleeding Room,NC,20-Apr,0
+Bleeding Room,FU,20-Apr,521
+Podiatry,NC,20-Apr,4
+Podiatry,FU,20-Apr,38
+Psychiatric-Including Child Guidance,NC,20-Apr,0
+Psychiatric-Including Child Guidance,FU,20-Apr,0
+Nutrition & Health Promotion,NC,20-Apr,0
+Nutrition & Health Promotion,FU,20-Apr,0
+Nutrition & Health Promotion,NC,20-Apr,0
+Nutrition & Health Promotion,FU,20-Apr,0
+Occupational Therapy (Physical),NC,20-Apr,2
+Occupational Therapy (Physical),FU,20-Apr,1
+Occupational Therapy (Psychiatric),NC,20-Apr,3
+Occupational Therapy (Psychiatric),FU,20-Apr,48
+Speech & Language Therapy,NC,20-Apr,0
+Speech & Language Therapy,FU,20-Apr,0
+Physiotherapy,NC,20-Apr,33
+Physiotherapy,FU,20-Apr,267
+Social Worker-Psychiatric,NC,20-Apr,0
+Social Worker-Psychiatric,FU,20-Apr,149
+Social Worker-Physical (Medical),NC,20-Apr,0
+Social Worker-Physical (Medical),FU,20-Apr,0
+Tissue Viability Clinic,NC,20-Apr,8
+Tissue Viability Clinic,FU,20-Apr,127
+Hyperbaric Unit-Oxygen treatment,NC,20-Apr,1
+Hyperbaric Unit-Oxygen treatment,FU,20-Apr,6
+Hyperbaric Unit-Emergency divers,NC,20-Apr,0
+Hyperbaric Unit-Emergency divers,FU,20-Apr,2
+12 Lead Electrocardiograms,NC,20-Apr,32
+12 Lead Electrocardiograms,FU,20-Apr,0
+ECG Stress tests,NC,20-Apr,0
+ECG Stress tests,FU,20-Apr,0
+Holters,NC,20-Apr,2
+Holters,FU,20-Apr,0
+Lung Function tests,NC,20-Apr,2
+Lung Function tests,FU,20-Apr,0
+Echocardiograms,NC,20-Apr,9
+Echocardiograms,FU,20-Apr,1
+BP Monitoring,NC,20-Apr,0
+BP Monitoring,FU,20-Apr,0
