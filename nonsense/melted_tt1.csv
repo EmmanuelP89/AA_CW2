@@ -1,3361 +1,1653 @@
-Clinic,Case,Date,Total
-12 Lead Electrocardiograms,FU,18-Jan,0
-12 Lead Electrocardiograms,FU,18-Feb,0
-12 Lead Electrocardiograms,FU,18-Mar,0
-12 Lead Electrocardiograms,FU,18-Apr,0
-12 Lead Electrocardiograms,FU,18-May,0
-12 Lead Electrocardiograms,FU,18-Jun,0
-12 Lead Electrocardiograms,FU,18-Jul,0
-12 Lead Electrocardiograms,FU,18-Aug,0
-12 Lead Electrocardiograms,FU,18-Sep,0
-12 Lead Electrocardiograms,FU,18-Oct,0
-12 Lead Electrocardiograms,FU,18-Nov,0
-12 Lead Electrocardiograms,FU,18-Dec,0
-12 Lead Electrocardiograms,FU,19-Jan,0
-12 Lead Electrocardiograms,FU,19-Feb,0
-12 Lead Electrocardiograms,FU,19-Mar,0
-12 Lead Electrocardiograms,FU,19-Apr,0
-12 Lead Electrocardiograms,FU,19-May,0
-12 Lead Electrocardiograms,FU,19-Jun,0
-12 Lead Electrocardiograms,FU,19-Jul,0
-12 Lead Electrocardiograms,FU,19-Aug,0
-12 Lead Electrocardiograms,FU,19-Sep,0
-12 Lead Electrocardiograms,FU,19-Oct,0
-12 Lead Electrocardiograms,FU,19-Nov,0
-12 Lead Electrocardiograms,FU,19-Dec,0
-12 Lead Electrocardiograms,FU,20-Jan,0
-12 Lead Electrocardiograms,FU,20-Feb,0
-12 Lead Electrocardiograms,FU,20-Mar,0
-12 Lead Electrocardiograms,FU,20-Apr,0
-12 Lead Electrocardiograms,NC,18-Jan,391
-12 Lead Electrocardiograms,NC,18-Feb,495
-12 Lead Electrocardiograms,NC,18-Mar,510
-12 Lead Electrocardiograms,NC,18-Apr,568
-12 Lead Electrocardiograms,NC,18-May,514
-12 Lead Electrocardiograms,NC,18-Jun,489
-12 Lead Electrocardiograms,NC,18-Jul,512
-12 Lead Electrocardiograms,NC,18-Aug,527
-12 Lead Electrocardiograms,NC,18-Sep,541
-12 Lead Electrocardiograms,NC,18-Oct,552
-12 Lead Electrocardiograms,NC,18-Nov,545
-12 Lead Electrocardiograms,NC,18-Dec,562
-12 Lead Electrocardiograms,NC,19-Jan,578
-12 Lead Electrocardiograms,NC,19-Feb,575
-12 Lead Electrocardiograms,NC,19-Mar,525
-12 Lead Electrocardiograms,NC,19-Apr,560
-12 Lead Electrocardiograms,NC,19-May,515
-12 Lead Electrocardiograms,NC,19-Jun,535
-12 Lead Electrocardiograms,NC,19-Jul,560
-12 Lead Electrocardiograms,NC,19-Aug,525
-12 Lead Electrocardiograms,NC,19-Sep,531
-12 Lead Electrocardiograms,NC,19-Oct,519
-12 Lead Electrocardiograms,NC,19-Nov,525
-12 Lead Electrocardiograms,NC,19-Dec,569
-12 Lead Electrocardiograms,NC,20-Jan,510
-12 Lead Electrocardiograms,NC,20-Feb,470
-12 Lead Electrocardiograms,NC,20-Mar,271
-12 Lead Electrocardiograms,NC,20-Apr,32
-ACC,FU,18-Jan,116
-ACC,FU,18-Feb,76
-ACC,FU,18-Mar,84
-ACC,FU,18-Apr,120
-ACC,FU,18-May,91
-ACC,FU,18-Jun,68
-ACC,FU,18-Jul,95
-ACC,FU,18-Aug,83
-ACC,FU,18-Sep,78
-ACC,FU,18-Oct,104
-ACC,FU,18-Nov,102
-ACC,FU,18-Dec,66
-ACC,FU,19-Jan,102
-ACC,FU,19-Feb,120
-ACC,FU,19-Mar,109
-ACC,FU,19-Apr,149
-ACC,FU,19-May,104
-ACC,FU,19-Jun,104
-ACC,FU,19-Jul,110
-ACC,FU,19-Aug,110
-ACC,FU,19-Sep,99
-ACC,FU,19-Oct,124
-ACC,FU,19-Nov,100
-ACC,FU,19-Dec,128
-ACC,FU,20-Jan,126
-ACC,FU,20-Feb,117
-ACC,FU,20-Mar,56
-ACC,FU,20-Apr,1
-ACC,NC,18-Jan,2
-ACC,NC,18-Feb,2
-ACC,NC,18-Mar,3
-ACC,NC,18-Apr,3
-ACC,NC,18-May,3
-ACC,NC,18-Jun,1
-ACC,NC,18-Jul,3
-ACC,NC,18-Aug,5
-ACC,NC,18-Sep,1
-ACC,NC,18-Oct,1
-ACC,NC,18-Nov,2
-ACC,NC,18-Dec,1
-ACC,NC,19-Jan,5
-ACC,NC,19-Feb,6
-ACC,NC,19-Mar,1
-ACC,NC,19-Apr,4
-ACC,NC,19-May,4
-ACC,NC,19-Jun,2
-ACC,NC,19-Jul,3
-ACC,NC,19-Aug,1
-ACC,NC,19-Sep,1
-ACC,NC,19-Oct,8
-ACC,NC,19-Nov,5
-ACC,NC,19-Dec,8
-ACC,NC,20-Jan,3
-ACC,NC,20-Feb,3
-ACC,NC,20-Mar,11
-ACC,NC,20-Apr,0
-Acupuncture,FU,18-Jan,54
-Acupuncture,FU,18-Feb,15
-Acupuncture,FU,18-Mar,75
-Acupuncture,FU,18-Apr,79
-Acupuncture,FU,18-May,99
-Acupuncture,FU,18-Jun,47
-Acupuncture,FU,18-Jul,61
-Acupuncture,FU,18-Aug,72
-Acupuncture,FU,18-Sep,62
-Acupuncture,FU,18-Oct,29
-Acupuncture,FU,18-Nov,43
-Acupuncture,FU,18-Dec,33
-Acupuncture,FU,19-Jan,20
-Acupuncture,FU,19-Feb,21
-Acupuncture,FU,19-Mar,49
-Acupuncture,FU,19-Apr,60
-Acupuncture,FU,19-May,50
-Acupuncture,FU,19-Jun,58
-Acupuncture,FU,19-Jul,88
-Acupuncture,FU,19-Aug,60
-Acupuncture,FU,19-Sep,61
-Acupuncture,FU,19-Oct,82
-Acupuncture,FU,19-Nov,58
-Acupuncture,FU,19-Dec,48
-Acupuncture,FU,20-Jan,32
-Acupuncture,FU,20-Feb,7
-Acupuncture,FU,20-Mar,20
-Acupuncture,FU,20-Apr,0
-Acupuncture,NC,18-Jan,0
-Acupuncture,NC,18-Feb,0
-Acupuncture,NC,18-Mar,0
-Acupuncture,NC,18-Apr,0
-Acupuncture,NC,18-May,0
-Acupuncture,NC,18-Jun,0
-Acupuncture,NC,18-Jul,17
-Acupuncture,NC,18-Aug,17
-Acupuncture,NC,18-Sep,9
-Acupuncture,NC,18-Oct,14
-Acupuncture,NC,18-Nov,3
-Acupuncture,NC,18-Dec,6
-Acupuncture,NC,19-Jan,4
-Acupuncture,NC,19-Feb,1
-Acupuncture,NC,19-Mar,13
-Acupuncture,NC,19-Apr,10
-Acupuncture,NC,19-May,10
-Acupuncture,NC,19-Jun,11
-Acupuncture,NC,19-Jul,12
-Acupuncture,NC,19-Aug,7
-Acupuncture,NC,19-Sep,9
-Acupuncture,NC,19-Oct,11
-Acupuncture,NC,19-Nov,6
-Acupuncture,NC,19-Dec,6
-Acupuncture,NC,20-Jan,4
-Acupuncture,NC,20-Feb,4
-Acupuncture,NC,20-Mar,4
-Acupuncture,NC,20-Apr,0
-Antenatal,FU,18-Jan,167
-Antenatal,FU,18-Feb,152
-Antenatal,FU,18-Mar,175
-Antenatal,FU,18-Apr,135
-Antenatal,FU,18-May,166
-Antenatal,FU,18-Jun,181
-Antenatal,FU,18-Jul,105
-Antenatal,FU,18-Aug,145
-Antenatal,FU,18-Sep,132
-Antenatal,FU,18-Oct,157
-Antenatal,FU,18-Nov,131
-Antenatal,FU,18-Dec,0
-Antenatal,FU,19-Jan,128
-Antenatal,FU,19-Feb,131
-Antenatal,FU,19-Mar,151
-Antenatal,FU,19-Apr,138
-Antenatal,FU,19-May,162
-Antenatal,FU,19-Jun,148
-Antenatal,FU,19-Jul,178
-Antenatal,FU,19-Aug,194
-Antenatal,FU,19-Sep,130
-Antenatal,FU,19-Oct,159
-Antenatal,FU,19-Nov,147
-Antenatal,FU,19-Dec,115
-Antenatal,FU,20-Jan,126
-Antenatal,FU,20-Feb,101
-Antenatal,FU,20-Mar,101
-Antenatal,FU,20-Apr,73
-Antenatal,NC,18-Jan,20
-Antenatal,NC,18-Feb,13
-Antenatal,NC,18-Mar,27
-Antenatal,NC,18-Apr,16
-Antenatal,NC,18-May,37
-Antenatal,NC,18-Jun,27
-Antenatal,NC,18-Jul,16
-Antenatal,NC,18-Aug,18
-Antenatal,NC,18-Sep,20
-Antenatal,NC,18-Oct,23
-Antenatal,NC,18-Nov,22
-Antenatal,NC,18-Dec,0
-Antenatal,NC,19-Jan,32
-Antenatal,NC,19-Feb,28
-Antenatal,NC,19-Mar,24
-Antenatal,NC,19-Apr,14
-Antenatal,NC,19-May,36
-Antenatal,NC,19-Jun,23
-Antenatal,NC,19-Jul,22
-Antenatal,NC,19-Aug,20
-Antenatal,NC,19-Sep,15
-Antenatal,NC,19-Oct,18
-Antenatal,NC,19-Nov,22
-Antenatal,NC,19-Dec,24
-Antenatal,NC,20-Jan,31
-Antenatal,NC,20-Feb,27
-Antenatal,NC,20-Mar,25
-Antenatal,NC,20-Apr,26
-Audiology,FU,18-Jan,40
-Audiology,FU,18-Feb,25
-Audiology,FU,18-Mar,25
-Audiology,FU,18-Apr,42
-Audiology,FU,18-May,46
-Audiology,FU,18-Jun,39
-Audiology,FU,18-Jul,25
-Audiology,FU,18-Aug,29
-Audiology,FU,18-Sep,27
-Audiology,FU,18-Oct,17
-Audiology,FU,18-Nov,24
-Audiology,FU,18-Dec,24
-Audiology,FU,19-Jan,21
-Audiology,FU,19-Feb,26
-Audiology,FU,19-Mar,26
-Audiology,FU,19-Apr,19
-Audiology,FU,19-May,14
-Audiology,FU,19-Jun,5
-Audiology,FU,19-Jul,12
-Audiology,FU,19-Aug,20
-Audiology,FU,19-Sep,11
-Audiology,FU,19-Oct,9
-Audiology,FU,19-Nov,16
-Audiology,FU,19-Dec,8
-Audiology,FU,20-Jan,8
-Audiology,FU,20-Feb,21
-Audiology,FU,20-Mar,4
-Audiology,FU,20-Apr,0
-Audiology,NC,18-Jan,0
-Audiology,NC,18-Feb,0
-Audiology,NC,18-Mar,0
-Audiology,NC,18-Apr,0
-Audiology,NC,18-May,0
-Audiology,NC,18-Jun,0
-Audiology,NC,18-Jul,20
-Audiology,NC,18-Aug,6
-Audiology,NC,18-Sep,12
-Audiology,NC,18-Oct,12
-Audiology,NC,18-Nov,15
-Audiology,NC,18-Dec,8
-Audiology,NC,19-Jan,11
-Audiology,NC,19-Feb,11
-Audiology,NC,19-Mar,10
-Audiology,NC,19-Apr,24
-Audiology,NC,19-May,18
-Audiology,NC,19-Jun,27
-Audiology,NC,19-Jul,15
-Audiology,NC,19-Aug,9
-Audiology,NC,19-Sep,14
-Audiology,NC,19-Oct,17
-Audiology,NC,19-Nov,9
-Audiology,NC,19-Dec,16
-Audiology,NC,20-Jan,15
-Audiology,NC,20-Feb,11
-Audiology,NC,20-Mar,11
-Audiology,NC,20-Apr,0
-BP Monitoring,FU,18-Jan,0
-BP Monitoring,FU,18-Feb,0
-BP Monitoring,FU,18-Mar,0
-BP Monitoring,FU,18-Apr,0
-BP Monitoring,FU,18-May,0
-BP Monitoring,FU,18-Jun,0
-BP Monitoring,FU,18-Jul,0
-BP Monitoring,FU,18-Aug,0
-BP Monitoring,FU,18-Sep,0
-BP Monitoring,FU,18-Oct,0
-BP Monitoring,FU,18-Nov,0
-BP Monitoring,FU,18-Dec,0
-BP Monitoring,FU,19-Jan,0
-BP Monitoring,FU,19-Feb,0
-BP Monitoring,FU,19-Mar,0
-BP Monitoring,FU,19-Apr,0
-BP Monitoring,FU,19-May,0
-BP Monitoring,FU,19-Jun,0
-BP Monitoring,FU,19-Jul,0
-BP Monitoring,FU,19-Aug,0
-BP Monitoring,FU,19-Sep,0
-BP Monitoring,FU,19-Oct,0
-BP Monitoring,FU,19-Nov,0
-BP Monitoring,FU,19-Dec,0
-BP Monitoring,FU,20-Jan,12
-BP Monitoring,FU,20-Feb,0
-BP Monitoring,FU,20-Mar,0
-BP Monitoring,FU,20-Apr,0
-BP Monitoring,NC,18-Jan,5
-BP Monitoring,NC,18-Feb,7
-BP Monitoring,NC,18-Mar,15
-BP Monitoring,NC,18-Apr,16
-BP Monitoring,NC,18-May,17
-BP Monitoring,NC,18-Jun,15
-BP Monitoring,NC,18-Jul,8
-BP Monitoring,NC,18-Aug,1
-BP Monitoring,NC,18-Sep,0
-BP Monitoring,NC,18-Oct,6
-BP Monitoring,NC,18-Nov,3
-BP Monitoring,NC,18-Dec,0
-BP Monitoring,NC,19-Jan,2
-BP Monitoring,NC,19-Feb,0
-BP Monitoring,NC,19-Mar,0
-BP Monitoring,NC,19-Apr,12
-BP Monitoring,NC,19-May,18
-BP Monitoring,NC,19-Jun,7
-BP Monitoring,NC,19-Jul,4
-BP Monitoring,NC,19-Aug,4
-BP Monitoring,NC,19-Sep,4
-BP Monitoring,NC,19-Oct,6
-BP Monitoring,NC,19-Nov,6
-BP Monitoring,NC,19-Dec,6
-BP Monitoring,NC,20-Jan,0
-BP Monitoring,NC,20-Feb,10
-BP Monitoring,NC,20-Mar,9
-BP Monitoring,NC,20-Apr,0
-Bleeding Room,FU,18-Jan,"1,177"
-Bleeding Room,FU,18-Feb,950
-Bleeding Room,FU,18-Mar,983
-Bleeding Room,FU,18-Apr,924
-Bleeding Room,FU,18-May,"1,032"
-Bleeding Room,FU,18-Jun,929
-Bleeding Room,FU,18-Jul,930
-Bleeding Room,FU,18-Aug,990
-Bleeding Room,FU,18-Sep,986
-Bleeding Room,FU,18-Oct,"1,169"
-Bleeding Room,FU,18-Nov,975
-Bleeding Room,FU,18-Dec,752
-Bleeding Room,FU,19-Jan,1078
-Bleeding Room,FU,19-Feb,1000
-Bleeding Room,FU,19-Mar,1026
-Bleeding Room,FU,19-Apr,947
-Bleeding Room,FU,19-May,1057
-Bleeding Room,FU,19-Jun,899
-Bleeding Room,FU,19-Jul,1022
-Bleeding Room,FU,19-Aug,916
-Bleeding Room,FU,19-Sep,965
-Bleeding Room,FU,19-Oct,1090
-Bleeding Room,FU,19-Nov,1084
-Bleeding Room,FU,19-Dec,892
-Bleeding Room,FU,20-Jan,1014
-Bleeding Room,FU,20-Feb,989
-Bleeding Room,FU,20-Mar,734
-Bleeding Room,FU,20-Apr,521
-Bleeding Room,NC,18-Jan,
-Bleeding Room,NC,18-Feb,
-Bleeding Room,NC,18-Mar,
-Bleeding Room,NC,18-Apr,
-Bleeding Room,NC,18-May,
-Bleeding Room,NC,18-Jun,
-Bleeding Room,NC,18-Jul,
-Bleeding Room,NC,18-Aug,
-Bleeding Room,NC,18-Sep,
-Bleeding Room,NC,18-Oct,
-Bleeding Room,NC,18-Nov,
-Bleeding Room,NC,18-Dec,
-Bleeding Room,NC,19-Jan,0
-Bleeding Room,NC,19-Feb,0
-Bleeding Room,NC,19-Mar,0
-Bleeding Room,NC,19-Apr,0
-Bleeding Room,NC,19-May,0
-Bleeding Room,NC,19-Jun,0
-Bleeding Room,NC,19-Jul,0
-Bleeding Room,NC,19-Aug,0
-Bleeding Room,NC,19-Sep,0
-Bleeding Room,NC,19-Oct,0
-Bleeding Room,NC,19-Nov,0
-Bleeding Room,NC,19-Dec,0
-Bleeding Room,NC,20-Jan,0
-Bleeding Room,NC,20-Feb,0
-Bleeding Room,NC,20-Mar,0
-Bleeding Room,NC,20-Apr,0
-Breast clinic,FU,18-Jan,0
-Breast clinic,FU,18-Feb,7
-Breast clinic,FU,18-Mar,9
-Breast clinic,FU,18-Apr,7
-Breast clinic,FU,18-May,14
-Breast clinic,FU,18-Jun,11
-Breast clinic,FU,18-Jul,10
-Breast clinic,FU,18-Aug,17
-Breast clinic,FU,18-Sep,11
-Breast clinic,FU,18-Oct,15
-Breast clinic,FU,18-Nov,18
-Breast clinic,FU,18-Dec,11
-Breast clinic,FU,19-Jan,11
-Breast clinic,FU,19-Feb,18
-Breast clinic,FU,19-Mar,19
-Breast clinic,FU,19-Apr,23
-Breast clinic,FU,19-May,21
-Breast clinic,FU,19-Jun,15
-Breast clinic,FU,19-Jul,13
-Breast clinic,FU,19-Aug,18
-Breast clinic,FU,19-Sep,18
-Breast clinic,FU,19-Oct,22
-Breast clinic,FU,19-Nov,24
-Breast clinic,FU,19-Dec,24
-Breast clinic,FU,20-Jan,18
-Breast clinic,FU,20-Feb,15
-Breast clinic,FU,20-Mar,13
-Breast clinic,FU,20-Apr,6
-Breast clinic,NC,18-Jan,0
-Breast clinic,NC,18-Feb,17
-Breast clinic,NC,18-Mar,10
-Breast clinic,NC,18-Apr,9
-Breast clinic,NC,18-May,6
-Breast clinic,NC,18-Jun,13
-Breast clinic,NC,18-Jul,10
-Breast clinic,NC,18-Aug,8
-Breast clinic,NC,18-Sep,12
-Breast clinic,NC,18-Oct,17
-Breast clinic,NC,18-Nov,11
-Breast clinic,NC,18-Dec,13
-Breast clinic,NC,19-Jan,15
-Breast clinic,NC,19-Feb,15
-Breast clinic,NC,19-Mar,17
-Breast clinic,NC,19-Apr,13
-Breast clinic,NC,19-May,14
-Breast clinic,NC,19-Jun,18
-Breast clinic,NC,19-Jul,16
-Breast clinic,NC,19-Aug,23
-Breast clinic,NC,19-Sep,11
-Breast clinic,NC,19-Oct,15
-Breast clinic,NC,19-Nov,11
-Breast clinic,NC,19-Dec,11
-Breast clinic,NC,20-Jan,25
-Breast clinic,NC,20-Feb,8
-Breast clinic,NC,20-Mar,10
-Breast clinic,NC,20-Apr,4
-Cardiology,FU,18-Jan,68
-Cardiology,FU,18-Feb,53
-Cardiology,FU,18-Mar,54
-Cardiology,FU,18-Apr,65
-Cardiology,FU,18-May,65
-Cardiology,FU,18-Jun,80
-Cardiology,FU,18-Jul,95
-Cardiology,FU,18-Aug,66
-Cardiology,FU,18-Sep,76
-Cardiology,FU,18-Oct,75
-Cardiology,FU,18-Nov,110
-Cardiology,FU,18-Dec,81
-Cardiology,FU,19-Jan,25
-Cardiology,FU,19-Feb,31
-Cardiology,FU,19-Mar,31
-Cardiology,FU,19-Apr,25
-Cardiology,FU,19-May,11
-Cardiology,FU,19-Jun,19
-Cardiology,FU,19-Jul,37
-Cardiology,FU,19-Aug,24
-Cardiology,FU,19-Sep,9
-Cardiology,FU,19-Oct,13
-Cardiology,FU,19-Nov,19
-Cardiology,FU,19-Dec,12
-Cardiology,FU,20-Jan,20
-Cardiology,FU,20-Feb,19
-Cardiology,FU,20-Mar,9
-Cardiology,FU,20-Apr,0
-Cardiology,NC,18-Jan,23
-Cardiology,NC,18-Feb,12
-Cardiology,NC,18-Mar,9
-Cardiology,NC,18-Apr,16
-Cardiology,NC,18-May,12
-Cardiology,NC,18-Jun,18
-Cardiology,NC,18-Jul,41
-Cardiology,NC,18-Aug,22
-Cardiology,NC,18-Sep,47
-Cardiology,NC,18-Oct,21
-Cardiology,NC,18-Nov,10
-Cardiology,NC,18-Dec,10
-Cardiology,NC,19-Jan,6
-Cardiology,NC,19-Feb,6
-Cardiology,NC,19-Mar,6
-Cardiology,NC,19-Apr,9
-Cardiology,NC,19-May,5
-Cardiology,NC,19-Jun,6
-Cardiology,NC,19-Jul,16
-Cardiology,NC,19-Aug,10
-Cardiology,NC,19-Sep,5
-Cardiology,NC,19-Oct,18
-Cardiology,NC,19-Nov,12
-Cardiology,NC,19-Dec,17
-Cardiology,NC,20-Jan,13
-Cardiology,NC,20-Feb,13
-Cardiology,NC,20-Mar,10
-Cardiology,NC,20-Apr,0
-Cervical Screening,FU,18-Jan,0
-Cervical Screening,FU,18-Feb,0
-Cervical Screening,FU,18-Mar,0
-Cervical Screening,FU,18-Apr,0
-Cervical Screening,FU,18-May,0
-Cervical Screening,FU,18-Jun,0
-Cervical Screening,FU,18-Jul,0
-Cervical Screening,FU,18-Aug,0
-Cervical Screening,FU,18-Sep,0
-Cervical Screening,FU,18-Oct,0
-Cervical Screening,FU,18-Nov,1
-Cervical Screening,FU,18-Dec,2
-Cervical Screening,FU,19-Jan,2
-Cervical Screening,FU,19-Feb,2
-Cervical Screening,FU,19-Mar,3
-Cervical Screening,FU,19-Apr,1
-Cervical Screening,FU,19-May,0
-Cervical Screening,FU,19-Jun,2
-Cervical Screening,FU,19-Jul,4
-Cervical Screening,FU,19-Aug,1
-Cervical Screening,FU,19-Sep,0
-Cervical Screening,FU,19-Oct,0
-Cervical Screening,FU,19-Nov,2
-Cervical Screening,FU,19-Dec,2
-Cervical Screening,FU,20-Jan,1
-Cervical Screening,FU,20-Feb,0
-Cervical Screening,FU,20-Mar,0
-Cervical Screening,FU,20-Apr,0
-Cervical Screening,NC,18-Jan,22
-Cervical Screening,NC,18-Feb,19
-Cervical Screening,NC,18-Mar,13
-Cervical Screening,NC,18-Apr,16
-Cervical Screening,NC,18-May,21
-Cervical Screening,NC,18-Jun,22
-Cervical Screening,NC,18-Jul,34
-Cervical Screening,NC,18-Aug,23
-Cervical Screening,NC,18-Sep,19
-Cervical Screening,NC,18-Oct,22
-Cervical Screening,NC,18-Nov,24
-Cervical Screening,NC,18-Dec,14
-Cervical Screening,NC,19-Jan,19
-Cervical Screening,NC,19-Feb,9
-Cervical Screening,NC,19-Mar,24
-Cervical Screening,NC,19-Apr,23
-Cervical Screening,NC,19-May,25
-Cervical Screening,NC,19-Jun,30
-Cervical Screening,NC,19-Jul,5
-Cervical Screening,NC,19-Aug,18
-Cervical Screening,NC,19-Sep,19
-Cervical Screening,NC,19-Oct,24
-Cervical Screening,NC,19-Nov,17
-Cervical Screening,NC,19-Dec,16
-Cervical Screening,NC,20-Jan,7
-Cervical Screening,NC,20-Feb,20
-Cervical Screening,NC,20-Mar,5
-Cervical Screening,NC,20-Apr,0
-Colon Rectal Screening,FU,18-Jan,2
-Colon Rectal Screening,FU,18-Feb,11
-Colon Rectal Screening,FU,18-Mar,11
-Colon Rectal Screening,FU,18-Apr,5
-Colon Rectal Screening,FU,18-May,10
-Colon Rectal Screening,FU,18-Jun,5
-Colon Rectal Screening,FU,18-Jul,15
-Colon Rectal Screening,FU,18-Aug,4
-Colon Rectal Screening,FU,18-Sep,5
-Colon Rectal Screening,FU,18-Oct,6
-Colon Rectal Screening,FU,18-Nov,9
-Colon Rectal Screening,FU,18-Dec,5
-Colon Rectal Screening,FU,19-Jan,5
-Colon Rectal Screening,FU,19-Feb,10
-Colon Rectal Screening,FU,19-Mar,5
-Colon Rectal Screening,FU,19-Apr,7
-Colon Rectal Screening,FU,19-May,7
-Colon Rectal Screening,FU,19-Jun,4
-Colon Rectal Screening,FU,19-Jul,9
-Colon Rectal Screening,FU,19-Aug,9
-Colon Rectal Screening,FU,19-Sep,6
-Colon Rectal Screening,FU,19-Oct,13
-Colon Rectal Screening,FU,19-Nov,15
-Colon Rectal Screening,FU,19-Dec,7
-Colon Rectal Screening,FU,20-Jan,12
-Colon Rectal Screening,FU,20-Feb,7
-Colon Rectal Screening,FU,20-Mar,8
-Colon Rectal Screening,FU,20-Apr,0
-Colon Rectal Screening,NC,18-Jan,24
-Colon Rectal Screening,NC,18-Feb,31
-Colon Rectal Screening,NC,18-Mar,20
-Colon Rectal Screening,NC,18-Apr,32
-Colon Rectal Screening,NC,18-May,48
-Colon Rectal Screening,NC,18-Jun,35
-Colon Rectal Screening,NC,18-Jul,26
-Colon Rectal Screening,NC,18-Aug,43
-Colon Rectal Screening,NC,18-Sep,50
-Colon Rectal Screening,NC,18-Oct,54
-Colon Rectal Screening,NC,18-Nov,48
-Colon Rectal Screening,NC,18-Dec,18
-Colon Rectal Screening,NC,19-Jan,35
-Colon Rectal Screening,NC,19-Feb,24
-Colon Rectal Screening,NC,19-Mar,26
-Colon Rectal Screening,NC,19-Apr,23
-Colon Rectal Screening,NC,19-May,28
-Colon Rectal Screening,NC,19-Jun,20
-Colon Rectal Screening,NC,19-Jul,19
-Colon Rectal Screening,NC,19-Aug,29
-Colon Rectal Screening,NC,19-Sep,33
-Colon Rectal Screening,NC,19-Oct,45
-Colon Rectal Screening,NC,19-Nov,54
-Colon Rectal Screening,NC,19-Dec,29
-Colon Rectal Screening,NC,20-Jan,44
-Colon Rectal Screening,NC,20-Feb,16
-Colon Rectal Screening,NC,20-Mar,23
-Colon Rectal Screening,NC,20-Apr,0
-Dental,FU,18-Jan,323
-Dental,FU,18-Feb,280
-Dental,FU,18-Mar,457
-Dental,FU,18-Apr,284
-Dental,FU,18-May,281
-Dental,FU,18-Jun,307
-Dental,FU,18-Jul,249
-Dental,FU,18-Aug,215
-Dental,FU,18-Sep,123
-Dental,FU,18-Oct,102
-Dental,FU,18-Nov,192
-Dental,FU,18-Dec,60
-Dental,FU,19-Jan,55
-Dental,FU,19-Feb,53
-Dental,FU,19-Mar,36
-Dental,FU,19-Apr,125
-Dental,FU,19-May,189
-Dental,FU,19-Jun,240
-Dental,FU,19-Jul,289
-Dental,FU,19-Aug,340
-Dental,FU,19-Sep,339
-Dental,FU,19-Oct,455
-Dental,FU,19-Nov,436
-Dental,FU,19-Dec,316
-Dental,FU,20-Jan,430
-Dental,FU,20-Feb,331
-Dental,FU,20-Mar,156
-Dental,FU,20-Apr,13
-Dental,NC,18-Jan,185
-Dental,NC,18-Feb,166
-Dental,NC,18-Mar,220
-Dental,NC,18-Apr,197
-Dental,NC,18-May,248
-Dental,NC,18-Jun,213
-Dental,NC,18-Jul,282
-Dental,NC,18-Aug,71
-Dental,NC,18-Sep,31
-Dental,NC,18-Oct,113
-Dental,NC,18-Nov,162
-Dental,NC,18-Dec,21
-Dental,NC,19-Jan,35
-Dental,NC,19-Feb,52
-Dental,NC,19-Mar,92
-Dental,NC,19-Apr,389
-Dental,NC,19-May,312
-Dental,NC,19-Jun,202
-Dental,NC,19-Jul,225
-Dental,NC,19-Aug,152
-Dental,NC,19-Sep,85
-Dental,NC,19-Oct,52
-Dental,NC,19-Nov,27
-Dental,NC,19-Dec,39
-Dental,NC,20-Jan,49
-Dental,NC,20-Feb,18
-Dental,NC,20-Mar,21
-Dental,NC,20-Apr,15
-Dermatology,FU,18-Jan,48
-Dermatology,FU,18-Feb,72
-Dermatology,FU,18-Mar,68
-Dermatology,FU,18-Apr,61
-Dermatology,FU,18-May,46
-Dermatology,FU,18-Jun,73
-Dermatology,FU,18-Jul,70
-Dermatology,FU,18-Aug,60
-Dermatology,FU,18-Sep,59
-Dermatology,FU,18-Oct,53
-Dermatology,FU,18-Nov,87
-Dermatology,FU,18-Dec,49
-Dermatology,FU,19-Jan,54
-Dermatology,FU,19-Feb,61
-Dermatology,FU,19-Mar,58
-Dermatology,FU,19-Apr,58
-Dermatology,FU,19-May,71
-Dermatology,FU,19-Jun,43
-Dermatology,FU,19-Jul,69
-Dermatology,FU,19-Aug,59
-Dermatology,FU,19-Sep,42
-Dermatology,FU,19-Oct,52
-Dermatology,FU,19-Nov,67
-Dermatology,FU,19-Dec,25
-Dermatology,FU,20-Jan,76
-Dermatology,FU,20-Feb,79
-Dermatology,FU,20-Mar,39
-Dermatology,FU,20-Apr,0
-Dermatology,NC,18-Jan,36
-Dermatology,NC,18-Feb,44
-Dermatology,NC,18-Mar,59
-Dermatology,NC,18-Apr,58
-Dermatology,NC,18-May,58
-Dermatology,NC,18-Jun,74
-Dermatology,NC,18-Jul,70
-Dermatology,NC,18-Aug,48
-Dermatology,NC,18-Sep,48
-Dermatology,NC,18-Oct,50
-Dermatology,NC,18-Nov,54
-Dermatology,NC,18-Dec,49
-Dermatology,NC,19-Jan,37
-Dermatology,NC,19-Feb,58
-Dermatology,NC,19-Mar,60
-Dermatology,NC,19-Apr,52
-Dermatology,NC,19-May,44
-Dermatology,NC,19-Jun,51
-Dermatology,NC,19-Jul,57
-Dermatology,NC,19-Aug,52
-Dermatology,NC,19-Sep,53
-Dermatology,NC,19-Oct,72
-Dermatology,NC,19-Nov,51
-Dermatology,NC,19-Dec,55
-Dermatology,NC,20-Jan,52
-Dermatology,NC,20-Feb,63
-Dermatology,NC,20-Mar,40
-Dermatology,NC,20-Apr,5
-Detox,FU,18-Jan,611
-Detox,FU,18-Feb,466
-Detox,FU,18-Mar,506
-Detox,FU,18-Apr,450
-Detox,FU,18-May,503
-Detox,FU,18-Jun,442
-Detox,FU,18-Jul,718
-Detox,FU,18-Aug,420
-Detox,FU,18-Sep,334
-Detox,FU,18-Oct,347
-Detox,FU,18-Nov,420
-Detox,FU,18-Dec,395
-Detox,FU,19-Jan,387
-Detox,FU,19-Feb,350
-Detox,FU,19-Mar,367
-Detox,FU,19-Apr,366
-Detox,FU,19-May,430
-Detox,FU,19-Jun,445
-Detox,FU,19-Jul,432
-Detox,FU,19-Aug,435
-Detox,FU,19-Sep,399
-Detox,FU,19-Oct,36
-Detox,FU,19-Nov,562
-Detox,FU,19-Dec,605
-Detox,FU,20-Jan,529
-Detox,FU,20-Feb,493
-Detox,FU,20-Mar,520
-Detox,FU,20-Apr,360
-Detox,NC,18-Jan,0
-Detox,NC,18-Feb,0
-Detox,NC,18-Mar,0
-Detox,NC,18-Apr,0
-Detox,NC,18-May,0
-Detox,NC,18-Jun,1
-Detox,NC,18-Jul,1
-Detox,NC,18-Aug,1
-Detox,NC,18-Sep,0
-Detox,NC,18-Oct,0
-Detox,NC,18-Nov,0
-Detox,NC,18-Dec,1
-Detox,NC,19-Jan,0
-Detox,NC,19-Feb,0
-Detox,NC,19-Mar,0
-Detox,NC,19-Apr,2
-Detox,NC,19-May,1
-Detox,NC,19-Jun,1
-Detox,NC,19-Jul,0
-Detox,NC,19-Aug,1
-Detox,NC,19-Sep,1
-Detox,NC,19-Oct,3
-Detox,NC,19-Nov,0
-Detox,NC,19-Dec,0
-Detox,NC,20-Jan,0
-Detox,NC,20-Feb,0
-Detox,NC,20-Mar,0
-Detox,NC,20-Apr,0
-Diabetes Education Services.,FU,18-Jan,0
-Diabetes Education Services.,FU,18-Feb,0
-Diabetes Education Services.,FU,18-Mar,0
-Diabetes Education Services.,FU,18-Apr,0
-Diabetes Education Services.,FU,18-May,0
-Diabetes Education Services.,FU,18-Jun,0
-Diabetes Education Services.,FU,18-Jul,0
-Diabetes Education Services.,FU,18-Aug,0
-Diabetes Education Services.,FU,18-Sep,0
-Diabetes Education Services.,FU,18-Oct,0
-Diabetes Education Services.,FU,18-Nov,0
-Diabetes Education Services.,FU,18-Dec,0
-Diabetes Education Services.,FU,19-Jan,0
-Diabetes Education Services.,FU,19-Feb,0
-Diabetes Education Services.,FU,19-Mar,0
-Diabetes Education Services.,FU,19-Apr,0
-Diabetes Education Services.,FU,19-May,0
-Diabetes Education Services.,FU,19-Jun,0
-Diabetes Education Services.,FU,19-Jul,0
-Diabetes Education Services.,FU,19-Aug,0
-Diabetes Education Services.,FU,19-Sep,0
-Diabetes Education Services.,FU,19-Oct,0
-Diabetes Education Services.,FU,19-Nov,0
-Diabetes Education Services.,FU,19-Dec,0
-Diabetes Education Services.,FU,20-Jan,0
-Diabetes Education Services.,FU,20-Feb,0
-Diabetes Education Services.,FU,20-Mar,0
-Diabetes Education Services.,FU,20-Apr,0
-Diabetes Education Services.,NC,18-Jan,0
-Diabetes Education Services.,NC,18-Feb,0
-Diabetes Education Services.,NC,18-Mar,0
-Diabetes Education Services.,NC,18-Apr,0
-Diabetes Education Services.,NC,18-May,0
-Diabetes Education Services.,NC,18-Jun,0
-Diabetes Education Services.,NC,18-Jul,0
-Diabetes Education Services.,NC,18-Aug,0
-Diabetes Education Services.,NC,18-Sep,0
-Diabetes Education Services.,NC,18-Oct,0
-Diabetes Education Services.,NC,18-Nov,0
-Diabetes Education Services.,NC,18-Dec,0
-Diabetes Education Services.,NC,19-Jan,0
-Diabetes Education Services.,NC,19-Feb,0
-Diabetes Education Services.,NC,19-Mar,0
-Diabetes Education Services.,NC,19-Apr,0
-Diabetes Education Services.,NC,19-May,0
-Diabetes Education Services.,NC,19-Jun,0
-Diabetes Education Services.,NC,19-Jul,0
-Diabetes Education Services.,NC,19-Aug,0
-Diabetes Education Services.,NC,19-Sep,0
-Diabetes Education Services.,NC,19-Oct,0
-Diabetes Education Services.,NC,19-Nov,0
-Diabetes Education Services.,NC,19-Dec,0
-Diabetes Education Services.,NC,20-Jan,0
-Diabetes Education Services.,NC,20-Feb,0
-Diabetes Education Services.,NC,20-Mar,0
-Diabetes Education Services.,NC,20-Apr,0
-Diabetology,FU,18-Jan,126
-Diabetology,FU,18-Feb,95
-Diabetology,FU,18-Mar,132
-Diabetology,FU,18-Apr,119
-Diabetology,FU,18-May,115
-Diabetology,FU,18-Jun,109
-Diabetology,FU,18-Jul,118
-Diabetology,FU,18-Aug,105
-Diabetology,FU,18-Sep,100
-Diabetology,FU,18-Oct,102
-Diabetology,FU,18-Nov,105
-Diabetology,FU,18-Dec,63
-Diabetology,FU,19-Jan,104
-Diabetology,FU,19-Feb,107
-Diabetology,FU,19-Mar,68
-Diabetology,FU,19-Apr,66
-Diabetology,FU,19-May,71
-Diabetology,FU,19-Jun,72
-Diabetology,FU,19-Jul,86
-Diabetology,FU,19-Aug,75
-Diabetology,FU,19-Sep,63
-Diabetology,FU,19-Oct,94
-Diabetology,FU,19-Nov,73
-Diabetology,FU,19-Dec,89
-Diabetology,FU,20-Jan,92
-Diabetology,FU,20-Feb,83
-Diabetology,FU,20-Mar,49
-Diabetology,FU,20-Apr,0
-Diabetology,NC,18-Jan,8
-Diabetology,NC,18-Feb,8
-Diabetology,NC,18-Mar,9
-Diabetology,NC,18-Apr,6
-Diabetology,NC,18-May,6
-Diabetology,NC,18-Jun,12
-Diabetology,NC,18-Jul,8
-Diabetology,NC,18-Aug,11
-Diabetology,NC,18-Sep,7
-Diabetology,NC,18-Oct,6
-Diabetology,NC,18-Nov,10
-Diabetology,NC,18-Dec,7
-Diabetology,NC,19-Jan,12
-Diabetology,NC,19-Feb,15
-Diabetology,NC,19-Mar,12
-Diabetology,NC,19-Apr,11
-Diabetology,NC,19-May,44
-Diabetology,NC,19-Jun,11
-Diabetology,NC,19-Jul,13
-Diabetology,NC,19-Aug,10
-Diabetology,NC,19-Sep,9
-Diabetology,NC,19-Oct,16
-Diabetology,NC,19-Nov,17
-Diabetology,NC,19-Dec,14
-Diabetology,NC,20-Jan,12
-Diabetology,NC,20-Feb,13
-Diabetology,NC,20-Mar,5
-Diabetology,NC,20-Apr,1
-Dietician,FU,18-Jan,9
-Dietician,FU,18-Feb,9
-Dietician,FU,18-Mar,7
-Dietician,FU,18-Apr,13
-Dietician,FU,18-May,23
-Dietician,FU,18-Jun,13
-Dietician,FU,18-Jul,14
-Dietician,FU,18-Aug,17
-Dietician,FU,18-Sep,11
-Dietician,FU,18-Oct,17
-Dietician,FU,18-Nov,8
-Dietician,FU,18-Dec,15
-Dietician,FU,19-Jan,12
-Dietician,FU,19-Feb,21
-Dietician,FU,19-Mar,9
-Dietician,FU,19-Apr,14
-Dietician,FU,19-May,18
-Dietician,FU,19-Jun,9
-Dietician,FU,19-Jul,24
-Dietician,FU,19-Aug,10
-Dietician,FU,19-Sep,4
-Dietician,FU,19-Oct,24
-Dietician,FU,19-Nov,11
-Dietician,FU,19-Dec,15
-Dietician,FU,20-Jan,22
-Dietician,FU,20-Feb,17
-Dietician,FU,20-Mar,7
-Dietician,FU,20-Apr,0
-Dietician,NC,18-Jan,12
-Dietician,NC,18-Feb,16
-Dietician,NC,18-Mar,22
-Dietician,NC,18-Apr,20
-Dietician,NC,18-May,22
-Dietician,NC,18-Jun,15
-Dietician,NC,18-Jul,18
-Dietician,NC,18-Aug,9
-Dietician,NC,18-Sep,12
-Dietician,NC,18-Oct,17
-Dietician,NC,18-Nov,6
-Dietician,NC,18-Dec,12
-Dietician,NC,19-Jan,15
-Dietician,NC,19-Feb,11
-Dietician,NC,19-Mar,12
-Dietician,NC,19-Apr,14
-Dietician,NC,19-May,19
-Dietician,NC,19-Jun,16
-Dietician,NC,19-Jul,15
-Dietician,NC,19-Aug,13
-Dietician,NC,19-Sep,3
-Dietician,NC,19-Oct,33
-Dietician,NC,19-Nov,13
-Dietician,NC,19-Dec,14
-Dietician,NC,20-Jan,10
-Dietician,NC,20-Feb,17
-Dietician,NC,20-Mar,11
-Dietician,NC,20-Apr,0
-ECG Stress tests,FU,18-Jan,0
-ECG Stress tests,FU,18-Feb,0
-ECG Stress tests,FU,18-Mar,0
-ECG Stress tests,FU,18-Apr,0
-ECG Stress tests,FU,18-May,0
-ECG Stress tests,FU,18-Jun,0
-ECG Stress tests,FU,18-Jul,0
-ECG Stress tests,FU,18-Aug,0
-ECG Stress tests,FU,18-Sep,0
-ECG Stress tests,FU,18-Oct,0
-ECG Stress tests,FU,18-Nov,0
-ECG Stress tests,FU,18-Dec,0
-ECG Stress tests,FU,19-Jan,0
-ECG Stress tests,FU,19-Feb,0
-ECG Stress tests,FU,19-Mar,0
-ECG Stress tests,FU,19-Apr,0
-ECG Stress tests,FU,19-May,0
-ECG Stress tests,FU,19-Jun,0
-ECG Stress tests,FU,19-Jul,0
-ECG Stress tests,FU,19-Aug,0
-ECG Stress tests,FU,19-Sep,0
-ECG Stress tests,FU,19-Oct,0
-ECG Stress tests,FU,19-Nov,0
-ECG Stress tests,FU,19-Dec,0
-ECG Stress tests,FU,20-Jan,10
-ECG Stress tests,FU,20-Feb,0
-ECG Stress tests,FU,20-Mar,0
-ECG Stress tests,FU,20-Apr,0
-ECG Stress tests,NC,18-Jan,52
-ECG Stress tests,NC,18-Feb,49
-ECG Stress tests,NC,18-Mar,55
-ECG Stress tests,NC,18-Apr,64
-ECG Stress tests,NC,18-May,51
-ECG Stress tests,NC,18-Jun,22
-ECG Stress tests,NC,18-Jul,30
-ECG Stress tests,NC,18-Aug,12
-ECG Stress tests,NC,18-Sep,22
-ECG Stress tests,NC,18-Oct,21
-ECG Stress tests,NC,18-Nov,15
-ECG Stress tests,NC,18-Dec,19
-ECG Stress tests,NC,19-Jan,12
-ECG Stress tests,NC,19-Feb,16
-ECG Stress tests,NC,19-Mar,18
-ECG Stress tests,NC,19-Apr,38
-ECG Stress tests,NC,19-May,21
-ECG Stress tests,NC,19-Jun,18
-ECG Stress tests,NC,19-Jul,11
-ECG Stress tests,NC,19-Aug,19
-ECG Stress tests,NC,19-Sep,24
-ECG Stress tests,NC,19-Oct,23
-ECG Stress tests,NC,19-Nov,6
-ECG Stress tests,NC,19-Dec,3
-ECG Stress tests,NC,20-Jan,0
-ECG Stress tests,NC,20-Feb,13
-ECG Stress tests,NC,20-Mar,6
-ECG Stress tests,NC,20-Apr,0
-ENT,FU,18-Jan,24
-ENT,FU,18-Feb,39
-ENT,FU,18-Mar,31
-ENT,FU,18-Apr,45
-ENT,FU,18-May,33
-ENT,FU,18-Jun,32
-ENT,FU,18-Jul,36
-ENT,FU,18-Aug,19
-ENT,FU,18-Sep,34
-ENT,FU,18-Oct,32
-ENT,FU,18-Nov,29
-ENT,FU,18-Dec,16
-ENT,FU,19-Jan,34
-ENT,FU,19-Feb,31
-ENT,FU,19-Mar,43
-ENT,FU,19-Apr,16
-ENT,FU,19-May,31
-ENT,FU,19-Jun,18
-ENT,FU,19-Jul,26
-ENT,FU,19-Aug,28
-ENT,FU,19-Sep,23
-ENT,FU,19-Oct,38
-ENT,FU,19-Nov,24
-ENT,FU,19-Dec,19
-ENT,FU,20-Jan,32
-ENT,FU,20-Feb,14
-ENT,FU,20-Mar,18
-ENT,FU,20-Apr,0
-ENT,NC,18-Jan,49
-ENT,NC,18-Feb,44
-ENT,NC,18-Mar,52
-ENT,NC,18-Apr,58
-ENT,NC,18-May,46
-ENT,NC,18-Jun,52
-ENT,NC,18-Jul,43
-ENT,NC,18-Aug,34
-ENT,NC,18-Sep,31
-ENT,NC,18-Oct,58
-ENT,NC,18-Nov,37
-ENT,NC,18-Dec,26
-ENT,NC,19-Jan,41
-ENT,NC,19-Feb,31
-ENT,NC,19-Mar,64
-ENT,NC,19-Apr,30
-ENT,NC,19-May,53
-ENT,NC,19-Jun,28
-ENT,NC,19-Jul,39
-ENT,NC,19-Aug,33
-ENT,NC,19-Sep,20
-ENT,NC,19-Oct,51
-ENT,NC,19-Nov,48
-ENT,NC,19-Dec,50
-ENT,NC,20-Jan,48
-ENT,NC,20-Feb,23
-ENT,NC,20-Mar,16
-ENT,NC,20-Apr,0
-Echocardiograms,FU,18-Jan,0
-Echocardiograms,FU,18-Feb,0
-Echocardiograms,FU,18-Mar,0
-Echocardiograms,FU,18-Apr,0
-Echocardiograms,FU,18-May,0
-Echocardiograms,FU,18-Jun,0
-Echocardiograms,FU,18-Jul,0
-Echocardiograms,FU,18-Aug,0
-Echocardiograms,FU,18-Sep,0
-Echocardiograms,FU,18-Oct,0
-Echocardiograms,FU,18-Nov,0
-Echocardiograms,FU,18-Dec,0
-Echocardiograms,FU,19-Jan,0
-Echocardiograms,FU,19-Feb,0
-Echocardiograms,FU,19-Mar,0
-Echocardiograms,FU,19-Apr,0
-Echocardiograms,FU,19-May,0
-Echocardiograms,FU,19-Jun,0
-Echocardiograms,FU,19-Jul,0
-Echocardiograms,FU,19-Aug,0
-Echocardiograms,FU,19-Sep,0
-Echocardiograms,FU,19-Oct,0
-Echocardiograms,FU,19-Nov,0
-Echocardiograms,FU,19-Dec,0
-Echocardiograms,FU,20-Jan,0
-Echocardiograms,FU,20-Feb,3
-Echocardiograms,FU,20-Mar,0
-Echocardiograms,FU,20-Apr,1
-Echocardiograms,NC,18-Jan,32
-Echocardiograms,NC,18-Feb,39
-Echocardiograms,NC,18-Mar,42
-Echocardiograms,NC,18-Apr,52
-Echocardiograms,NC,18-May,64
-Echocardiograms,NC,18-Jun,26
-Echocardiograms,NC,18-Jul,16
-Echocardiograms,NC,18-Aug,27
-Echocardiograms,NC,18-Sep,30
-Echocardiograms,NC,18-Oct,20
-Echocardiograms,NC,18-Nov,25
-Echocardiograms,NC,18-Dec,186
-Echocardiograms,NC,19-Jan,200
-Echocardiograms,NC,19-Feb,21
-Echocardiograms,NC,19-Mar,33
-Echocardiograms,NC,19-Apr,33
-Echocardiograms,NC,19-May,38
-Echocardiograms,NC,19-Jun,13
-Echocardiograms,NC,19-Jul,27
-Echocardiograms,NC,19-Aug,1
-Echocardiograms,NC,19-Sep,18
-Echocardiograms,NC,19-Oct,42
-Echocardiograms,NC,19-Nov,35
-Echocardiograms,NC,19-Dec,8
-Echocardiograms,NC,20-Jan,42
-Echocardiograms,NC,20-Feb,58
-Echocardiograms,NC,20-Mar,46
-Echocardiograms,NC,20-Apr,9
-Endocrine,FU,18-Jan,
-Endocrine,FU,18-Feb,
-Endocrine,FU,18-Mar,
-Endocrine,FU,18-Apr,
-Endocrine,FU,18-May,
-Endocrine,FU,18-Jun,
-Endocrine,FU,18-Jul,
-Endocrine,FU,18-Aug,
-Endocrine,FU,18-Sep,
-Endocrine,FU,18-Oct,
-Endocrine,FU,18-Nov,8
-Endocrine,FU,18-Dec,2
-Endocrine,FU,19-Jan,5
-Endocrine,FU,19-Feb,5
-Endocrine,FU,19-Mar,8
-Endocrine,FU,19-Apr,14
-Endocrine,FU,19-May,11
-Endocrine,FU,19-Jun,9
-Endocrine,FU,19-Jul,6
-Endocrine,FU,19-Aug,7
-Endocrine,FU,19-Sep,7
-Endocrine,FU,19-Oct,5
-Endocrine,FU,19-Nov,6
-Endocrine,FU,19-Dec,7
-Endocrine,FU,20-Jan,7
-Endocrine,FU,20-Feb,1
-Endocrine,FU,20-Mar,4
-Endocrine,FU,20-Apr,0
-Endocrine,NC,18-Jan,
-Endocrine,NC,18-Feb,
-Endocrine,NC,18-Mar,
-Endocrine,NC,18-Apr,
-Endocrine,NC,18-May,
-Endocrine,NC,18-Jun,
-Endocrine,NC,18-Jul,
-Endocrine,NC,18-Aug,
-Endocrine,NC,18-Sep,
-Endocrine,NC,18-Oct,
-Endocrine,NC,18-Nov,5
-Endocrine,NC,18-Dec,2
-Endocrine,NC,19-Jan,5
-Endocrine,NC,19-Feb,5
-Endocrine,NC,19-Mar,3
-Endocrine,NC,19-Apr,6
-Endocrine,NC,19-May,1
-Endocrine,NC,19-Jun,6
-Endocrine,NC,19-Jul,6
-Endocrine,NC,19-Aug,8
-Endocrine,NC,19-Sep,7
-Endocrine,NC,19-Oct,6
-Endocrine,NC,19-Nov,7
-Endocrine,NC,19-Dec,6
-Endocrine,NC,20-Jan,9
-Endocrine,NC,20-Feb,4
-Endocrine,NC,20-Mar,3
-Endocrine,NC,20-Apr,0
-Fertility Care,FU,18-Jan,0
-Fertility Care,FU,18-Feb,0
-Fertility Care,FU,18-Mar,0
-Fertility Care,FU,18-Apr,0
-Fertility Care,FU,18-May,2
-Fertility Care,FU,18-Jun,2
-Fertility Care,FU,18-Jul,2
-Fertility Care,FU,18-Aug,0
-Fertility Care,FU,18-Sep,2
-Fertility Care,FU,18-Oct,0
-Fertility Care,FU,18-Nov,3
-Fertility Care,FU,18-Dec,0
-Fertility Care,FU,19-Jan,0
-Fertility Care,FU,19-Feb,2
-Fertility Care,FU,19-Mar,2
-Fertility Care,FU,19-Apr,3
-Fertility Care,FU,19-May,3
-Fertility Care,FU,19-Jun,1
-Fertility Care,FU,19-Jul,1
-Fertility Care,FU,19-Aug,2
-Fertility Care,FU,19-Sep,1
-Fertility Care,FU,19-Oct,0
-Fertility Care,FU,19-Nov,0
-Fertility Care,FU,19-Dec,0
-Fertility Care,FU,20-Jan,0
-Fertility Care,FU,20-Feb,0
-Fertility Care,FU,20-Mar,0
-Fertility Care,FU,20-Apr,0
-Fertility Care,NC,18-Jan,0
-Fertility Care,NC,18-Feb,0
-Fertility Care,NC,18-Mar,0
-Fertility Care,NC,18-Apr,1
-Fertility Care,NC,18-May,2
-Fertility Care,NC,18-Jun,2
-Fertility Care,NC,18-Jul,1
-Fertility Care,NC,18-Aug,0
-Fertility Care,NC,18-Sep,1
-Fertility Care,NC,18-Oct,0
-Fertility Care,NC,18-Nov,3
-Fertility Care,NC,18-Dec,0
-Fertility Care,NC,19-Jan,1
-Fertility Care,NC,19-Feb,2
-Fertility Care,NC,19-Mar,3
-Fertility Care,NC,19-Apr,4
-Fertility Care,NC,19-May,2
-Fertility Care,NC,19-Jun,2
-Fertility Care,NC,19-Jul,0
-Fertility Care,NC,19-Aug,0
-Fertility Care,NC,19-Sep,0
-Fertility Care,NC,19-Oct,0
-Fertility Care,NC,19-Nov,0
-Fertility Care,NC,19-Dec,0
-Fertility Care,NC,20-Jan,0
-Fertility Care,NC,20-Feb,0
-Fertility Care,NC,20-Mar,0
-Fertility Care,NC,20-Apr,0
-Glaucoma,FU,18-Jan,6
-Glaucoma,FU,18-Feb,8
-Glaucoma,FU,18-Mar,8
-Glaucoma,FU,18-Apr,4
-Glaucoma,FU,18-May,7
-Glaucoma,FU,18-Jun,6
-Glaucoma,FU,18-Jul,5
-Glaucoma,FU,18-Aug,5
-Glaucoma,FU,18-Sep,5
-Glaucoma,FU,18-Oct,4
-Glaucoma,FU,18-Nov,6
-Glaucoma,FU,18-Dec,0
-Glaucoma,FU,19-Jan,0
-Glaucoma,FU,19-Feb,0
-Glaucoma,FU,19-Mar,4
-Glaucoma,FU,19-Apr,16
-Glaucoma,FU,19-May,5
-Glaucoma,FU,19-Jun,6
-Glaucoma,FU,19-Jul,8
-Glaucoma,FU,19-Aug,1
-Glaucoma,FU,19-Sep,7
-Glaucoma,FU,19-Oct,6
-Glaucoma,FU,19-Nov,3
-Glaucoma,FU,19-Dec,5
-Glaucoma,FU,20-Jan,6
-Glaucoma,FU,20-Feb,1
-Glaucoma,FU,20-Mar,0
-Glaucoma,FU,20-Apr,0
-Glaucoma,NC,18-Jan,0
-Glaucoma,NC,18-Feb,0
-Glaucoma,NC,18-Mar,0
-Glaucoma,NC,18-Apr,0
-Glaucoma,NC,18-May,0
-Glaucoma,NC,18-Jun,1
-Glaucoma,NC,18-Jul,2
-Glaucoma,NC,18-Aug,1
-Glaucoma,NC,18-Sep,3
-Glaucoma,NC,18-Oct,1
-Glaucoma,NC,18-Nov,0
-Glaucoma,NC,18-Dec,0
-Glaucoma,NC,19-Jan,0
-Glaucoma,NC,19-Feb,0
-Glaucoma,NC,19-Mar,0
-Glaucoma,NC,19-Apr,4
-Glaucoma,NC,19-May,2
-Glaucoma,NC,19-Jun,1
-Glaucoma,NC,19-Jul,1
-Glaucoma,NC,19-Aug,1
-Glaucoma,NC,19-Sep,2
-Glaucoma,NC,19-Oct,2
-Glaucoma,NC,19-Nov,1
-Glaucoma,NC,19-Dec,2
-Glaucoma,NC,20-Jan,1
-Glaucoma,NC,20-Feb,2
-Glaucoma,NC,20-Mar,0
-Glaucoma,NC,20-Apr,0
-Gynaecology,FU,18-Jan,123
-Gynaecology,FU,18-Feb,98
-Gynaecology,FU,18-Mar,117
-Gynaecology,FU,18-Apr,97
-Gynaecology,FU,18-May,115
-Gynaecology,FU,18-Jun,111
-Gynaecology,FU,18-Jul,80
-Gynaecology,FU,18-Aug,85
-Gynaecology,FU,18-Sep,79
-Gynaecology,FU,18-Oct,81
-Gynaecology,FU,18-Nov,95
-Gynaecology,FU,18-Dec,0
-Gynaecology,FU,19-Jan,107
-Gynaecology,FU,19-Feb,91
-Gynaecology,FU,19-Mar,128
-Gynaecology,FU,19-Apr,84
-Gynaecology,FU,19-May,113
-Gynaecology,FU,19-Jun,71
-Gynaecology,FU,19-Jul,88
-Gynaecology,FU,19-Aug,98
-Gynaecology,FU,19-Sep,90
-Gynaecology,FU,19-Oct,93
-Gynaecology,FU,19-Nov,106
-Gynaecology,FU,19-Dec,71
-Gynaecology,FU,20-Jan,97
-Gynaecology,FU,20-Feb,84
-Gynaecology,FU,20-Mar,71
-Gynaecology,FU,20-Apr,26
-Gynaecology,NC,18-Jan,68
-Gynaecology,NC,18-Feb,41
-Gynaecology,NC,18-Mar,65
-Gynaecology,NC,18-Apr,40
-Gynaecology,NC,18-May,67
-Gynaecology,NC,18-Jun,44
-Gynaecology,NC,18-Jul,33
-Gynaecology,NC,18-Aug,40
-Gynaecology,NC,18-Sep,35
-Gynaecology,NC,18-Oct,57
-Gynaecology,NC,18-Nov,52
-Gynaecology,NC,18-Dec,0
-Gynaecology,NC,19-Jan,55
-Gynaecology,NC,19-Feb,70
-Gynaecology,NC,19-Mar,72
-Gynaecology,NC,19-Apr,57
-Gynaecology,NC,19-May,61
-Gynaecology,NC,19-Jun,45
-Gynaecology,NC,19-Jul,56
-Gynaecology,NC,19-Aug,45
-Gynaecology,NC,19-Sep,60
-Gynaecology,NC,19-Oct,54
-Gynaecology,NC,19-Nov,63
-Gynaecology,NC,19-Dec,38
-Gynaecology,NC,20-Jan,47
-Gynaecology,NC,20-Feb,59
-Gynaecology,NC,20-Mar,29
-Gynaecology,NC,20-Apr,10
-Heart Valve Clinic,FU,18-Jan,0
-Heart Valve Clinic,FU,18-Feb,0
-Heart Valve Clinic,FU,18-Mar,0
-Heart Valve Clinic,FU,18-Apr,0
-Heart Valve Clinic,FU,18-May,0
-Heart Valve Clinic,FU,18-Jun,0
-Heart Valve Clinic,FU,18-Jul,0
-Heart Valve Clinic,FU,18-Aug,0
-Heart Valve Clinic,FU,18-Sep,0
-Heart Valve Clinic,FU,18-Oct,0
-Heart Valve Clinic,FU,18-Nov,0
-Heart Valve Clinic,FU,18-Dec,0
-Heart Valve Clinic,FU,19-Jan,0
-Heart Valve Clinic,FU,19-Feb,0
-Heart Valve Clinic,FU,19-Mar,0
-Heart Valve Clinic,FU,19-Apr,0
-Heart Valve Clinic,FU,19-May,0
-Heart Valve Clinic,FU,19-Jun,0
-Heart Valve Clinic,FU,19-Jul,0
-Heart Valve Clinic,FU,19-Aug,0
-Heart Valve Clinic,FU,19-Sep,0
-Heart Valve Clinic,FU,19-Oct,0
-Heart Valve Clinic,FU,19-Nov,0
-Heart Valve Clinic,FU,19-Dec,0
-Heart Valve Clinic,FU,20-Jan,0
-Heart Valve Clinic,FU,20-Feb,4
-Heart Valve Clinic,FU,20-Mar,0
-Heart Valve Clinic,FU,20-Apr,0
-Heart Valve Clinic,NC,18-Jan,0
-Heart Valve Clinic,NC,18-Feb,0
-Heart Valve Clinic,NC,18-Mar,0
-Heart Valve Clinic,NC,18-Apr,0
-Heart Valve Clinic,NC,18-May,0
-Heart Valve Clinic,NC,18-Jun,0
-Heart Valve Clinic,NC,18-Jul,0
-Heart Valve Clinic,NC,18-Aug,0
-Heart Valve Clinic,NC,18-Sep,0
-Heart Valve Clinic,NC,18-Oct,0
-Heart Valve Clinic,NC,18-Nov,0
-Heart Valve Clinic,NC,18-Dec,0
-Heart Valve Clinic,NC,19-Jan,0
-Heart Valve Clinic,NC,19-Feb,0
-Heart Valve Clinic,NC,19-Mar,0
-Heart Valve Clinic,NC,19-Apr,0
-Heart Valve Clinic,NC,19-May,0
-Heart Valve Clinic,NC,19-Jun,0
-Heart Valve Clinic,NC,19-Jul,0
-Heart Valve Clinic,NC,19-Aug,0
-Heart Valve Clinic,NC,19-Sep,0
-Heart Valve Clinic,NC,19-Oct,0
-Heart Valve Clinic,NC,19-Nov,0
-Heart Valve Clinic,NC,19-Dec,0
-Heart Valve Clinic,NC,20-Jan,0
-Heart Valve Clinic,NC,20-Feb,0
-Heart Valve Clinic,NC,20-Mar,0
-Heart Valve Clinic,NC,20-Apr,0
-Holters,FU,18-Jan,0
-Holters,FU,18-Feb,0
-Holters,FU,18-Mar,0
-Holters,FU,18-Apr,0
-Holters,FU,18-May,0
-Holters,FU,18-Jun,0
-Holters,FU,18-Jul,0
-Holters,FU,18-Aug,0
-Holters,FU,18-Sep,0
-Holters,FU,18-Oct,0
-Holters,FU,18-Nov,0
-Holters,FU,18-Dec,0
-Holters,FU,19-Jan,0
-Holters,FU,19-Feb,0
-Holters,FU,19-Mar,0
-Holters,FU,19-Apr,0
-Holters,FU,19-May,0
-Holters,FU,19-Jun,0
-Holters,FU,19-Jul,0
-Holters,FU,19-Aug,0
-Holters,FU,19-Sep,0
-Holters,FU,19-Oct,0
-Holters,FU,19-Nov,0
-Holters,FU,19-Dec,0
-Holters,FU,20-Jan,14
-Holters,FU,20-Feb,0
-Holters,FU,20-Mar,0
-Holters,FU,20-Apr,0
-Holters,NC,18-Jan,0
-Holters,NC,18-Feb,0
-Holters,NC,18-Mar,0
-Holters,NC,18-Apr,0
-Holters,NC,18-May,0
-Holters,NC,18-Jun,0
-Holters,NC,18-Jul,0
-Holters,NC,18-Aug,0
-Holters,NC,18-Sep,6
-Holters,NC,18-Oct,15
-Holters,NC,18-Nov,17
-Holters,NC,18-Dec,24
-Holters,NC,19-Jan,25
-Holters,NC,19-Feb,69
-Holters,NC,19-Mar,45
-Holters,NC,19-Apr,25
-Holters,NC,19-May,22
-Holters,NC,19-Jun,18
-Holters,NC,19-Jul,19
-Holters,NC,19-Aug,14
-Holters,NC,19-Sep,18
-Holters,NC,19-Oct,27
-Holters,NC,19-Nov,19
-Holters,NC,19-Dec,12
-Holters,NC,20-Jan,0
-Holters,NC,20-Feb,24
-Holters,NC,20-Mar,20
-Holters,NC,20-Apr,2
-Hyperbaric Unit-Emergency divers,FU,18-Jan,0
-Hyperbaric Unit-Emergency divers,FU,18-Feb,0
-Hyperbaric Unit-Emergency divers,FU,18-Mar,1
-Hyperbaric Unit-Emergency divers,FU,18-Apr,0
-Hyperbaric Unit-Emergency divers,FU,18-May,0
-Hyperbaric Unit-Emergency divers,FU,18-Jun,4
-Hyperbaric Unit-Emergency divers,FU,18-Jul,0
-Hyperbaric Unit-Emergency divers,FU,18-Aug,5
-Hyperbaric Unit-Emergency divers,FU,18-Sep,11
-Hyperbaric Unit-Emergency divers,FU,18-Oct,0
-Hyperbaric Unit-Emergency divers,FU,18-Nov,0
-Hyperbaric Unit-Emergency divers,FU,18-Dec,0
-Hyperbaric Unit-Emergency divers,FU,19-Jan,0
-Hyperbaric Unit-Emergency divers,FU,19-Feb,0
-Hyperbaric Unit-Emergency divers,FU,19-Mar,0
-Hyperbaric Unit-Emergency divers,FU,19-Apr,0
-Hyperbaric Unit-Emergency divers,FU,19-May,1
-Hyperbaric Unit-Emergency divers,FU,19-Jun,1
-Hyperbaric Unit-Emergency divers,FU,19-Jul,0
-Hyperbaric Unit-Emergency divers,FU,19-Aug,2
-Hyperbaric Unit-Emergency divers,FU,19-Sep,0
-Hyperbaric Unit-Emergency divers,FU,19-Oct,3
-Hyperbaric Unit-Emergency divers,FU,19-Nov,7
-Hyperbaric Unit-Emergency divers,FU,19-Dec,8
-Hyperbaric Unit-Emergency divers,FU,20-Jan,0
-Hyperbaric Unit-Emergency divers,FU,20-Feb,0
-Hyperbaric Unit-Emergency divers,FU,20-Mar,0
-Hyperbaric Unit-Emergency divers,FU,20-Apr,2
-Hyperbaric Unit-Emergency divers,NC,18-Jan,0
-Hyperbaric Unit-Emergency divers,NC,18-Feb,0
-Hyperbaric Unit-Emergency divers,NC,18-Mar,3
-Hyperbaric Unit-Emergency divers,NC,18-Apr,0
-Hyperbaric Unit-Emergency divers,NC,18-May,2
-Hyperbaric Unit-Emergency divers,NC,18-Jun,2
-Hyperbaric Unit-Emergency divers,NC,18-Jul,1
-Hyperbaric Unit-Emergency divers,NC,18-Aug,4
-Hyperbaric Unit-Emergency divers,NC,18-Sep,8
-Hyperbaric Unit-Emergency divers,NC,18-Oct,1
-Hyperbaric Unit-Emergency divers,NC,18-Nov,0
-Hyperbaric Unit-Emergency divers,NC,18-Dec,0
-Hyperbaric Unit-Emergency divers,NC,19-Jan,0
-Hyperbaric Unit-Emergency divers,NC,19-Feb,0
-Hyperbaric Unit-Emergency divers,NC,19-Mar,1
-Hyperbaric Unit-Emergency divers,NC,19-Apr,0
-Hyperbaric Unit-Emergency divers,NC,19-May,1
-Hyperbaric Unit-Emergency divers,NC,19-Jun,2
-Hyperbaric Unit-Emergency divers,NC,19-Jul,0
-Hyperbaric Unit-Emergency divers,NC,19-Aug,3
-Hyperbaric Unit-Emergency divers,NC,19-Sep,4
-Hyperbaric Unit-Emergency divers,NC,19-Oct,8
-Hyperbaric Unit-Emergency divers,NC,19-Nov,2
-Hyperbaric Unit-Emergency divers,NC,19-Dec,1
-Hyperbaric Unit-Emergency divers,NC,20-Jan,0
-Hyperbaric Unit-Emergency divers,NC,20-Feb,0
-Hyperbaric Unit-Emergency divers,NC,20-Mar,1
-Hyperbaric Unit-Emergency divers,NC,20-Apr,0
-Hyperbaric Unit-Oxygen treatment,FU,18-Jan,17
-Hyperbaric Unit-Oxygen treatment,FU,18-Feb,25
-Hyperbaric Unit-Oxygen treatment,FU,18-Mar,20
-Hyperbaric Unit-Oxygen treatment,FU,18-Apr,34
-Hyperbaric Unit-Oxygen treatment,FU,18-May,33
-Hyperbaric Unit-Oxygen treatment,FU,18-Jun,4
-Hyperbaric Unit-Oxygen treatment,FU,18-Jul,32
-Hyperbaric Unit-Oxygen treatment,FU,18-Aug,22
-Hyperbaric Unit-Oxygen treatment,FU,18-Sep,15
-Hyperbaric Unit-Oxygen treatment,FU,18-Oct,20
-Hyperbaric Unit-Oxygen treatment,FU,18-Nov,10
-Hyperbaric Unit-Oxygen treatment,FU,18-Dec,24
-Hyperbaric Unit-Oxygen treatment,FU,19-Jan,17
-Hyperbaric Unit-Oxygen treatment,FU,19-Feb,17
-Hyperbaric Unit-Oxygen treatment,FU,19-Mar,17
-Hyperbaric Unit-Oxygen treatment,FU,19-Apr,20
-Hyperbaric Unit-Oxygen treatment,FU,19-May,19
-Hyperbaric Unit-Oxygen treatment,FU,19-Jun,18
-Hyperbaric Unit-Oxygen treatment,FU,19-Jul,21
-Hyperbaric Unit-Oxygen treatment,FU,19-Aug,21
-Hyperbaric Unit-Oxygen treatment,FU,19-Sep,18
-Hyperbaric Unit-Oxygen treatment,FU,19-Oct,8
-Hyperbaric Unit-Oxygen treatment,FU,19-Nov,2
-Hyperbaric Unit-Oxygen treatment,FU,19-Dec,16
-Hyperbaric Unit-Oxygen treatment,FU,20-Jan,13
-Hyperbaric Unit-Oxygen treatment,FU,20-Feb,10
-Hyperbaric Unit-Oxygen treatment,FU,20-Mar,15
-Hyperbaric Unit-Oxygen treatment,FU,20-Apr,6
-Hyperbaric Unit-Oxygen treatment,NC,18-Jan,1
-Hyperbaric Unit-Oxygen treatment,NC,18-Feb,2
-Hyperbaric Unit-Oxygen treatment,NC,18-Mar,0
-Hyperbaric Unit-Oxygen treatment,NC,18-Apr,1
-Hyperbaric Unit-Oxygen treatment,NC,18-May,0
-Hyperbaric Unit-Oxygen treatment,NC,18-Jun,2
-Hyperbaric Unit-Oxygen treatment,NC,18-Jul,2
-Hyperbaric Unit-Oxygen treatment,NC,18-Aug,0
-Hyperbaric Unit-Oxygen treatment,NC,18-Sep,1
-Hyperbaric Unit-Oxygen treatment,NC,18-Oct,1
-Hyperbaric Unit-Oxygen treatment,NC,18-Nov,0
-Hyperbaric Unit-Oxygen treatment,NC,18-Dec,2
-Hyperbaric Unit-Oxygen treatment,NC,19-Jan,0
-Hyperbaric Unit-Oxygen treatment,NC,19-Feb,0
-Hyperbaric Unit-Oxygen treatment,NC,19-Mar,1
-Hyperbaric Unit-Oxygen treatment,NC,19-Apr,0
-Hyperbaric Unit-Oxygen treatment,NC,19-May,1
-Hyperbaric Unit-Oxygen treatment,NC,19-Jun,1
-Hyperbaric Unit-Oxygen treatment,NC,19-Jul,1
-Hyperbaric Unit-Oxygen treatment,NC,19-Aug,0
-Hyperbaric Unit-Oxygen treatment,NC,19-Sep,1
-Hyperbaric Unit-Oxygen treatment,NC,19-Oct,1
-Hyperbaric Unit-Oxygen treatment,NC,19-Nov,0
-Hyperbaric Unit-Oxygen treatment,NC,19-Dec,1
-Hyperbaric Unit-Oxygen treatment,NC,20-Jan,0
-Hyperbaric Unit-Oxygen treatment,NC,20-Feb,2
-Hyperbaric Unit-Oxygen treatment,NC,20-Mar,0
-Hyperbaric Unit-Oxygen treatment,NC,20-Apr,1
-Juvenile,FU,18-Jan,
-Juvenile,FU,18-Feb,
-Juvenile,FU,18-Mar,
-Juvenile,FU,18-Apr,
-Juvenile,FU,18-May,
-Juvenile,FU,18-Jun,
-Juvenile,FU,18-Jul,
-Juvenile,FU,18-Aug,
-Juvenile,FU,18-Sep,
-Juvenile,FU,18-Oct,2
-Juvenile,FU,18-Nov,6
-Juvenile,FU,18-Dec,9
-Juvenile,FU,19-Jan,11
-Juvenile,FU,19-Feb,13
-Juvenile,FU,19-Mar,8
-Juvenile,FU,19-Apr,6
-Juvenile,FU,19-May,9
-Juvenile,FU,19-Jun,10
-Juvenile,FU,19-Jul,5
-Juvenile,FU,19-Aug,2
-Juvenile,FU,19-Sep,9
-Juvenile,FU,19-Oct,8
-Juvenile,FU,19-Nov,7
-Juvenile,FU,19-Dec,4
-Juvenile,FU,20-Jan,7
-Juvenile,FU,20-Feb,8
-Juvenile,FU,20-Mar,4
-Juvenile,FU,20-Apr,0
-Juvenile,NC,18-Jan,
-Juvenile,NC,18-Feb,
-Juvenile,NC,18-Mar,
-Juvenile,NC,18-Apr,
-Juvenile,NC,18-May,
-Juvenile,NC,18-Jun,
-Juvenile,NC,18-Jul,
-Juvenile,NC,18-Aug,
-Juvenile,NC,18-Sep,
-Juvenile,NC,18-Oct,3
-Juvenile,NC,18-Nov,4
-Juvenile,NC,18-Dec,4
-Juvenile,NC,19-Jan,4
-Juvenile,NC,19-Feb,0
-Juvenile,NC,19-Mar,3
-Juvenile,NC,19-Apr,0
-Juvenile,NC,19-May,2
-Juvenile,NC,19-Jun,5
-Juvenile,NC,19-Jul,4
-Juvenile,NC,19-Aug,4
-Juvenile,NC,19-Sep,5
-Juvenile,NC,19-Oct,3
-Juvenile,NC,19-Nov,7
-Juvenile,NC,19-Dec,7
-Juvenile,NC,20-Jan,3
-Juvenile,NC,20-Feb,4
-Juvenile,NC,20-Mar,2
-Juvenile,NC,20-Apr,0
-Lung Function tests,FU,18-Jan,0
-Lung Function tests,FU,18-Feb,0
-Lung Function tests,FU,18-Mar,0
-Lung Function tests,FU,18-Apr,0
-Lung Function tests,FU,18-May,0
-Lung Function tests,FU,18-Jun,0
-Lung Function tests,FU,18-Jul,0
-Lung Function tests,FU,18-Aug,0
-Lung Function tests,FU,18-Sep,0
-Lung Function tests,FU,18-Oct,0
-Lung Function tests,FU,18-Nov,0
-Lung Function tests,FU,18-Dec,0
-Lung Function tests,FU,19-Jan,0
-Lung Function tests,FU,19-Feb,0
-Lung Function tests,FU,19-Mar,0
-Lung Function tests,FU,19-Apr,0
-Lung Function tests,FU,19-May,0
-Lung Function tests,FU,19-Jun,0
-Lung Function tests,FU,19-Jul,0
-Lung Function tests,FU,19-Aug,0
-Lung Function tests,FU,19-Sep,0
-Lung Function tests,FU,19-Oct,0
-Lung Function tests,FU,19-Nov,0
-Lung Function tests,FU,19-Dec,0
-Lung Function tests,FU,20-Jan,4
-Lung Function tests,FU,20-Feb,0
-Lung Function tests,FU,20-Mar,0
-Lung Function tests,FU,20-Apr,0
-Lung Function tests,NC,18-Jan,18
-Lung Function tests,NC,18-Feb,13
-Lung Function tests,NC,18-Mar,18
-Lung Function tests,NC,18-Apr,16
-Lung Function tests,NC,18-May,14
-Lung Function tests,NC,18-Jun,11
-Lung Function tests,NC,18-Jul,3
-Lung Function tests,NC,18-Aug,1
-Lung Function tests,NC,18-Sep,3
-Lung Function tests,NC,18-Oct,8
-Lung Function tests,NC,18-Nov,10
-Lung Function tests,NC,18-Dec,1
-Lung Function tests,NC,19-Jan,3
-Lung Function tests,NC,19-Feb,6
-Lung Function tests,NC,19-Mar,2
-Lung Function tests,NC,19-Apr,7
-Lung Function tests,NC,19-May,22
-Lung Function tests,NC,19-Jun,1
-Lung Function tests,NC,19-Jul,2
-Lung Function tests,NC,19-Aug,5
-Lung Function tests,NC,19-Sep,5
-Lung Function tests,NC,19-Oct,9
-Lung Function tests,NC,19-Nov,9
-Lung Function tests,NC,19-Dec,8
-Lung Function tests,NC,20-Jan,0
-Lung Function tests,NC,20-Feb,16
-Lung Function tests,NC,20-Mar,4
-Lung Function tests,NC,20-Apr,2
-Medical,FU,18-Jan,275
-Medical,FU,18-Feb,230
-Medical,FU,18-Mar,199
-Medical,FU,18-Apr,232
-Medical,FU,18-May,212
-Medical,FU,18-Jun,207
-Medical,FU,18-Jul,195
-Medical,FU,18-Aug,205
-Medical,FU,18-Sep,150
-Medical,FU,18-Oct,217
-Medical,FU,18-Nov,186
-Medical,FU,18-Dec,157
-Medical,FU,19-Jan,208
-Medical,FU,19-Feb,187
-Medical,FU,19-Mar,195
-Medical,FU,19-Apr,169
-Medical,FU,19-May,188
-Medical,FU,19-Jun,160
-Medical,FU,19-Jul,172
-Medical,FU,19-Aug,160
-Medical,FU,19-Sep,172
-Medical,FU,19-Oct,123
-Medical,FU,19-Nov,137
-Medical,FU,19-Dec,129
-Medical,FU,20-Jan,156
-Medical,FU,20-Feb,106
-Medical,FU,20-Mar,72
-Medical,FU,20-Apr,10
-Medical,NC,18-Jan,100
-Medical,NC,18-Feb,92
-Medical,NC,18-Mar,77
-Medical,NC,18-Apr,93
-Medical,NC,18-May,91
-Medical,NC,18-Jun,75
-Medical,NC,18-Jul,91
-Medical,NC,18-Aug,80
-Medical,NC,18-Sep,70
-Medical,NC,18-Oct,106
-Medical,NC,18-Nov,82
-Medical,NC,18-Dec,59
-Medical,NC,19-Jan,88
-Medical,NC,19-Feb,84
-Medical,NC,19-Mar,92
-Medical,NC,19-Apr,63
-Medical,NC,19-May,74
-Medical,NC,19-Jun,74
-Medical,NC,19-Jul,81
-Medical,NC,19-Aug,70
-Medical,NC,19-Sep,62
-Medical,NC,19-Oct,45
-Medical,NC,19-Nov,65
-Medical,NC,19-Dec,54
-Medical,NC,20-Jan,54
-Medical,NC,20-Feb,39
-Medical,NC,20-Mar,25
-Medical,NC,20-Apr,4
-Multiple Sclerosis,FU,18-Jan,0
-Multiple Sclerosis,FU,18-Feb,0
-Multiple Sclerosis,FU,18-Mar,0
-Multiple Sclerosis,FU,18-Apr,0
-Multiple Sclerosis,FU,18-May,0
-Multiple Sclerosis,FU,18-Jun,0
-Multiple Sclerosis,FU,18-Jul,0
-Multiple Sclerosis,FU,18-Aug,0
-Multiple Sclerosis,FU,18-Sep,0
-Multiple Sclerosis,FU,18-Oct,0
-Multiple Sclerosis,FU,18-Nov,0
-Multiple Sclerosis,FU,18-Dec,0
-Multiple Sclerosis,FU,19-Jan,0
-Multiple Sclerosis,FU,19-Feb,0
-Multiple Sclerosis,FU,19-Mar,0
-Multiple Sclerosis,FU,19-Apr,0
-Multiple Sclerosis,FU,19-May,0
-Multiple Sclerosis,FU,19-Jun,0
-Multiple Sclerosis,FU,19-Jul,0
-Multiple Sclerosis,FU,19-Aug,0
-Multiple Sclerosis,FU,19-Sep,0
-Multiple Sclerosis,FU,19-Oct,0
-Multiple Sclerosis,FU,19-Nov,0
-Multiple Sclerosis,FU,19-Dec,0
-Multiple Sclerosis,FU,20-Jan,0
-Multiple Sclerosis,FU,20-Feb,0
-Multiple Sclerosis,FU,20-Mar,0
-Multiple Sclerosis,FU,20-Apr,0
-Multiple Sclerosis,NC,18-Jan,0
-Multiple Sclerosis,NC,18-Feb,0
-Multiple Sclerosis,NC,18-Mar,0
-Multiple Sclerosis,NC,18-Apr,0
-Multiple Sclerosis,NC,18-May,0
-Multiple Sclerosis,NC,18-Jun,0
-Multiple Sclerosis,NC,18-Jul,0
-Multiple Sclerosis,NC,18-Aug,0
-Multiple Sclerosis,NC,18-Sep,0
-Multiple Sclerosis,NC,18-Oct,0
-Multiple Sclerosis,NC,18-Nov,0
-Multiple Sclerosis,NC,18-Dec,0
-Multiple Sclerosis,NC,19-Jan,0
-Multiple Sclerosis,NC,19-Feb,0
-Multiple Sclerosis,NC,19-Mar,0
-Multiple Sclerosis,NC,19-Apr,0
-Multiple Sclerosis,NC,19-May,0
-Multiple Sclerosis,NC,19-Jun,0
-Multiple Sclerosis,NC,19-Jul,0
-Multiple Sclerosis,NC,19-Aug,0
-Multiple Sclerosis,NC,19-Sep,0
-Multiple Sclerosis,NC,19-Oct,0
-Multiple Sclerosis,NC,19-Nov,0
-Multiple Sclerosis,NC,19-Dec,0
-Multiple Sclerosis,NC,20-Jan,0
-Multiple Sclerosis,NC,20-Feb,
-Multiple Sclerosis,NC,20-Mar,0
-Multiple Sclerosis,NC,20-Apr,0
-Naphrology,FU,18-Jan,0
-Naphrology,FU,18-Feb,0
-Naphrology,FU,18-Mar,0
-Naphrology,FU,18-Apr,0
-Naphrology,FU,18-May,0
-Naphrology,FU,18-Jun,0
-Naphrology,FU,18-Jul,0
-Naphrology,FU,18-Aug,0
-Naphrology,FU,18-Sep,0
-Naphrology,FU,18-Oct,0
-Naphrology,FU,18-Nov,0
-Naphrology,FU,18-Dec,0
-Naphrology,FU,19-Jan,0
-Naphrology,FU,19-Feb,1
-Naphrology,FU,19-Mar,2
-Naphrology,FU,19-Apr,2
-Naphrology,FU,19-May,3
-Naphrology,FU,19-Jun,3
-Naphrology,FU,19-Jul,7
-Naphrology,FU,19-Aug,6
-Naphrology,FU,19-Sep,4
-Naphrology,FU,19-Oct,7
-Naphrology,FU,19-Nov,6
-Naphrology,FU,19-Dec,7
-Naphrology,FU,20-Jan,9
-Naphrology,FU,20-Feb,7
-Naphrology,FU,20-Mar,0
-Naphrology,FU,20-Apr,0
-Naphrology,NC,18-Jan,0
-Naphrology,NC,18-Feb,0
-Naphrology,NC,18-Mar,0
-Naphrology,NC,18-Apr,0
-Naphrology,NC,18-May,0
-Naphrology,NC,18-Jun,0
-Naphrology,NC,18-Jul,0
-Naphrology,NC,18-Aug,0
-Naphrology,NC,18-Sep,0
-Naphrology,NC,18-Oct,0
-Naphrology,NC,18-Nov,0
-Naphrology,NC,18-Dec,0
-Naphrology,NC,19-Jan,0
-Naphrology,NC,19-Feb,2
-Naphrology,NC,19-Mar,5
-Naphrology,NC,19-Apr,3
-Naphrology,NC,19-May,5
-Naphrology,NC,19-Jun,3
-Naphrology,NC,19-Jul,3
-Naphrology,NC,19-Aug,3
-Naphrology,NC,19-Sep,4
-Naphrology,NC,19-Oct,5
-Naphrology,NC,19-Nov,3
-Naphrology,NC,19-Dec,5
-Naphrology,NC,20-Jan,4
-Naphrology,NC,20-Feb,3
-Naphrology,NC,20-Mar,0
-Naphrology,NC,20-Apr,0
-Naprotechnology,FU,18-Jan,0
-Naprotechnology,FU,18-Feb,0
-Naprotechnology,FU,18-Mar,0
-Naprotechnology,FU,18-Apr,3
-Naprotechnology,FU,18-May,4
-Naprotechnology,FU,18-Jun,0
-Naprotechnology,FU,18-Jul,2
-Naprotechnology,FU,18-Aug,2
-Naprotechnology,FU,18-Sep,0
-Naprotechnology,FU,18-Oct,2
-Naprotechnology,FU,18-Nov,4
-Naprotechnology,FU,18-Dec,2
-Naprotechnology,FU,19-Jan,0
-Naprotechnology,FU,19-Feb,1
-Naprotechnology,FU,19-Mar,7
-Naprotechnology,FU,19-Apr,7
-Naprotechnology,FU,19-May,5
-Naprotechnology,FU,19-Jun,1
-Naprotechnology,FU,19-Jul,2
-Naprotechnology,FU,19-Aug,3
-Naprotechnology,FU,19-Sep,2
-Naprotechnology,FU,19-Oct,2
-Naprotechnology,FU,19-Nov,6
-Naprotechnology,FU,19-Dec,3
-Naprotechnology,FU,20-Jan,4
-Naprotechnology,FU,20-Feb,1
-Naprotechnology,FU,20-Mar,0
-Naprotechnology,FU,20-Apr,0
-Naprotechnology,NC,18-Jan,2
-Naprotechnology,NC,18-Feb,0
-Naprotechnology,NC,18-Mar,4
-Naprotechnology,NC,18-Apr,0
-Naprotechnology,NC,18-May,0
-Naprotechnology,NC,18-Jun,4
-Naprotechnology,NC,18-Jul,1
-Naprotechnology,NC,18-Aug,3
-Naprotechnology,NC,18-Sep,3
-Naprotechnology,NC,18-Oct,8
-Naprotechnology,NC,18-Nov,4
-Naprotechnology,NC,18-Dec,2
-Naprotechnology,NC,19-Jan,2
-Naprotechnology,NC,19-Feb,6
-Naprotechnology,NC,19-Mar,3
-Naprotechnology,NC,19-Apr,8
-Naprotechnology,NC,19-May,1
-Naprotechnology,NC,19-Jun,7
-Naprotechnology,NC,19-Jul,3
-Naprotechnology,NC,19-Aug,9
-Naprotechnology,NC,19-Sep,0
-Naprotechnology,NC,19-Oct,4
-Naprotechnology,NC,19-Nov,1
-Naprotechnology,NC,19-Dec,0
-Naprotechnology,NC,20-Jan,6
-Naprotechnology,NC,20-Feb,2
-Naprotechnology,NC,20-Mar,1
-Naprotechnology,NC,20-Apr,0
-Neurology,FU,18-Jan,9
-Neurology,FU,18-Feb,10
-Neurology,FU,18-Mar,11
-Neurology,FU,18-Apr,9
-Neurology,FU,18-May,8
-Neurology,FU,18-Jun,9
-Neurology,FU,18-Jul,9
-Neurology,FU,18-Aug,14
-Neurology,FU,18-Sep,0
-Neurology,FU,18-Oct,11
-Neurology,FU,18-Nov,9
-Neurology,FU,18-Dec,19
-Neurology,FU,19-Jan,14
-Neurology,FU,19-Feb,15
-Neurology,FU,19-Mar,11
-Neurology,FU,19-Apr,28
-Neurology,FU,19-May,24
-Neurology,FU,19-Jun,24
-Neurology,FU,19-Jul,41
-Neurology,FU,19-Aug,35
-Neurology,FU,19-Sep,33
-Neurology,FU,19-Oct,31
-Neurology,FU,19-Nov,33
-Neurology,FU,19-Dec,14
-Neurology,FU,20-Jan,46
-Neurology,FU,20-Feb,33
-Neurology,FU,20-Mar,14
-Neurology,FU,20-Apr,0
-Neurology,NC,18-Jan,1
-Neurology,NC,18-Feb,5
-Neurology,NC,18-Mar,4
-Neurology,NC,18-Apr,3
-Neurology,NC,18-May,2
-Neurology,NC,18-Jun,3
-Neurology,NC,18-Jul,3
-Neurology,NC,18-Aug,7
-Neurology,NC,18-Sep,4
-Neurology,NC,18-Oct,6
-Neurology,NC,18-Nov,3
-Neurology,NC,18-Dec,24
-Neurology,NC,19-Jan,28
-Neurology,NC,19-Feb,28
-Neurology,NC,19-Mar,15
-Neurology,NC,19-Apr,22
-Neurology,NC,19-May,30
-Neurology,NC,19-Jun,31
-Neurology,NC,19-Jul,33
-Neurology,NC,19-Aug,25
-Neurology,NC,19-Sep,28
-Neurology,NC,19-Oct,32
-Neurology,NC,19-Nov,24
-Neurology,NC,19-Dec,10
-Neurology,NC,20-Jan,30
-Neurology,NC,20-Feb,16
-Neurology,NC,20-Mar,17
-Neurology,NC,20-Apr,0
-Nutrition & Health Promotion,FU,18-Jan,0
-Nutrition & Health Promotion,FU,18-Feb,0
-Nutrition & Health Promotion,FU,18-Mar,0
-Nutrition & Health Promotion,FU,18-Apr,0
-Nutrition & Health Promotion,FU,18-May,0
-Nutrition & Health Promotion,FU,18-Jun,0
-Nutrition & Health Promotion,FU,18-Jul,0
-Nutrition & Health Promotion,FU,18-Aug,0
-Nutrition & Health Promotion,FU,18-Sep,0
-Nutrition & Health Promotion,FU,18-Oct,0
-Nutrition & Health Promotion,FU,18-Nov,0
-Nutrition & Health Promotion,FU,18-Dec,0
-Nutrition & Health Promotion,FU,19-Jan,23
-Nutrition & Health Promotion,FU,19-Feb,31
-Nutrition & Health Promotion,FU,19-Mar,26
-Nutrition & Health Promotion,FU,19-Apr,24
-Nutrition & Health Promotion,FU,19-May,21
-Nutrition & Health Promotion,FU,19-Jun,22
-Nutrition & Health Promotion,FU,19-Jul,18
-Nutrition & Health Promotion,FU,19-Aug,19
-Nutrition & Health Promotion,FU,19-Sep,21
-Nutrition & Health Promotion,FU,19-Oct,24
-Nutrition & Health Promotion,FU,19-Nov,21
-Nutrition & Health Promotion,FU,19-Dec,9
-Nutrition & Health Promotion,FU,20-Jan,21
-Nutrition & Health Promotion,FU,20-Feb,13
-Nutrition & Health Promotion,FU,20-Mar,5
-Nutrition & Health Promotion,FU,20-Apr,0
-Nutrition & Health Promotion,NC,18-Jan,0
-Nutrition & Health Promotion,NC,18-Feb,0
-Nutrition & Health Promotion,NC,18-Mar,0
-Nutrition & Health Promotion,NC,18-Apr,0
-Nutrition & Health Promotion,NC,18-May,0
-Nutrition & Health Promotion,NC,18-Jun,0
-Nutrition & Health Promotion,NC,18-Jul,0
-Nutrition & Health Promotion,NC,18-Aug,0
-Nutrition & Health Promotion,NC,18-Sep,0
-Nutrition & Health Promotion,NC,18-Oct,0
-Nutrition & Health Promotion,NC,18-Nov,0
-Nutrition & Health Promotion,NC,18-Dec,0
-Nutrition & Health Promotion,NC,19-Jan,6
-Nutrition & Health Promotion,NC,19-Feb,9
-Nutrition & Health Promotion,NC,19-Mar,5
-Nutrition & Health Promotion,NC,19-Apr,6
-Nutrition & Health Promotion,NC,19-May,7
-Nutrition & Health Promotion,NC,19-Jun,5
-Nutrition & Health Promotion,NC,19-Jul,6
-Nutrition & Health Promotion,NC,19-Aug,3
-Nutrition & Health Promotion,NC,19-Sep,5
-Nutrition & Health Promotion,NC,19-Oct,6
-Nutrition & Health Promotion,NC,19-Nov,8
-Nutrition & Health Promotion,NC,19-Dec,2
-Nutrition & Health Promotion,NC,20-Jan,3
-Nutrition & Health Promotion,NC,20-Feb,3
-Nutrition & Health Promotion,NC,20-Mar,2
-Nutrition & Health Promotion,NC,20-Apr,0
-Occupational Therapy (Physical),FU,18-Jan,310
-Occupational Therapy (Physical),FU,18-Feb,317
-Occupational Therapy (Physical),FU,18-Mar,270
-Occupational Therapy (Physical),FU,18-Apr,255
-Occupational Therapy (Physical),FU,18-May,"1,115"
-Occupational Therapy (Physical),FU,18-Jun,108
-Occupational Therapy (Physical),FU,18-Jul,221
-Occupational Therapy (Physical),FU,18-Aug,267
-Occupational Therapy (Physical),FU,18-Sep,201
-Occupational Therapy (Physical),FU,18-Oct,285
-Occupational Therapy (Physical),FU,18-Nov,235
-Occupational Therapy (Physical),FU,18-Dec,163
-Occupational Therapy (Physical),FU,19-Jan,218
-Occupational Therapy (Physical),FU,19-Feb,242
-Occupational Therapy (Physical),FU,19-Mar,239
-Occupational Therapy (Physical),FU,19-Apr,264
-Occupational Therapy (Physical),FU,19-May,369
-Occupational Therapy (Physical),FU,19-Jun,222
-Occupational Therapy (Physical),FU,19-Jul,151
-Occupational Therapy (Physical),FU,19-Aug,216
-Occupational Therapy (Physical),FU,19-Sep,214
-Occupational Therapy (Physical),FU,19-Oct,234
-Occupational Therapy (Physical),FU,19-Nov,241
-Occupational Therapy (Physical),FU,19-Dec,67
-Occupational Therapy (Physical),FU,20-Jan,205
-Occupational Therapy (Physical),FU,20-Feb,201
-Occupational Therapy (Physical),FU,20-Mar,81
-Occupational Therapy (Physical),FU,20-Apr,1
-Occupational Therapy (Physical),NC,18-Jan,36
-Occupational Therapy (Physical),NC,18-Feb,22
-Occupational Therapy (Physical),NC,18-Mar,14
-Occupational Therapy (Physical),NC,18-Apr,18
-Occupational Therapy (Physical),NC,18-May,13
-Occupational Therapy (Physical),NC,18-Jun,25
-Occupational Therapy (Physical),NC,18-Jul,32
-Occupational Therapy (Physical),NC,18-Aug,23
-Occupational Therapy (Physical),NC,18-Sep,18
-Occupational Therapy (Physical),NC,18-Oct,16
-Occupational Therapy (Physical),NC,18-Nov,25
-Occupational Therapy (Physical),NC,18-Dec,14
-Occupational Therapy (Physical),NC,19-Jan,26
-Occupational Therapy (Physical),NC,19-Feb,32
-Occupational Therapy (Physical),NC,19-Mar,25
-Occupational Therapy (Physical),NC,19-Apr,22
-Occupational Therapy (Physical),NC,19-May,37
-Occupational Therapy (Physical),NC,19-Jun,2
-Occupational Therapy (Physical),NC,19-Jul,26
-Occupational Therapy (Physical),NC,19-Aug,22
-Occupational Therapy (Physical),NC,19-Sep,23
-Occupational Therapy (Physical),NC,19-Oct,21
-Occupational Therapy (Physical),NC,19-Nov,24
-Occupational Therapy (Physical),NC,19-Dec,22
-Occupational Therapy (Physical),NC,20-Jan,38
-Occupational Therapy (Physical),NC,20-Feb,27
-Occupational Therapy (Physical),NC,20-Mar,14
-Occupational Therapy (Physical),NC,20-Apr,2
-Occupational Therapy (Psychiatric),FU,18-Jan,121
-Occupational Therapy (Psychiatric),FU,18-Feb,132
-Occupational Therapy (Psychiatric),FU,18-Mar,136
-Occupational Therapy (Psychiatric),FU,18-Apr,120
-Occupational Therapy (Psychiatric),FU,18-May,147
-Occupational Therapy (Psychiatric),FU,18-Jun,126
-Occupational Therapy (Psychiatric),FU,18-Jul,112
-Occupational Therapy (Psychiatric),FU,18-Aug,106
-Occupational Therapy (Psychiatric),FU,18-Sep,89
-Occupational Therapy (Psychiatric),FU,18-Oct,141
-Occupational Therapy (Psychiatric),FU,18-Nov,72
-Occupational Therapy (Psychiatric),FU,18-Dec,86
-Occupational Therapy (Psychiatric),FU,19-Jan,55
-Occupational Therapy (Psychiatric),FU,19-Feb,62
-Occupational Therapy (Psychiatric),FU,19-Mar,66
-Occupational Therapy (Psychiatric),FU,19-Apr,76
-Occupational Therapy (Psychiatric),FU,19-May,86
-Occupational Therapy (Psychiatric),FU,19-Jun,70
-Occupational Therapy (Psychiatric),FU,19-Jul,89
-Occupational Therapy (Psychiatric),FU,19-Aug,64
-Occupational Therapy (Psychiatric),FU,19-Sep,55
-Occupational Therapy (Psychiatric),FU,19-Oct,62
-Occupational Therapy (Psychiatric),FU,19-Nov,74
-Occupational Therapy (Psychiatric),FU,19-Dec,76
-Occupational Therapy (Psychiatric),FU,20-Jan,86
-Occupational Therapy (Psychiatric),FU,20-Feb,112
-Occupational Therapy (Psychiatric),FU,20-Mar,56
-Occupational Therapy (Psychiatric),FU,20-Apr,48
-Occupational Therapy (Psychiatric),NC,18-Jan,10
-Occupational Therapy (Psychiatric),NC,18-Feb,14
-Occupational Therapy (Psychiatric),NC,18-Mar,12
-Occupational Therapy (Psychiatric),NC,18-Apr,18
-Occupational Therapy (Psychiatric),NC,18-May,16
-Occupational Therapy (Psychiatric),NC,18-Jun,12
-Occupational Therapy (Psychiatric),NC,18-Jul,8
-Occupational Therapy (Psychiatric),NC,18-Aug,7
-Occupational Therapy (Psychiatric),NC,18-Sep,9
-Occupational Therapy (Psychiatric),NC,18-Oct,11
-Occupational Therapy (Psychiatric),NC,18-Nov,14
-Occupational Therapy (Psychiatric),NC,18-Dec,22
-Occupational Therapy (Psychiatric),NC,19-Jan,8
-Occupational Therapy (Psychiatric),NC,19-Feb,6
-Occupational Therapy (Psychiatric),NC,19-Mar,6
-Occupational Therapy (Psychiatric),NC,19-Apr,8
-Occupational Therapy (Psychiatric),NC,19-May,11
-Occupational Therapy (Psychiatric),NC,19-Jun,8
-Occupational Therapy (Psychiatric),NC,19-Jul,10
-Occupational Therapy (Psychiatric),NC,19-Aug,10
-Occupational Therapy (Psychiatric),NC,19-Sep,8
-Occupational Therapy (Psychiatric),NC,19-Oct,7
-Occupational Therapy (Psychiatric),NC,19-Nov,8
-Occupational Therapy (Psychiatric),NC,19-Dec,10
-Occupational Therapy (Psychiatric),NC,20-Jan,10
-Occupational Therapy (Psychiatric),NC,20-Feb,14
-Occupational Therapy (Psychiatric),NC,20-Mar,3
-Occupational Therapy (Psychiatric),NC,20-Apr,3
-Oncology,FU,18-Jan,110
-Oncology,FU,18-Feb,102
-Oncology,FU,18-Mar,95
-Oncology,FU,18-Apr,82
-Oncology,FU,18-May,157
-Oncology,FU,18-Jun,107
-Oncology,FU,18-Jul,117
-Oncology,FU,18-Aug,56
-Oncology,FU,18-Sep,151
-Oncology,FU,18-Oct,124
-Oncology,FU,18-Nov,113
-Oncology,FU,18-Dec,107
-Oncology,FU,19-Jan,89
-Oncology,FU,19-Feb,113
-Oncology,FU,19-Mar,118
-Oncology,FU,19-Apr,116
-Oncology,FU,19-May,105
-Oncology,FU,19-Jun,115
-Oncology,FU,19-Jul,132
-Oncology,FU,19-Aug,129
-Oncology,FU,19-Sep,113
-Oncology,FU,19-Oct,135
-Oncology,FU,19-Nov,123
-Oncology,FU,19-Dec,105
-Oncology,FU,20-Jan,129
-Oncology,FU,20-Feb,112
-Oncology,FU,20-Mar,55
-Oncology,FU,20-Apr,0
-Oncology,NC,18-Jan,3
-Oncology,NC,18-Feb,7
-Oncology,NC,18-Mar,11
-Oncology,NC,18-Apr,8
-Oncology,NC,18-May,10
-Oncology,NC,18-Jun,8
-Oncology,NC,18-Jul,8
-Oncology,NC,18-Aug,6
-Oncology,NC,18-Sep,8
-Oncology,NC,18-Oct,8
-Oncology,NC,18-Nov,9
-Oncology,NC,18-Dec,13
-Oncology,NC,19-Jan,7
-Oncology,NC,19-Feb,9
-Oncology,NC,19-Mar,10
-Oncology,NC,19-Apr,6
-Oncology,NC,19-May,5
-Oncology,NC,19-Jun,8
-Oncology,NC,19-Jul,8
-Oncology,NC,19-Aug,5
-Oncology,NC,19-Sep,6
-Oncology,NC,19-Oct,14
-Oncology,NC,19-Nov,13
-Oncology,NC,19-Dec,6
-Oncology,NC,20-Jan,11
-Oncology,NC,20-Feb,13
-Oncology,NC,20-Mar,2
-Oncology,NC,20-Apr,0
-Ophthalmic,FU,18-Jan,104
-Ophthalmic,FU,18-Feb,108
-Ophthalmic,FU,18-Mar,107
-Ophthalmic,FU,18-Apr,79
-Ophthalmic,FU,18-May,125
-Ophthalmic,FU,18-Jun,119
-Ophthalmic,FU,18-Jul,94
-Ophthalmic,FU,18-Aug,86
-Ophthalmic,FU,18-Sep,85
-Ophthalmic,FU,18-Oct,95
-Ophthalmic,FU,18-Nov,107
-Ophthalmic,FU,18-Dec,115
-Ophthalmic,FU,19-Jan,120
-Ophthalmic,FU,19-Feb,96
-Ophthalmic,FU,19-Mar,107
-Ophthalmic,FU,19-Apr,117
-Ophthalmic,FU,19-May,116
-Ophthalmic,FU,19-Jun,105
-Ophthalmic,FU,19-Jul,178
-Ophthalmic,FU,19-Aug,143
-Ophthalmic,FU,19-Sep,136
-Ophthalmic,FU,19-Oct,171
-Ophthalmic,FU,19-Nov,108
-Ophthalmic,FU,19-Dec,103
-Ophthalmic,FU,20-Jan,124
-Ophthalmic,FU,20-Feb,125
-Ophthalmic,FU,20-Mar,58
-Ophthalmic,FU,20-Apr,22
-Ophthalmic,NC,18-Jan,52
-Ophthalmic,NC,18-Feb,43
-Ophthalmic,NC,18-Mar,59
-Ophthalmic,NC,18-Apr,36
-Ophthalmic,NC,18-May,77
-Ophthalmic,NC,18-Jun,102
-Ophthalmic,NC,18-Jul,107
-Ophthalmic,NC,18-Aug,74
-Ophthalmic,NC,18-Sep,72
-Ophthalmic,NC,18-Oct,71
-Ophthalmic,NC,18-Nov,88
-Ophthalmic,NC,18-Dec,70
-Ophthalmic,NC,19-Jan,55
-Ophthalmic,NC,19-Feb,61
-Ophthalmic,NC,19-Mar,64
-Ophthalmic,NC,19-Apr,62
-Ophthalmic,NC,19-May,55
-Ophthalmic,NC,19-Jun,67
-Ophthalmic,NC,19-Jul,117
-Ophthalmic,NC,19-Aug,113
-Ophthalmic,NC,19-Sep,114
-Ophthalmic,NC,19-Oct,124
-Ophthalmic,NC,19-Nov,81
-Ophthalmic,NC,19-Dec,102
-Ophthalmic,NC,20-Jan,149
-Ophthalmic,NC,20-Feb,136
-Ophthalmic,NC,20-Mar,85
-Ophthalmic,NC,20-Apr,25
-Orthopaedic,FU,18-Jan,170
-Orthopaedic,FU,18-Jan,137
-Orthopaedic,FU,18-Feb,125
-Orthopaedic,FU,18-Feb,111
-Orthopaedic,FU,18-Mar,102
-Orthopaedic,FU,18-Mar,129
-Orthopaedic,FU,18-Apr,140
-Orthopaedic,FU,18-Apr,116
-Orthopaedic,FU,18-May,129
-Orthopaedic,FU,18-May,143
-Orthopaedic,FU,18-Jun,153
-Orthopaedic,FU,18-Jun,117
-Orthopaedic,FU,18-Jul,142
-Orthopaedic,FU,18-Jul,125
-Orthopaedic,FU,18-Aug,196
-Orthopaedic,FU,18-Aug,159
-Orthopaedic,FU,18-Sep,82
-Orthopaedic,FU,18-Sep,146
-Orthopaedic,FU,18-Oct,139
-Orthopaedic,FU,18-Oct,135
-Orthopaedic,FU,18-Nov,175
-Orthopaedic,FU,18-Nov,148
-Orthopaedic,FU,18-Dec,112
-Orthopaedic,FU,18-Dec,57
-Orthopaedic,FU,19-Jan,164
-Orthopaedic,FU,19-Jan,154
-Orthopaedic,FU,19-Feb,120
-Orthopaedic,FU,19-Feb,124
-Orthopaedic,FU,19-Mar,128
-Orthopaedic,FU,19-Mar,135
-Orthopaedic,FU,19-Apr,145
-Orthopaedic,FU,19-Apr,143
-Orthopaedic,FU,19-May,159
-Orthopaedic,FU,19-May,156
-Orthopaedic,FU,19-Jun,138
-Orthopaedic,FU,19-Jun,134
-Orthopaedic,FU,19-Jul,144
-Orthopaedic,FU,19-Jul,137
-Orthopaedic,FU,19-Aug,122
-Orthopaedic,FU,19-Aug,120
-Orthopaedic,FU,19-Sep,113
-Orthopaedic,FU,19-Sep,147
-Orthopaedic,FU,19-Oct,184
-Orthopaedic,FU,19-Oct,170
-Orthopaedic,FU,19-Nov,170
-Orthopaedic,FU,19-Nov,141
-Orthopaedic,FU,19-Dec,91
-Orthopaedic,FU,19-Dec,137
-Orthopaedic,FU,20-Jan,167
-Orthopaedic,FU,20-Jan,183
-Orthopaedic,FU,20-Feb,116
-Orthopaedic,FU,20-Feb,136
-Orthopaedic,FU,20-Mar,47
-Orthopaedic,FU,20-Mar,70
-Orthopaedic,FU,20-Apr,20
-Orthopaedic,FU,20-Apr,39
-Orthopaedic,NC,18-Jan,78
-Orthopaedic,NC,18-Jan,40
-Orthopaedic,NC,18-Feb,67
-Orthopaedic,NC,18-Feb,38
-Orthopaedic,NC,18-Mar,69
-Orthopaedic,NC,18-Mar,38
-Orthopaedic,NC,18-Apr,77
-Orthopaedic,NC,18-Apr,31
-Orthopaedic,NC,18-May,84
-Orthopaedic,NC,18-May,43
-Orthopaedic,NC,18-Jun,72
-Orthopaedic,NC,18-Jun,27
-Orthopaedic,NC,18-Jul,63
-Orthopaedic,NC,18-Jul,36
-Orthopaedic,NC,18-Aug,88
-Orthopaedic,NC,18-Aug,46
-Orthopaedic,NC,18-Sep,44
-Orthopaedic,NC,18-Sep,36
-Orthopaedic,NC,18-Oct,82
-Orthopaedic,NC,18-Oct,37
-Orthopaedic,NC,18-Nov,105
-Orthopaedic,NC,18-Nov,38
-Orthopaedic,NC,18-Dec,78
-Orthopaedic,NC,18-Dec,58
-Orthopaedic,NC,19-Jan,128
-Orthopaedic,NC,19-Jan,45
-Orthopaedic,NC,19-Feb,94
-Orthopaedic,NC,19-Feb,32
-Orthopaedic,NC,19-Mar,140
-Orthopaedic,NC,19-Mar,32
-Orthopaedic,NC,19-Apr,96
-Orthopaedic,NC,19-Apr,44
-Orthopaedic,NC,19-May,167
-Orthopaedic,NC,19-May,37
-Orthopaedic,NC,19-Jun,115
-Orthopaedic,NC,19-Jun,30
-Orthopaedic,NC,19-Jul,106
-Orthopaedic,NC,19-Jul,32
-Orthopaedic,NC,19-Aug,81
-Orthopaedic,NC,19-Aug,42
-Orthopaedic,NC,19-Sep,75
-Orthopaedic,NC,19-Sep,48
-Orthopaedic,NC,19-Oct,107
-Orthopaedic,NC,19-Oct,50
-Orthopaedic,NC,19-Nov,98
-Orthopaedic,NC,19-Nov,46
-Orthopaedic,NC,19-Dec,58
-Orthopaedic,NC,19-Dec,35
-Orthopaedic,NC,20-Jan,96
-Orthopaedic,NC,20-Jan,41
-Orthopaedic,NC,20-Feb,89
-Orthopaedic,NC,20-Feb,38
-Orthopaedic,NC,20-Mar,20
-Orthopaedic,NC,20-Mar,18
-Orthopaedic,NC,20-Apr,3
-Orthopaedic,NC,20-Apr,21
-POC-ACC,FU,18-Jan,299
-POC-ACC,FU,18-Feb,272
-POC-ACC,FU,18-Mar,297
-POC-ACC,FU,18-Apr,270
-POC-ACC,FU,18-May,319
-POC-ACC,FU,18-Jun,243
-POC-ACC,FU,18-Jul,326
-POC-ACC,FU,18-Aug,305
-POC-ACC,FU,18-Sep,279
-POC-ACC,FU,18-Oct,311
-POC-ACC,FU,18-Nov,306
-POC-ACC,FU,18-Dec,307
-POC-ACC,FU,19-Jan,247
-POC-ACC,FU,19-Feb,252
-POC-ACC,FU,19-Mar,225
-POC-ACC,FU,19-Apr,256
-POC-ACC,FU,19-May,275
-POC-ACC,FU,19-Jun,206
-POC-ACC,FU,19-Jul,211
-POC-ACC,FU,19-Aug,228
-POC-ACC,FU,19-Sep,218
-POC-ACC,FU,19-Oct,258
-POC-ACC,FU,19-Nov,179
-POC-ACC,FU,19-Dec,223
-POC-ACC,FU,20-Jan,241
-POC-ACC,FU,20-Feb,208
-POC-ACC,FU,20-Mar,169
-POC-ACC,FU,20-Apr,189
-POC-ACC,NC,18-Jan,0
-POC-ACC,NC,18-Feb,0
-POC-ACC,NC,18-Mar,0
-POC-ACC,NC,18-Apr,0
-POC-ACC,NC,18-May,0
-POC-ACC,NC,18-Jun,0
-POC-ACC,NC,18-Jul,0
-POC-ACC,NC,18-Aug,0
-POC-ACC,NC,18-Sep,0
-POC-ACC,NC,18-Oct,0
-POC-ACC,NC,18-Nov,0
-POC-ACC,NC,18-Dec,0
-POC-ACC,NC,19-Jan,0
-POC-ACC,NC,19-Feb,0
-POC-ACC,NC,19-Mar,0
-POC-ACC,NC,19-Apr,0
-POC-ACC,NC,19-May,0
-POC-ACC,NC,19-Jun,0
-POC-ACC,NC,19-Jul,0
-POC-ACC,NC,19-Aug,0
-POC-ACC,NC,19-Sep,0
-POC-ACC,NC,19-Oct,0
-POC-ACC,NC,19-Nov,0
-POC-ACC,NC,19-Dec,0
-POC-ACC,NC,20-Jan,0
-POC-ACC,NC,20-Feb,0
-POC-ACC,NC,20-Mar,0
-POC-ACC,NC,20-Apr,0
-Pacemaker,FU,18-Jan,51
-Pacemaker,FU,18-Feb,37
-Pacemaker,FU,18-Mar,27
-Pacemaker,FU,18-Apr,47
-Pacemaker,FU,18-May,41
-Pacemaker,FU,18-Jun,30
-Pacemaker,FU,18-Jul,50
-Pacemaker,FU,18-Aug,43
-Pacemaker,FU,18-Sep,33
-Pacemaker,FU,18-Oct,36
-Pacemaker,FU,18-Nov,58
-Pacemaker,FU,18-Dec,0
-Pacemaker,FU,19-Jan,53
-Pacemaker,FU,19-Feb,56
-Pacemaker,FU,19-Mar,20
-Pacemaker,FU,19-Apr,43
-Pacemaker,FU,19-May,42
-Pacemaker,FU,19-Jun,44
-Pacemaker,FU,19-Jul,39
-Pacemaker,FU,19-Aug,45
-Pacemaker,FU,19-Sep,37
-Pacemaker,FU,19-Oct,48
-Pacemaker,FU,19-Nov,34
-Pacemaker,FU,19-Dec,45
-Pacemaker,FU,20-Jan,49
-Pacemaker,FU,20-Feb,49
-Pacemaker,FU,20-Mar,13
-Pacemaker,FU,20-Apr,18
-Pacemaker,NC,18-Jan,0
-Pacemaker,NC,18-Feb,0
-Pacemaker,NC,18-Mar,0
-Pacemaker,NC,18-Apr,0
-Pacemaker,NC,18-May,0
-Pacemaker,NC,18-Jun,0
-Pacemaker,NC,18-Jul,0
-Pacemaker,NC,18-Aug,0
-Pacemaker,NC,18-Sep,0
-Pacemaker,NC,18-Oct,0
-Pacemaker,NC,18-Nov,0
-Pacemaker,NC,18-Dec,0
-Pacemaker,NC,19-Jan,0
-Pacemaker,NC,19-Feb,0
-Pacemaker,NC,19-Mar,0
-Pacemaker,NC,19-Apr,0
-Pacemaker,NC,19-May,0
-Pacemaker,NC,19-Jun,0
-Pacemaker,NC,19-Jul,0
-Pacemaker,NC,19-Aug,0
-Pacemaker,NC,19-Sep,0
-Pacemaker,NC,19-Oct,0
-Pacemaker,NC,19-Nov,0
-Pacemaker,NC,19-Dec,0
-Pacemaker,NC,20-Jan,0
-Pacemaker,NC,20-Feb,0
-Pacemaker,NC,20-Mar,0
-Pacemaker,NC,20-Apr,0
-Pain,FU,18-Jan,5
-Pain,FU,18-Feb,4
-Pain,FU,18-Mar,3
-Pain,FU,18-Apr,8
-Pain,FU,18-May,4
-Pain,FU,18-Jun,2
-Pain,FU,18-Jul,2
-Pain,FU,18-Aug,5
-Pain,FU,18-Sep,1
-Pain,FU,18-Oct,2
-Pain,FU,18-Nov,2
-Pain,FU,18-Dec,4
-Pain,FU,19-Jan,4
-Pain,FU,19-Feb,4
-Pain,FU,19-Mar,7
-Pain,FU,19-Apr,4
-Pain,FU,19-May,6
-Pain,FU,19-Jun,2
-Pain,FU,19-Jul,3
-Pain,FU,19-Aug,5
-Pain,FU,19-Sep,3
-Pain,FU,19-Oct,3
-Pain,FU,19-Nov,3
-Pain,FU,19-Dec,3
-Pain,FU,20-Jan,2
-Pain,FU,20-Feb,3
-Pain,FU,20-Mar,0
-Pain,FU,20-Apr,0
-Pain,NC,18-Jan,8
-Pain,NC,18-Feb,6
-Pain,NC,18-Mar,7
-Pain,NC,18-Apr,6
-Pain,NC,18-May,8
-Pain,NC,18-Jun,7
-Pain,NC,18-Jul,2
-Pain,NC,18-Aug,5
-Pain,NC,18-Sep,5
-Pain,NC,18-Oct,7
-Pain,NC,18-Nov,3
-Pain,NC,18-Dec,3
-Pain,NC,19-Jan,7
-Pain,NC,19-Feb,4
-Pain,NC,19-Mar,6
-Pain,NC,19-Apr,5
-Pain,NC,19-May,4
-Pain,NC,19-Jun,5
-Pain,NC,19-Jul,6
-Pain,NC,19-Aug,8
-Pain,NC,19-Sep,5
-Pain,NC,19-Oct,9
-Pain,NC,19-Nov,8
-Pain,NC,19-Dec,7
-Pain,NC,20-Jan,10
-Pain,NC,20-Feb,10
-Pain,NC,20-Mar,0
-Pain,NC,20-Apr,0
-Palliative Care,FU,18-Jan,9
-Palliative Care,FU,18-Feb,8
-Palliative Care,FU,18-Mar,5
-Palliative Care,FU,18-Apr,6
-Palliative Care,FU,18-May,6
-Palliative Care,FU,18-Jun,4
-Palliative Care,FU,18-Jul,7
-Palliative Care,FU,18-Aug,5
-Palliative Care,FU,18-Sep,6
-Palliative Care,FU,18-Oct,2
-Palliative Care,FU,18-Nov,1
-Palliative Care,FU,18-Dec,7
-Palliative Care,FU,19-Jan,6
-Palliative Care,FU,19-Feb,5
-Palliative Care,FU,19-Mar,6
-Palliative Care,FU,19-Apr,3
-Palliative Care,FU,19-May,4
-Palliative Care,FU,19-Jun,4
-Palliative Care,FU,19-Jul,3
-Palliative Care,FU,19-Aug,7
-Palliative Care,FU,19-Sep,8
-Palliative Care,FU,19-Oct,12
-Palliative Care,FU,19-Nov,5
-Palliative Care,FU,19-Dec,10
-Palliative Care,FU,20-Jan,4
-Palliative Care,FU,20-Feb,13
-Palliative Care,FU,20-Mar,3
-Palliative Care,FU,20-Apr,0
-Palliative Care,NC,18-Jan,0
-Palliative Care,NC,18-Feb,0
-Palliative Care,NC,18-Mar,2
-Palliative Care,NC,18-Apr,1
-Palliative Care,NC,18-May,2
-Palliative Care,NC,18-Jun,4
-Palliative Care,NC,18-Jul,0
-Palliative Care,NC,18-Aug,0
-Palliative Care,NC,18-Sep,1
-Palliative Care,NC,18-Oct,1
-Palliative Care,NC,18-Nov,5
-Palliative Care,NC,18-Dec,1
-Palliative Care,NC,19-Jan,1
-Palliative Care,NC,19-Feb,1
-Palliative Care,NC,19-Mar,2
-Palliative Care,NC,19-Apr,4
-Palliative Care,NC,19-May,1
-Palliative Care,NC,19-Jun,2
-Palliative Care,NC,19-Jul,1
-Palliative Care,NC,19-Aug,3
-Palliative Care,NC,19-Sep,4
-Palliative Care,NC,19-Oct,3
-Palliative Care,NC,19-Nov,4
-Palliative Care,NC,19-Dec,4
-Palliative Care,NC,20-Jan,2
-Palliative Care,NC,20-Feb,4
-Palliative Care,NC,20-Mar,4
-Palliative Care,NC,20-Apr,0
-Physiotherapy,FU,18-Jan,"1,380"
-Physiotherapy,FU,18-Feb,"1,296"
-Physiotherapy,FU,18-Mar,"1,531"
-Physiotherapy,FU,18-Apr,"1,409"
-Physiotherapy,FU,18-May,"1,661"
-Physiotherapy,FU,18-Jun,"1,452"
-Physiotherapy,FU,18-Jul,"1,399"
-Physiotherapy,FU,18-Aug,"1,371"
-Physiotherapy,FU,18-Sep,"1,292"
-Physiotherapy,FU,18-Oct,"1,528"
-Physiotherapy,FU,18-Nov,"1,475"
-Physiotherapy,FU,18-Dec,"1,126"
-Physiotherapy,FU,19-Jan,1414
-Physiotherapy,FU,19-Feb,1548
-Physiotherapy,FU,19-Mar,1538
-Physiotherapy,FU,19-Apr,1632
-Physiotherapy,FU,19-May,1514
-Physiotherapy,FU,19-Jun,1365
-Physiotherapy,FU,19-Jul,1473
-Physiotherapy,FU,19-Aug,1278
-Physiotherapy,FU,19-Sep,1151
-Physiotherapy,FU,19-Oct,1481
-Physiotherapy,FU,19-Nov,1428
-Physiotherapy,FU,19-Dec,1159
-Physiotherapy,FU,20-Jan,1583
-Physiotherapy,FU,20-Feb,1358
-Physiotherapy,FU,20-Mar,806
-Physiotherapy,FU,20-Apr,267
-Physiotherapy,NC,18-Jan,136
-Physiotherapy,NC,18-Feb,122
-Physiotherapy,NC,18-Mar,136
-Physiotherapy,NC,18-Apr,157
-Physiotherapy,NC,18-May,176
-Physiotherapy,NC,18-Jun,150
-Physiotherapy,NC,18-Jul,132
-Physiotherapy,NC,18-Aug,153
-Physiotherapy,NC,18-Sep,94
-Physiotherapy,NC,18-Oct,175
-Physiotherapy,NC,18-Nov,141
-Physiotherapy,NC,18-Dec,115
-Physiotherapy,NC,19-Jan,146
-Physiotherapy,NC,19-Feb,132
-Physiotherapy,NC,19-Mar,161
-Physiotherapy,NC,19-Apr,127
-Physiotherapy,NC,19-May,153
-Physiotherapy,NC,19-Jun,174
-Physiotherapy,NC,19-Jul,162
-Physiotherapy,NC,19-Aug,154
-Physiotherapy,NC,19-Sep,190
-Physiotherapy,NC,19-Oct,204
-Physiotherapy,NC,19-Nov,170
-Physiotherapy,NC,19-Dec,136
-Physiotherapy,NC,20-Jan,173
-Physiotherapy,NC,20-Feb,178
-Physiotherapy,NC,20-Mar,94
-Physiotherapy,NC,20-Apr,33
-Podiatry,FU,18-Jan,698
-Podiatry,FU,18-Feb,662
-Podiatry,FU,18-Mar,697
-Podiatry,FU,18-Apr,750
-Podiatry,FU,18-May,853
-Podiatry,FU,18-Jun,703
-Podiatry,FU,18-Jul,774
-Podiatry,FU,18-Aug,835
-Podiatry,FU,18-Sep,646
-Podiatry,FU,18-Oct,875
-Podiatry,FU,18-Nov,827
-Podiatry,FU,18-Dec,573
-Podiatry,FU,19-Jan,784
-Podiatry,FU,19-Feb,764
-Podiatry,FU,19-Mar,802
-Podiatry,FU,19-Apr,696
-Podiatry,FU,19-May,795
-Podiatry,FU,19-Jun,777
-Podiatry,FU,19-Jul,765
-Podiatry,FU,19-Aug,779
-Podiatry,FU,19-Sep,701
-Podiatry,FU,19-Oct,856
-Podiatry,FU,19-Nov,771
-Podiatry,FU,19-Dec,617
-Podiatry,FU,20-Jan,841
-Podiatry,FU,20-Feb,698
-Podiatry,FU,20-Mar,385
-Podiatry,FU,20-Apr,38
-Podiatry,NC,18-Jan,42
-Podiatry,NC,18-Feb,33
-Podiatry,NC,18-Mar,54
-Podiatry,NC,18-Apr,66
-Podiatry,NC,18-May,63
-Podiatry,NC,18-Jun,59
-Podiatry,NC,18-Jul,72
-Podiatry,NC,18-Aug,69
-Podiatry,NC,18-Sep,53
-Podiatry,NC,18-Oct,54
-Podiatry,NC,18-Nov,66
-Podiatry,NC,18-Dec,35
-Podiatry,NC,19-Jan,63
-Podiatry,NC,19-Feb,55
-Podiatry,NC,19-Mar,68
-Podiatry,NC,19-Apr,50
-Podiatry,NC,19-May,86
-Podiatry,NC,19-Jun,68
-Podiatry,NC,19-Jul,79
-Podiatry,NC,19-Aug,6
-Podiatry,NC,19-Sep,67
-Podiatry,NC,19-Oct,91
-Podiatry,NC,19-Nov,93
-Podiatry,NC,19-Dec,63
-Podiatry,NC,20-Jan,91
-Podiatry,NC,20-Feb,81
-Podiatry,NC,20-Mar,36
-Podiatry,NC,20-Apr,4
-Postnatal,FU,18-Jan,11
-Postnatal,FU,18-Feb,9
-Postnatal,FU,18-Mar,24
-Postnatal,FU,18-Apr,7
-Postnatal,FU,18-May,17
-Postnatal,FU,18-Jun,10
-Postnatal,FU,18-Jul,9
-Postnatal,FU,18-Aug,23
-Postnatal,FU,18-Sep,12
-Postnatal,FU,18-Oct,13
-Postnatal,FU,18-Nov,12
-Postnatal,FU,18-Dec,0
-Postnatal,FU,19-Jan,13
-Postnatal,FU,19-Feb,15
-Postnatal,FU,19-Mar,12
-Postnatal,FU,19-Apr,8
-Postnatal,FU,19-May,13
-Postnatal,FU,19-Jun,11
-Postnatal,FU,19-Jul,15
-Postnatal,FU,19-Aug,15
-Postnatal,FU,19-Sep,17
-Postnatal,FU,19-Oct,15
-Postnatal,FU,19-Nov,16
-Postnatal,FU,19-Dec,16
-Postnatal,FU,20-Jan,28
-Postnatal,FU,20-Feb,19
-Postnatal,FU,20-Mar,10
-Postnatal,FU,20-Apr,0
-Postnatal,NC,18-Jan,0
-Postnatal,NC,18-Feb,0
-Postnatal,NC,18-Mar,0
-Postnatal,NC,18-Apr,0
-Postnatal,NC,18-May,0
-Postnatal,NC,18-Jun,0
-Postnatal,NC,18-Jul,0
-Postnatal,NC,18-Aug,0
-Postnatal,NC,18-Sep,0
-Postnatal,NC,18-Oct,0
-Postnatal,NC,18-Nov,0
-Postnatal,NC,18-Dec,0
-Postnatal,NC,19-Jan,0
-Postnatal,NC,19-Feb,0
-Postnatal,NC,19-Mar,0
-Postnatal,NC,19-Apr,0
-Postnatal,NC,19-May,0
-Postnatal,NC,19-Jun,0
-Postnatal,NC,19-Jul,0
-Postnatal,NC,19-Aug,0
-Postnatal,NC,19-Sep,0
-Postnatal,NC,19-Oct,0
-Postnatal,NC,19-Nov,0
-Postnatal,NC,19-Dec,0
-Postnatal,NC,20-Jan,0
-Postnatal,NC,20-Feb,0
-Postnatal,NC,20-Mar,0
-Postnatal,NC,20-Apr,0
-Psychiatric-Including Child Guidance,FU,18-Jan,171
-Psychiatric-Including Child Guidance,FU,18-Feb,156
-Psychiatric-Including Child Guidance,FU,18-Mar,180
-Psychiatric-Including Child Guidance,FU,18-Apr,148
-Psychiatric-Including Child Guidance,FU,18-May,164
-Psychiatric-Including Child Guidance,FU,18-Jun,148
-Psychiatric-Including Child Guidance,FU,18-Jul,173
-Psychiatric-Including Child Guidance,FU,18-Aug,140
-Psychiatric-Including Child Guidance,FU,18-Sep,129
-Psychiatric-Including Child Guidance,FU,18-Oct,205
-Psychiatric-Including Child Guidance,FU,18-Nov,204
-Psychiatric-Including Child Guidance,FU,18-Dec,116
-Psychiatric-Including Child Guidance,FU,19-Jan,204
-Psychiatric-Including Child Guidance,FU,19-Feb,190
-Psychiatric-Including Child Guidance,FU,19-Mar,193
-Psychiatric-Including Child Guidance,FU,19-Apr,213
-Psychiatric-Including Child Guidance,FU,19-May,193
-Psychiatric-Including Child Guidance,FU,19-Jun,158
-Psychiatric-Including Child Guidance,FU,19-Jul,242
-Psychiatric-Including Child Guidance,FU,19-Aug,163
-Psychiatric-Including Child Guidance,FU,19-Sep,138
-Psychiatric-Including Child Guidance,FU,19-Oct,149
-Psychiatric-Including Child Guidance,FU,19-Nov,189
-Psychiatric-Including Child Guidance,FU,19-Dec,149
-Psychiatric-Including Child Guidance,FU,20-Jan,215
-Psychiatric-Including Child Guidance,FU,20-Feb,180
-Psychiatric-Including Child Guidance,FU,20-Mar,70
-Psychiatric-Including Child Guidance,FU,20-Apr,0
-Psychiatric-Including Child Guidance,NC,18-Jan,18
-Psychiatric-Including Child Guidance,NC,18-Feb,14
-Psychiatric-Including Child Guidance,NC,18-Mar,14
-Psychiatric-Including Child Guidance,NC,18-Apr,15
-Psychiatric-Including Child Guidance,NC,18-May,12
-Psychiatric-Including Child Guidance,NC,18-Jun,17
-Psychiatric-Including Child Guidance,NC,18-Jul,13
-Psychiatric-Including Child Guidance,NC,18-Aug,15
-Psychiatric-Including Child Guidance,NC,18-Sep,13
-Psychiatric-Including Child Guidance,NC,18-Oct,18
-Psychiatric-Including Child Guidance,NC,18-Nov,4
-Psychiatric-Including Child Guidance,NC,18-Dec,10
-Psychiatric-Including Child Guidance,NC,19-Jan,14
-Psychiatric-Including Child Guidance,NC,19-Feb,11
-Psychiatric-Including Child Guidance,NC,19-Mar,8
-Psychiatric-Including Child Guidance,NC,19-Apr,12
-Psychiatric-Including Child Guidance,NC,19-May,8
-Psychiatric-Including Child Guidance,NC,19-Jun,13
-Psychiatric-Including Child Guidance,NC,19-Jul,12
-Psychiatric-Including Child Guidance,NC,19-Aug,13
-Psychiatric-Including Child Guidance,NC,19-Sep,11
-Psychiatric-Including Child Guidance,NC,19-Oct,10
-Psychiatric-Including Child Guidance,NC,19-Nov,16
-Psychiatric-Including Child Guidance,NC,19-Dec,8
-Psychiatric-Including Child Guidance,NC,20-Jan,18
-Psychiatric-Including Child Guidance,NC,20-Feb,17
-Psychiatric-Including Child Guidance,NC,20-Mar,18
-Psychiatric-Including Child Guidance,NC,20-Apr,0
-Respiratory Clinic,FU,18-Jan,0
-Respiratory Clinic,FU,18-Feb,0
-Respiratory Clinic,FU,18-Mar,0
-Respiratory Clinic,FU,18-Apr,0
-Respiratory Clinic,FU,18-May,0
-Respiratory Clinic,FU,18-Jun,0
-Respiratory Clinic,FU,18-Jul,0
-Respiratory Clinic,FU,18-Aug,0
-Respiratory Clinic,FU,18-Sep,0
-Respiratory Clinic,FU,18-Oct,0
-Respiratory Clinic,FU,18-Nov,0
-Respiratory Clinic,FU,18-Dec,0
-Respiratory Clinic,FU,19-Jan,0
-Respiratory Clinic,FU,19-Feb,0
-Respiratory Clinic,FU,19-Mar,0
-Respiratory Clinic,FU,19-Apr,0
-Respiratory Clinic,FU,19-May,0
-Respiratory Clinic,FU,19-Jun,0
-Respiratory Clinic,FU,19-Jul,0
-Respiratory Clinic,FU,19-Aug,0
-Respiratory Clinic,FU,19-Sep,0
-Respiratory Clinic,FU,19-Oct,0
-Respiratory Clinic,FU,19-Nov,0
-Respiratory Clinic,FU,19-Dec,0
-Respiratory Clinic,FU,20-Jan,0
-Respiratory Clinic,FU,20-Feb,2
-Respiratory Clinic,FU,20-Mar,2
-Respiratory Clinic,FU,20-Apr,1
-Respiratory Clinic,NC,18-Jan,0
-Respiratory Clinic,NC,18-Feb,0
-Respiratory Clinic,NC,18-Mar,0
-Respiratory Clinic,NC,18-Apr,0
-Respiratory Clinic,NC,18-May,0
-Respiratory Clinic,NC,18-Jun,0
-Respiratory Clinic,NC,18-Jul,0
-Respiratory Clinic,NC,18-Aug,0
-Respiratory Clinic,NC,18-Sep,0
-Respiratory Clinic,NC,18-Oct,0
-Respiratory Clinic,NC,18-Nov,0
-Respiratory Clinic,NC,18-Dec,0
-Respiratory Clinic,NC,19-Jan,0
-Respiratory Clinic,NC,19-Feb,0
-Respiratory Clinic,NC,19-Mar,0
-Respiratory Clinic,NC,19-Apr,0
-Respiratory Clinic,NC,19-May,0
-Respiratory Clinic,NC,19-Jun,0
-Respiratory Clinic,NC,19-Jul,0
-Respiratory Clinic,NC,19-Aug,0
-Respiratory Clinic,NC,19-Sep,0
-Respiratory Clinic,NC,19-Oct,0
-Respiratory Clinic,NC,19-Nov,0
-Respiratory Clinic,NC,19-Dec,0
-Respiratory Clinic,NC,20-Jan,0
-Respiratory Clinic,NC,20-Feb,10
-Respiratory Clinic,NC,20-Mar,9
-Respiratory Clinic,NC,20-Apr,0
-Rheumatology,FU,18-Jan,13
-Rheumatology,FU,18-Feb,19
-Rheumatology,FU,18-Mar,16
-Rheumatology,FU,18-Apr,22
-Rheumatology,FU,18-May,16
-Rheumatology,FU,18-Jun,26
-Rheumatology,FU,18-Jul,15
-Rheumatology,FU,18-Aug,21
-Rheumatology,FU,18-Sep,12
-Rheumatology,FU,18-Oct,37
-Rheumatology,FU,18-Nov,14
-Rheumatology,FU,18-Dec,11
-Rheumatology,FU,19-Jan,19
-Rheumatology,FU,19-Feb,19
-Rheumatology,FU,19-Mar,21
-Rheumatology,FU,19-Apr,20
-Rheumatology,FU,19-May,25
-Rheumatology,FU,19-Jun,12
-Rheumatology,FU,19-Jul,24
-Rheumatology,FU,19-Aug,16
-Rheumatology,FU,19-Sep,13
-Rheumatology,FU,19-Oct,25
-Rheumatology,FU,19-Nov,14
-Rheumatology,FU,19-Dec,11
-Rheumatology,FU,20-Jan,12
-Rheumatology,FU,20-Feb,13
-Rheumatology,FU,20-Mar,8
-Rheumatology,FU,20-Apr,2
-Rheumatology,NC,18-Jan,11
-Rheumatology,NC,18-Feb,18
-Rheumatology,NC,18-Mar,13
-Rheumatology,NC,18-Apr,14
-Rheumatology,NC,18-May,12
-Rheumatology,NC,18-Jun,8
-Rheumatology,NC,18-Jul,11
-Rheumatology,NC,18-Aug,15
-Rheumatology,NC,18-Sep,3
-Rheumatology,NC,18-Oct,17
-Rheumatology,NC,18-Nov,9
-Rheumatology,NC,18-Dec,8
-Rheumatology,NC,19-Jan,13
-Rheumatology,NC,19-Feb,12
-Rheumatology,NC,19-Mar,14
-Rheumatology,NC,19-Apr,8
-Rheumatology,NC,19-May,8
-Rheumatology,NC,19-Jun,5
-Rheumatology,NC,19-Jul,9
-Rheumatology,NC,19-Aug,10
-Rheumatology,NC,19-Sep,5
-Rheumatology,NC,19-Oct,8
-Rheumatology,NC,19-Nov,7
-Rheumatology,NC,19-Dec,1
-Rheumatology,NC,20-Jan,8
-Rheumatology,NC,20-Feb,9
-Rheumatology,NC,20-Mar,6
-Rheumatology,NC,20-Apr,1
-Social Worker-Physical (Medical),FU,18-Jan,
-Social Worker-Physical (Medical),FU,18-Feb,
-Social Worker-Physical (Medical),FU,18-Mar,
-Social Worker-Physical (Medical),FU,18-Apr,
-Social Worker-Physical (Medical),FU,18-May,
-Social Worker-Physical (Medical),FU,18-Jun,
-Social Worker-Physical (Medical),FU,18-Jul,
-Social Worker-Physical (Medical),FU,18-Aug,
-Social Worker-Physical (Medical),FU,18-Sep,
-Social Worker-Physical (Medical),FU,18-Oct,14
-Social Worker-Physical (Medical),FU,18-Nov,12
-Social Worker-Physical (Medical),FU,18-Dec,12
-Social Worker-Physical (Medical),FU,19-Jan,12
-Social Worker-Physical (Medical),FU,19-Feb,14
-Social Worker-Physical (Medical),FU,19-Mar,16
-Social Worker-Physical (Medical),FU,19-Apr,16
-Social Worker-Physical (Medical),FU,19-May,17
-Social Worker-Physical (Medical),FU,19-Jun,18
-Social Worker-Physical (Medical),FU,19-Jul,14
-Social Worker-Physical (Medical),FU,19-Aug,14
-Social Worker-Physical (Medical),FU,19-Sep,13
-Social Worker-Physical (Medical),FU,19-Oct,14
-Social Worker-Physical (Medical),FU,19-Nov,14
-Social Worker-Physical (Medical),FU,19-Dec,14
-Social Worker-Physical (Medical),FU,20-Jan,14
-Social Worker-Physical (Medical),FU,20-Feb,0
-Social Worker-Physical (Medical),FU,20-Mar,0
-Social Worker-Physical (Medical),FU,20-Apr,0
-Social Worker-Physical (Medical),NC,18-Jan,
-Social Worker-Physical (Medical),NC,18-Feb,
-Social Worker-Physical (Medical),NC,18-Mar,
-Social Worker-Physical (Medical),NC,18-Apr,
-Social Worker-Physical (Medical),NC,18-May,
-Social Worker-Physical (Medical),NC,18-Jun,
-Social Worker-Physical (Medical),NC,18-Jul,
-Social Worker-Physical (Medical),NC,18-Aug,
-Social Worker-Physical (Medical),NC,18-Sep,
-Social Worker-Physical (Medical),NC,18-Oct,0
-Social Worker-Physical (Medical),NC,18-Nov,0
-Social Worker-Physical (Medical),NC,18-Dec,0
-Social Worker-Physical (Medical),NC,19-Jan,3
-Social Worker-Physical (Medical),NC,19-Feb,2
-Social Worker-Physical (Medical),NC,19-Mar,0
-Social Worker-Physical (Medical),NC,19-Apr,1
-Social Worker-Physical (Medical),NC,19-May,1
-Social Worker-Physical (Medical),NC,19-Jun,0
-Social Worker-Physical (Medical),NC,19-Jul,0
-Social Worker-Physical (Medical),NC,19-Aug,0
-Social Worker-Physical (Medical),NC,19-Sep,1
-Social Worker-Physical (Medical),NC,19-Oct,0
-Social Worker-Physical (Medical),NC,19-Nov,0
-Social Worker-Physical (Medical),NC,19-Dec,1
-Social Worker-Physical (Medical),NC,20-Jan,0
-Social Worker-Physical (Medical),NC,20-Feb,0
-Social Worker-Physical (Medical),NC,20-Mar,0
-Social Worker-Physical (Medical),NC,20-Apr,0
-Social Worker-Psychiatric,FU,18-Jan,127
-Social Worker-Psychiatric,FU,18-Feb,64
-Social Worker-Psychiatric,FU,18-Mar,57
-Social Worker-Psychiatric,FU,18-Apr,55
-Social Worker-Psychiatric,FU,18-May,46
-Social Worker-Psychiatric,FU,18-Jun,139
-Social Worker-Psychiatric,FU,18-Jul,100
-Social Worker-Psychiatric,FU,18-Aug,114
-Social Worker-Psychiatric,FU,18-Sep,122
-Social Worker-Psychiatric,FU,18-Oct,37
-Social Worker-Psychiatric,FU,18-Nov,135
-Social Worker-Psychiatric,FU,18-Dec,120
-Social Worker-Psychiatric,FU,19-Jan,114
-Social Worker-Psychiatric,FU,19-Feb,133
-Social Worker-Psychiatric,FU,19-Mar,137
-Social Worker-Psychiatric,FU,19-Apr,138
-Social Worker-Psychiatric,FU,19-May,144
-Social Worker-Psychiatric,FU,19-Jun,138
-Social Worker-Psychiatric,FU,19-Jul,137
-Social Worker-Psychiatric,FU,19-Aug,140
-Social Worker-Psychiatric,FU,19-Sep,141
-Social Worker-Psychiatric,FU,19-Oct,144
-Social Worker-Psychiatric,FU,19-Nov,144
-Social Worker-Psychiatric,FU,19-Dec,145
-Social Worker-Psychiatric,FU,20-Jan,145
-Social Worker-Psychiatric,FU,20-Feb,143
-Social Worker-Psychiatric,FU,20-Mar,147
-Social Worker-Psychiatric,FU,20-Apr,149
-Social Worker-Psychiatric,NC,18-Jan,15
-Social Worker-Psychiatric,NC,18-Feb,11
-Social Worker-Psychiatric,NC,18-Mar,11
-Social Worker-Psychiatric,NC,18-Apr,6
-Social Worker-Psychiatric,NC,18-May,13
-Social Worker-Psychiatric,NC,18-Jun,13
-Social Worker-Psychiatric,NC,18-Jul,10
-Social Worker-Psychiatric,NC,18-Aug,14
-Social Worker-Psychiatric,NC,18-Sep,9
-Social Worker-Psychiatric,NC,18-Oct,17
-Social Worker-Psychiatric,NC,18-Nov,10
-Social Worker-Psychiatric,NC,18-Dec,2
-Social Worker-Psychiatric,NC,19-Jan,18
-Social Worker-Psychiatric,NC,19-Feb,5
-Social Worker-Psychiatric,NC,19-Mar,1
-Social Worker-Psychiatric,NC,19-Apr,6
-Social Worker-Psychiatric,NC,19-May,1
-Social Worker-Psychiatric,NC,19-Jun,2
-Social Worker-Psychiatric,NC,19-Jul,1
-Social Worker-Psychiatric,NC,19-Aug,4
-Social Worker-Psychiatric,NC,19-Sep,1
-Social Worker-Psychiatric,NC,19-Oct,0
-Social Worker-Psychiatric,NC,19-Nov,1
-Social Worker-Psychiatric,NC,19-Dec,2
-Social Worker-Psychiatric,NC,20-Jan,0
-Social Worker-Psychiatric,NC,20-Feb,6
-Social Worker-Psychiatric,NC,20-Mar,2
-Social Worker-Psychiatric,NC,20-Apr,0
-Speech & Language Therapy,FU,18-Jan,492
-Speech & Language Therapy,FU,18-Feb,397
-Speech & Language Therapy,FU,18-Mar,456
-Speech & Language Therapy,FU,18-Apr,419
-Speech & Language Therapy,FU,18-May,439
-Speech & Language Therapy,FU,18-Jun,291
-Speech & Language Therapy,FU,18-Jul,502
-Speech & Language Therapy,FU,18-Aug,262
-Speech & Language Therapy,FU,18-Sep,240
-Speech & Language Therapy,FU,18-Oct,91
-Speech & Language Therapy,FU,18-Nov,110
-Speech & Language Therapy,FU,18-Dec,129
-Speech & Language Therapy,FU,19-Jan,134
-Speech & Language Therapy,FU,19-Feb,134
-Speech & Language Therapy,FU,19-Mar,130
-Speech & Language Therapy,FU,19-Apr,141
-Speech & Language Therapy,FU,19-May,146
-Speech & Language Therapy,FU,19-Jun,153
-Speech & Language Therapy,FU,19-Jul,187
-Speech & Language Therapy,FU,19-Aug,202
-Speech & Language Therapy,FU,19-Sep,149
-Speech & Language Therapy,FU,19-Oct,154
-Speech & Language Therapy,FU,19-Nov,176
-Speech & Language Therapy,FU,19-Dec,147
-Speech & Language Therapy,FU,20-Jan,147
-Speech & Language Therapy,FU,20-Feb,153
-Speech & Language Therapy,FU,20-Mar,94
-Speech & Language Therapy,FU,20-Apr,0
-Speech & Language Therapy,NC,18-Jan,81
-Speech & Language Therapy,NC,18-Feb,73
-Speech & Language Therapy,NC,18-Mar,59
-Speech & Language Therapy,NC,18-Apr,77
-Speech & Language Therapy,NC,18-May,62
-Speech & Language Therapy,NC,18-Jun,29
-Speech & Language Therapy,NC,18-Jul,94
-Speech & Language Therapy,NC,18-Aug,18
-Speech & Language Therapy,NC,18-Sep,13
-Speech & Language Therapy,NC,18-Oct,5
-Speech & Language Therapy,NC,18-Nov,6
-Speech & Language Therapy,NC,18-Dec,3
-Speech & Language Therapy,NC,19-Jan,7
-Speech & Language Therapy,NC,19-Feb,9
-Speech & Language Therapy,NC,19-Mar,6
-Speech & Language Therapy,NC,19-Apr,3
-Speech & Language Therapy,NC,19-May,9
-Speech & Language Therapy,NC,19-Jun,16
-Speech & Language Therapy,NC,19-Jul,16
-Speech & Language Therapy,NC,19-Aug,9
-Speech & Language Therapy,NC,19-Sep,7
-Speech & Language Therapy,NC,19-Oct,8
-Speech & Language Therapy,NC,19-Nov,12
-Speech & Language Therapy,NC,19-Dec,6
-Speech & Language Therapy,NC,20-Jan,11
-Speech & Language Therapy,NC,20-Feb,6
-Speech & Language Therapy,NC,20-Mar,7
-Speech & Language Therapy,NC,20-Apr,0
-Surgical,FU,18-Jan,177
-Surgical,FU,18-Feb,156
-Surgical,FU,18-Mar,214
-Surgical,FU,18-Apr,174
-Surgical,FU,18-May,182
-Surgical,FU,18-Jun,136
-Surgical,FU,18-Jul,127
-Surgical,FU,18-Aug,183
-Surgical,FU,18-Sep,148
-Surgical,FU,18-Oct,200
-Surgical,FU,18-Nov,228
-Surgical,FU,18-Dec,148
-Surgical,FU,19-Jan,202
-Surgical,FU,19-Feb,177
-Surgical,FU,19-Mar,202
-Surgical,FU,19-Apr,178
-Surgical,FU,19-May,235
-Surgical,FU,19-Jun,158
-Surgical,FU,19-Jul,172
-Surgical,FU,19-Aug,183
-Surgical,FU,19-Sep,201
-Surgical,FU,19-Oct,194
-Surgical,FU,19-Nov,207
-Surgical,FU,19-Dec,165
-Surgical,FU,20-Jan,255
-Surgical,FU,20-Feb,180
-Surgical,FU,20-Mar,106
-Surgical,FU,20-Apr,13
-Surgical,NC,18-Jan,130
-Surgical,NC,18-Feb,113
-Surgical,NC,18-Mar,137
-Surgical,NC,18-Apr,154
-Surgical,NC,18-May,138
-Surgical,NC,18-Jun,89
-Surgical,NC,18-Jul,100
-Surgical,NC,18-Aug,153
-Surgical,NC,18-Sep,117
-Surgical,NC,18-Oct,150
-Surgical,NC,18-Nov,140
-Surgical,NC,18-Dec,72
-Surgical,NC,19-Jan,131
-Surgical,NC,19-Feb,110
-Surgical,NC,19-Mar,145
-Surgical,NC,19-Apr,117
-Surgical,NC,19-May,112
-Surgical,NC,19-Jun,106
-Surgical,NC,19-Jul,116
-Surgical,NC,19-Aug,133
-Surgical,NC,19-Sep,111
-Surgical,NC,19-Oct,135
-Surgical,NC,19-Nov,155
-Surgical,NC,19-Dec,121
-Surgical,NC,20-Jan,116
-Surgical,NC,20-Feb,104
-Surgical,NC,20-Mar,48
-Surgical,NC,20-Apr,4
-Thyroid,FU,18-Jan,0
-Thyroid,FU,18-Feb,0
-Thyroid,FU,18-Mar,0
-Thyroid,FU,18-Apr,0
-Thyroid,FU,18-May,0
-Thyroid,FU,18-Jun,0
-Thyroid,FU,18-Jul,0
-Thyroid,FU,18-Aug,0
-Thyroid,FU,18-Sep,0
-Thyroid,FU,18-Oct,0
-Thyroid,FU,18-Nov,0
-Thyroid,FU,18-Dec,0
-Thyroid,FU,19-Jan,0
-Thyroid,FU,19-Feb,0
-Thyroid,FU,19-Mar,0
-Thyroid,FU,19-Apr,0
-Thyroid,FU,19-May,0
-Thyroid,FU,19-Jun,0
-Thyroid,FU,19-Jul,0
-Thyroid,FU,19-Aug,0
-Thyroid,FU,19-Sep,0
-Thyroid,FU,19-Oct,10
-Thyroid,FU,19-Nov,9
-Thyroid,FU,19-Dec,0
-Thyroid,FU,20-Jan,13
-Thyroid,FU,20-Feb,7
-Thyroid,FU,20-Mar,5
-Thyroid,FU,20-Apr,0
-Thyroid,NC,18-Jan,0
-Thyroid,NC,18-Feb,0
-Thyroid,NC,18-Mar,0
-Thyroid,NC,18-Apr,0
-Thyroid,NC,18-May,0
-Thyroid,NC,18-Jun,0
-Thyroid,NC,18-Jul,0
-Thyroid,NC,18-Aug,0
-Thyroid,NC,18-Sep,0
-Thyroid,NC,18-Oct,0
-Thyroid,NC,18-Nov,0
-Thyroid,NC,18-Dec,0
-Thyroid,NC,19-Jan,0
-Thyroid,NC,19-Feb,0
-Thyroid,NC,19-Mar,0
-Thyroid,NC,19-Apr,0
-Thyroid,NC,19-May,0
-Thyroid,NC,19-Jun,0
-Thyroid,NC,19-Jul,0
-Thyroid,NC,19-Aug,0
-Thyroid,NC,19-Sep,0
-Thyroid,NC,19-Oct,3
-Thyroid,NC,19-Nov,2
-Thyroid,NC,19-Dec,0
-Thyroid,NC,20-Jan,0
-Thyroid,NC,20-Feb,3
-Thyroid,NC,20-Mar,4
-Thyroid,NC,20-Apr,0
-Tissue Viability Clinic,FU,18-Jan,247
-Tissue Viability Clinic,FU,18-Feb,265
-Tissue Viability Clinic,FU,18-Mar,313
-Tissue Viability Clinic,FU,18-Apr,326
-Tissue Viability Clinic,FU,18-May,309
-Tissue Viability Clinic,FU,18-Jun,257
-Tissue Viability Clinic,FU,18-Jul,292
-Tissue Viability Clinic,FU,18-Aug,238
-Tissue Viability Clinic,FU,18-Sep,341
-Tissue Viability Clinic,FU,18-Oct,347
-Tissue Viability Clinic,FU,18-Nov,294
-Tissue Viability Clinic,FU,18-Dec,306
-Tissue Viability Clinic,FU,19-Jan,261
-Tissue Viability Clinic,FU,19-Feb,295
-Tissue Viability Clinic,FU,19-Mar,277
-Tissue Viability Clinic,FU,19-Apr,241
-Tissue Viability Clinic,FU,19-May,249
-Tissue Viability Clinic,FU,19-Jun,343
-Tissue Viability Clinic,FU,19-Jul,333
-Tissue Viability Clinic,FU,19-Aug,340
-Tissue Viability Clinic,FU,19-Sep,371
-Tissue Viability Clinic,FU,19-Oct,380
-Tissue Viability Clinic,FU,19-Nov,369
-Tissue Viability Clinic,FU,19-Dec,451
-Tissue Viability Clinic,FU,20-Jan,405
-Tissue Viability Clinic,FU,20-Feb,217
-Tissue Viability Clinic,FU,20-Mar,278
-Tissue Viability Clinic,FU,20-Apr,127
-Tissue Viability Clinic,NC,18-Jan,17
-Tissue Viability Clinic,NC,18-Feb,20
-Tissue Viability Clinic,NC,18-Mar,20
-Tissue Viability Clinic,NC,18-Apr,20
-Tissue Viability Clinic,NC,18-May,18
-Tissue Viability Clinic,NC,18-Jun,12
-Tissue Viability Clinic,NC,18-Jul,21
-Tissue Viability Clinic,NC,18-Aug,22
-Tissue Viability Clinic,NC,18-Sep,15
-Tissue Viability Clinic,NC,18-Oct,23
-Tissue Viability Clinic,NC,18-Nov,14
-Tissue Viability Clinic,NC,18-Dec,14
-Tissue Viability Clinic,NC,19-Jan,14
-Tissue Viability Clinic,NC,19-Feb,29
-Tissue Viability Clinic,NC,19-Mar,27
-Tissue Viability Clinic,NC,19-Apr,16
-Tissue Viability Clinic,NC,19-May,30
-Tissue Viability Clinic,NC,19-Jun,24
-Tissue Viability Clinic,NC,19-Jul,35
-Tissue Viability Clinic,NC,19-Aug,28
-Tissue Viability Clinic,NC,19-Sep,27
-Tissue Viability Clinic,NC,19-Oct,27
-Tissue Viability Clinic,NC,19-Nov,22
-Tissue Viability Clinic,NC,19-Dec,24
-Tissue Viability Clinic,NC,20-Jan,26
-Tissue Viability Clinic,NC,20-Feb,20
-Tissue Viability Clinic,NC,20-Mar,17
-Tissue Viability Clinic,NC,20-Apr,8
-Urology,FU,18-Jan,105
-Urology,FU,18-Feb,111
-Urology,FU,18-Mar,80
-Urology,FU,18-Apr,79
-Urology,FU,18-May,141
-Urology,FU,18-Jun,90
-Urology,FU,18-Jul,95
-Urology,FU,18-Aug,103
-Urology,FU,18-Sep,86
-Urology,FU,18-Oct,116
-Urology,FU,18-Nov,63
-Urology,FU,18-Dec,40
-Urology,FU,19-Jan,116
-Urology,FU,19-Feb,87
-Urology,FU,19-Mar,103
-Urology,FU,19-Apr,110
-Urology,FU,19-May,107
-Urology,FU,19-Jun,54
-Urology,FU,19-Jul,90
-Urology,FU,19-Aug,75
-Urology,FU,19-Sep,72
-Urology,FU,19-Oct,108
-Urology,FU,19-Nov,99
-Urology,FU,19-Dec,58
-Urology,FU,20-Jan,86
-Urology,FU,20-Feb,74
-Urology,FU,20-Mar,39
-Urology,FU,20-Apr,1
-Urology,NC,18-Jan,24
-Urology,NC,18-Feb,34
-Urology,NC,18-Mar,46
-Urology,NC,18-Apr,39
-Urology,NC,18-May,39
-Urology,NC,18-Jun,22
-Urology,NC,18-Jul,32
-Urology,NC,18-Aug,34
-Urology,NC,18-Sep,21
-Urology,NC,18-Oct,23
-Urology,NC,18-Nov,8
-Urology,NC,18-Dec,17
-Urology,NC,19-Jan,41
-Urology,NC,19-Feb,27
-Urology,NC,19-Mar,36
-Urology,NC,19-Apr,25
-Urology,NC,19-May,31
-Urology,NC,19-Jun,36
-Urology,NC,19-Jul,31
-Urology,NC,19-Aug,29
-Urology,NC,19-Sep,22
-Urology,NC,19-Oct,40
-Urology,NC,19-Nov,26
-Urology,NC,19-Dec,23
-Urology,NC,20-Jan,32
-Urology,NC,20-Feb,38
-Urology,NC,20-Mar,7
-Urology,NC,20-Apr,0
-Visual Fields,FU,18-Jan,3
-Visual Fields,FU,18-Feb,4
-Visual Fields,FU,18-Mar,7
-Visual Fields,FU,18-Apr,3
-Visual Fields,FU,18-May,7
-Visual Fields,FU,18-Jun,4
-Visual Fields,FU,18-Jul,4
-Visual Fields,FU,18-Aug,3
-Visual Fields,FU,18-Sep,1
-Visual Fields,FU,18-Oct,2
-Visual Fields,FU,18-Nov,2
-Visual Fields,FU,18-Dec,2
-Visual Fields,FU,19-Jan,3
-Visual Fields,FU,19-Feb,1
-Visual Fields,FU,19-Mar,1
-Visual Fields,FU,19-Apr,1
-Visual Fields,FU,19-May,4
-Visual Fields,FU,19-Jun,2
-Visual Fields,FU,19-Jul,3
-Visual Fields,FU,19-Aug,3
-Visual Fields,FU,19-Sep,3
-Visual Fields,FU,19-Oct,9
-Visual Fields,FU,19-Nov,22
-Visual Fields,FU,19-Dec,0
-Visual Fields,FU,20-Jan,28
-Visual Fields,FU,20-Feb,10
-Visual Fields,FU,20-Mar,7
-Visual Fields,FU,20-Apr,0
-Visual Fields,NC,18-Jan,0
-Visual Fields,NC,18-Feb,0
-Visual Fields,NC,18-Mar,0
-Visual Fields,NC,18-Apr,0
-Visual Fields,NC,18-May,0
-Visual Fields,NC,18-Jun,0
-Visual Fields,NC,18-Jul,0
-Visual Fields,NC,18-Aug,0
-Visual Fields,NC,18-Sep,0
-Visual Fields,NC,18-Oct,0
-Visual Fields,NC,18-Nov,0
-Visual Fields,NC,18-Dec,0
-Visual Fields,NC,19-Jan,2
-Visual Fields,NC,19-Feb,3
-Visual Fields,NC,19-Mar,0
-Visual Fields,NC,19-Apr,0
-Visual Fields,NC,19-May,0
-Visual Fields,NC,19-Jun,0
-Visual Fields,NC,19-Jul,0
-Visual Fields,NC,19-Aug,1
-Visual Fields,NC,19-Sep,1
-Visual Fields,NC,19-Oct,2
-Visual Fields,NC,19-Nov,2
-Visual Fields,NC,19-Dec,0
-Visual Fields,NC,20-Jan,4
-Visual Fields,NC,20-Feb,1
-Visual Fields,NC,20-Mar,0
-Visual Fields,NC,20-Apr,0
+Clinic,Date,Total
+12 Lead Electrocardiograms,18-Jan,391
+12 Lead Electrocardiograms,18-Feb,495
+12 Lead Electrocardiograms,18-Mar,510
+12 Lead Electrocardiograms,18-Apr,568
+12 Lead Electrocardiograms,18-May,514
+12 Lead Electrocardiograms,18-Jun,489
+12 Lead Electrocardiograms,18-Jul,512
+12 Lead Electrocardiograms,18-Aug,527
+12 Lead Electrocardiograms,18-Sep,541
+12 Lead Electrocardiograms,18-Oct,552
+12 Lead Electrocardiograms,18-Nov,545
+12 Lead Electrocardiograms,18-Dec,562
+12 Lead Electrocardiograms,19-Jan,578
+12 Lead Electrocardiograms,19-Feb,575
+12 Lead Electrocardiograms,19-Mar,525
+12 Lead Electrocardiograms,19-Apr,560
+12 Lead Electrocardiograms,19-May,515
+12 Lead Electrocardiograms,19-Jun,535
+12 Lead Electrocardiograms,19-Jul,560
+12 Lead Electrocardiograms,19-Aug,525
+12 Lead Electrocardiograms,19-Sep,531
+12 Lead Electrocardiograms,19-Oct,519
+12 Lead Electrocardiograms,19-Nov,525
+12 Lead Electrocardiograms,19-Dec,569
+12 Lead Electrocardiograms,20-Jan,510
+12 Lead Electrocardiograms,20-Feb,470
+12 Lead Electrocardiograms,20-Mar,271
+12 Lead Electrocardiograms,20-Apr,32
+ACC,18-Jan,118
+ACC,18-Feb,78
+ACC,18-Mar,87
+ACC,18-Apr,123
+ACC,18-May,94
+ACC,18-Jun,69
+ACC,18-Jul,98
+ACC,18-Aug,88
+ACC,18-Sep,79
+ACC,18-Oct,105
+ACC,18-Nov,104
+ACC,18-Dec,67
+ACC,19-Jan,107
+ACC,19-Feb,126
+ACC,19-Mar,110
+ACC,19-Apr,153
+ACC,19-May,108
+ACC,19-Jun,106
+ACC,19-Jul,113
+ACC,19-Aug,111
+ACC,19-Sep,100
+ACC,19-Oct,132
+ACC,19-Nov,105
+ACC,19-Dec,136
+ACC,20-Jan,129
+ACC,20-Feb,120
+ACC,20-Mar,67
+ACC,20-Apr,1
+Acupuncture,18-Jan,54
+Acupuncture,18-Feb,15
+Acupuncture,18-Mar,75
+Acupuncture,18-Apr,79
+Acupuncture,18-May,99
+Acupuncture,18-Jun,47
+Acupuncture,18-Jul,78
+Acupuncture,18-Aug,89
+Acupuncture,18-Sep,71
+Acupuncture,18-Oct,43
+Acupuncture,18-Nov,46
+Acupuncture,18-Dec,39
+Acupuncture,19-Jan,24
+Acupuncture,19-Feb,22
+Acupuncture,19-Mar,62
+Acupuncture,19-Apr,70
+Acupuncture,19-May,60
+Acupuncture,19-Jun,69
+Acupuncture,19-Jul,100
+Acupuncture,19-Aug,67
+Acupuncture,19-Sep,70
+Acupuncture,19-Oct,93
+Acupuncture,19-Nov,64
+Acupuncture,19-Dec,54
+Acupuncture,20-Jan,36
+Acupuncture,20-Feb,11
+Acupuncture,20-Mar,24
+Acupuncture,20-Apr,0
+Antenatal,18-Jan,187
+Antenatal,18-Feb,165
+Antenatal,18-Mar,202
+Antenatal,18-Apr,151
+Antenatal,18-May,203
+Antenatal,18-Jun,208
+Antenatal,18-Jul,121
+Antenatal,18-Aug,163
+Antenatal,18-Sep,152
+Antenatal,18-Oct,180
+Antenatal,18-Nov,153
+Antenatal,18-Dec,0
+Antenatal,19-Jan,160
+Antenatal,19-Feb,159
+Antenatal,19-Mar,175
+Antenatal,19-Apr,152
+Antenatal,19-May,198
+Antenatal,19-Jun,171
+Antenatal,19-Jul,200
+Antenatal,19-Aug,214
+Antenatal,19-Sep,145
+Antenatal,19-Oct,177
+Antenatal,19-Nov,169
+Antenatal,19-Dec,139
+Antenatal,20-Jan,157
+Antenatal,20-Feb,128
+Antenatal,20-Mar,126
+Antenatal,20-Apr,99
+Audiology,18-Jan,40
+Audiology,18-Feb,25
+Audiology,18-Mar,25
+Audiology,18-Apr,42
+Audiology,18-May,46
+Audiology,18-Jun,39
+Audiology,18-Jul,45
+Audiology,18-Aug,35
+Audiology,18-Sep,39
+Audiology,18-Oct,29
+Audiology,18-Nov,39
+Audiology,18-Dec,32
+Audiology,19-Jan,32
+Audiology,19-Feb,37
+Audiology,19-Mar,36
+Audiology,19-Apr,43
+Audiology,19-May,32
+Audiology,19-Jun,32
+Audiology,19-Jul,27
+Audiology,19-Aug,29
+Audiology,19-Sep,25
+Audiology,19-Oct,26
+Audiology,19-Nov,25
+Audiology,19-Dec,24
+Audiology,20-Jan,23
+Audiology,20-Feb,32
+Audiology,20-Mar,15
+Audiology,20-Apr,0
+BP Monitoring,18-Jan,5
+BP Monitoring,18-Feb,7
+BP Monitoring,18-Mar,15
+BP Monitoring,18-Apr,16
+BP Monitoring,18-May,17
+BP Monitoring,18-Jun,15
+BP Monitoring,18-Jul,8
+BP Monitoring,18-Aug,1
+BP Monitoring,18-Sep,0
+BP Monitoring,18-Oct,6
+BP Monitoring,18-Nov,3
+BP Monitoring,18-Dec,0
+BP Monitoring,19-Jan,2
+BP Monitoring,19-Feb,0
+BP Monitoring,19-Mar,0
+BP Monitoring,19-Apr,12
+BP Monitoring,19-May,18
+BP Monitoring,19-Jun,7
+BP Monitoring,19-Jul,4
+BP Monitoring,19-Aug,4
+BP Monitoring,19-Sep,4
+BP Monitoring,19-Oct,6
+BP Monitoring,19-Nov,6
+BP Monitoring,19-Dec,6
+BP Monitoring,20-Jan,12
+BP Monitoring,20-Feb,10
+BP Monitoring,20-Mar,9
+BP Monitoring,20-Apr,0
+Bleeding Room,18-Jan,
+Bleeding Room,18-Feb,
+Bleeding Room,18-Mar,
+Bleeding Room,18-Apr,
+Bleeding Room,18-May,
+Bleeding Room,18-Jun,
+Bleeding Room,18-Jul,
+Bleeding Room,18-Aug,
+Bleeding Room,18-Sep,
+Bleeding Room,18-Oct,
+Bleeding Room,18-Nov,
+Bleeding Room,18-Dec,
+Bleeding Room,19-Jan,1078
+Bleeding Room,19-Feb,1000
+Bleeding Room,19-Mar,1026
+Bleeding Room,19-Apr,947
+Bleeding Room,19-May,1057
+Bleeding Room,19-Jun,899
+Bleeding Room,19-Jul,1022
+Bleeding Room,19-Aug,916
+Bleeding Room,19-Sep,965
+Bleeding Room,19-Oct,1090
+Bleeding Room,19-Nov,1084
+Bleeding Room,19-Dec,892
+Bleeding Room,20-Jan,1014
+Bleeding Room,20-Feb,989
+Bleeding Room,20-Mar,734
+Bleeding Room,20-Apr,521
+Breast clinic,18-Jan,0
+Breast clinic,18-Feb,24
+Breast clinic,18-Mar,19
+Breast clinic,18-Apr,16
+Breast clinic,18-May,20
+Breast clinic,18-Jun,24
+Breast clinic,18-Jul,20
+Breast clinic,18-Aug,25
+Breast clinic,18-Sep,23
+Breast clinic,18-Oct,32
+Breast clinic,18-Nov,29
+Breast clinic,18-Dec,24
+Breast clinic,19-Jan,26
+Breast clinic,19-Feb,33
+Breast clinic,19-Mar,36
+Breast clinic,19-Apr,36
+Breast clinic,19-May,35
+Breast clinic,19-Jun,33
+Breast clinic,19-Jul,29
+Breast clinic,19-Aug,41
+Breast clinic,19-Sep,29
+Breast clinic,19-Oct,37
+Breast clinic,19-Nov,35
+Breast clinic,19-Dec,35
+Breast clinic,20-Jan,43
+Breast clinic,20-Feb,23
+Breast clinic,20-Mar,23
+Breast clinic,20-Apr,10
+Cardiology,18-Jan,91
+Cardiology,18-Feb,65
+Cardiology,18-Mar,63
+Cardiology,18-Apr,81
+Cardiology,18-May,77
+Cardiology,18-Jun,98
+Cardiology,18-Jul,136
+Cardiology,18-Aug,88
+Cardiology,18-Sep,123
+Cardiology,18-Oct,96
+Cardiology,18-Nov,120
+Cardiology,18-Dec,91
+Cardiology,19-Jan,31
+Cardiology,19-Feb,37
+Cardiology,19-Mar,37
+Cardiology,19-Apr,34
+Cardiology,19-May,16
+Cardiology,19-Jun,25
+Cardiology,19-Jul,53
+Cardiology,19-Aug,34
+Cardiology,19-Sep,14
+Cardiology,19-Oct,31
+Cardiology,19-Nov,31
+Cardiology,19-Dec,29
+Cardiology,20-Jan,33
+Cardiology,20-Feb,32
+Cardiology,20-Mar,19
+Cardiology,20-Apr,0
+Cervical Screening,18-Jan,22
+Cervical Screening,18-Feb,19
+Cervical Screening,18-Mar,13
+Cervical Screening,18-Apr,16
+Cervical Screening,18-May,21
+Cervical Screening,18-Jun,22
+Cervical Screening,18-Jul,34
+Cervical Screening,18-Aug,23
+Cervical Screening,18-Sep,19
+Cervical Screening,18-Oct,22
+Cervical Screening,18-Nov,25
+Cervical Screening,18-Dec,16
+Cervical Screening,19-Jan,21
+Cervical Screening,19-Feb,11
+Cervical Screening,19-Mar,27
+Cervical Screening,19-Apr,24
+Cervical Screening,19-May,25
+Cervical Screening,19-Jun,32
+Cervical Screening,19-Jul,9
+Cervical Screening,19-Aug,19
+Cervical Screening,19-Sep,19
+Cervical Screening,19-Oct,24
+Cervical Screening,19-Nov,19
+Cervical Screening,19-Dec,18
+Cervical Screening,20-Jan,8
+Cervical Screening,20-Feb,20
+Cervical Screening,20-Mar,5
+Cervical Screening,20-Apr,0
+Colon Rectal Screening,18-Jan,26
+Colon Rectal Screening,18-Feb,42
+Colon Rectal Screening,18-Mar,31
+Colon Rectal Screening,18-Apr,37
+Colon Rectal Screening,18-May,58
+Colon Rectal Screening,18-Jun,40
+Colon Rectal Screening,18-Jul,41
+Colon Rectal Screening,18-Aug,47
+Colon Rectal Screening,18-Sep,55
+Colon Rectal Screening,18-Oct,60
+Colon Rectal Screening,18-Nov,57
+Colon Rectal Screening,18-Dec,23
+Colon Rectal Screening,19-Jan,40
+Colon Rectal Screening,19-Feb,34
+Colon Rectal Screening,19-Mar,31
+Colon Rectal Screening,19-Apr,30
+Colon Rectal Screening,19-May,35
+Colon Rectal Screening,19-Jun,24
+Colon Rectal Screening,19-Jul,28
+Colon Rectal Screening,19-Aug,38
+Colon Rectal Screening,19-Sep,39
+Colon Rectal Screening,19-Oct,58
+Colon Rectal Screening,19-Nov,69
+Colon Rectal Screening,19-Dec,36
+Colon Rectal Screening,20-Jan,56
+Colon Rectal Screening,20-Feb,23
+Colon Rectal Screening,20-Mar,31
+Colon Rectal Screening,20-Apr,0
+Dental,18-Jan,508
+Dental,18-Feb,446
+Dental,18-Mar,677
+Dental,18-Apr,481
+Dental,18-May,529
+Dental,18-Jun,520
+Dental,18-Jul,531
+Dental,18-Aug,286
+Dental,18-Sep,154
+Dental,18-Oct,215
+Dental,18-Nov,354
+Dental,18-Dec,81
+Dental,19-Jan,90
+Dental,19-Feb,105
+Dental,19-Mar,128
+Dental,19-Apr,514
+Dental,19-May,501
+Dental,19-Jun,442
+Dental,19-Jul,514
+Dental,19-Aug,492
+Dental,19-Sep,424
+Dental,19-Oct,507
+Dental,19-Nov,463
+Dental,19-Dec,355
+Dental,20-Jan,479
+Dental,20-Feb,349
+Dental,20-Mar,177
+Dental,20-Apr,28
+Dermatology,18-Jan,84
+Dermatology,18-Feb,116
+Dermatology,18-Mar,127
+Dermatology,18-Apr,119
+Dermatology,18-May,104
+Dermatology,18-Jun,147
+Dermatology,18-Jul,140
+Dermatology,18-Aug,108
+Dermatology,18-Sep,107
+Dermatology,18-Oct,103
+Dermatology,18-Nov,141
+Dermatology,18-Dec,98
+Dermatology,19-Jan,91
+Dermatology,19-Feb,119
+Dermatology,19-Mar,118
+Dermatology,19-Apr,110
+Dermatology,19-May,115
+Dermatology,19-Jun,94
+Dermatology,19-Jul,126
+Dermatology,19-Aug,111
+Dermatology,19-Sep,95
+Dermatology,19-Oct,124
+Dermatology,19-Nov,118
+Dermatology,19-Dec,80
+Dermatology,20-Jan,128
+Dermatology,20-Feb,142
+Dermatology,20-Mar,79
+Dermatology,20-Apr,5
+Detox,18-Jan,611
+Detox,18-Feb,466
+Detox,18-Mar,506
+Detox,18-Apr,450
+Detox,18-May,503
+Detox,18-Jun,443
+Detox,18-Jul,719
+Detox,18-Aug,421
+Detox,18-Sep,334
+Detox,18-Oct,347
+Detox,18-Nov,420
+Detox,18-Dec,396
+Detox,19-Jan,387
+Detox,19-Feb,350
+Detox,19-Mar,367
+Detox,19-Apr,368
+Detox,19-May,431
+Detox,19-Jun,446
+Detox,19-Jul,432
+Detox,19-Aug,436
+Detox,19-Sep,400
+Detox,19-Oct,39
+Detox,19-Nov,562
+Detox,19-Dec,605
+Detox,20-Jan,529
+Detox,20-Feb,493
+Detox,20-Mar,520
+Detox,20-Apr,360
+Diabetes Education Services.,18-Jan,0
+Diabetes Education Services.,18-Feb,0
+Diabetes Education Services.,18-Mar,0
+Diabetes Education Services.,18-Apr,0
+Diabetes Education Services.,18-May,0
+Diabetes Education Services.,18-Jun,0
+Diabetes Education Services.,18-Jul,0
+Diabetes Education Services.,18-Aug,0
+Diabetes Education Services.,18-Sep,0
+Diabetes Education Services.,18-Oct,0
+Diabetes Education Services.,18-Nov,0
+Diabetes Education Services.,18-Dec,0
+Diabetes Education Services.,19-Jan,0
+Diabetes Education Services.,19-Feb,0
+Diabetes Education Services.,19-Mar,0
+Diabetes Education Services.,19-Apr,0
+Diabetes Education Services.,19-May,0
+Diabetes Education Services.,19-Jun,0
+Diabetes Education Services.,19-Jul,0
+Diabetes Education Services.,19-Aug,0
+Diabetes Education Services.,19-Sep,0
+Diabetes Education Services.,19-Oct,0
+Diabetes Education Services.,19-Nov,0
+Diabetes Education Services.,19-Dec,0
+Diabetes Education Services.,20-Jan,0
+Diabetes Education Services.,20-Feb,0
+Diabetes Education Services.,20-Mar,0
+Diabetes Education Services.,20-Apr,0
+Diabetology,18-Jan,134
+Diabetology,18-Feb,103
+Diabetology,18-Mar,141
+Diabetology,18-Apr,125
+Diabetology,18-May,121
+Diabetology,18-Jun,121
+Diabetology,18-Jul,126
+Diabetology,18-Aug,116
+Diabetology,18-Sep,107
+Diabetology,18-Oct,108
+Diabetology,18-Nov,115
+Diabetology,18-Dec,70
+Diabetology,19-Jan,116
+Diabetology,19-Feb,122
+Diabetology,19-Mar,80
+Diabetology,19-Apr,77
+Diabetology,19-May,115
+Diabetology,19-Jun,83
+Diabetology,19-Jul,99
+Diabetology,19-Aug,85
+Diabetology,19-Sep,72
+Diabetology,19-Oct,110
+Diabetology,19-Nov,90
+Diabetology,19-Dec,103
+Diabetology,20-Jan,104
+Diabetology,20-Feb,96
+Diabetology,20-Mar,54
+Diabetology,20-Apr,1
+Dietician,18-Jan,21
+Dietician,18-Feb,25
+Dietician,18-Mar,29
+Dietician,18-Apr,33
+Dietician,18-May,45
+Dietician,18-Jun,28
+Dietician,18-Jul,32
+Dietician,18-Aug,26
+Dietician,18-Sep,23
+Dietician,18-Oct,34
+Dietician,18-Nov,14
+Dietician,18-Dec,27
+Dietician,19-Jan,27
+Dietician,19-Feb,32
+Dietician,19-Mar,21
+Dietician,19-Apr,28
+Dietician,19-May,37
+Dietician,19-Jun,25
+Dietician,19-Jul,39
+Dietician,19-Aug,23
+Dietician,19-Sep,7
+Dietician,19-Oct,57
+Dietician,19-Nov,24
+Dietician,19-Dec,29
+Dietician,20-Jan,32
+Dietician,20-Feb,34
+Dietician,20-Mar,18
+Dietician,20-Apr,0
+ECG Stress tests,18-Jan,52
+ECG Stress tests,18-Feb,49
+ECG Stress tests,18-Mar,55
+ECG Stress tests,18-Apr,64
+ECG Stress tests,18-May,51
+ECG Stress tests,18-Jun,22
+ECG Stress tests,18-Jul,30
+ECG Stress tests,18-Aug,12
+ECG Stress tests,18-Sep,22
+ECG Stress tests,18-Oct,21
+ECG Stress tests,18-Nov,15
+ECG Stress tests,18-Dec,19
+ECG Stress tests,19-Jan,12
+ECG Stress tests,19-Feb,16
+ECG Stress tests,19-Mar,18
+ECG Stress tests,19-Apr,38
+ECG Stress tests,19-May,21
+ECG Stress tests,19-Jun,18
+ECG Stress tests,19-Jul,11
+ECG Stress tests,19-Aug,19
+ECG Stress tests,19-Sep,24
+ECG Stress tests,19-Oct,23
+ECG Stress tests,19-Nov,6
+ECG Stress tests,19-Dec,3
+ECG Stress tests,20-Jan,10
+ECG Stress tests,20-Feb,13
+ECG Stress tests,20-Mar,6
+ECG Stress tests,20-Apr,0
+ENT,18-Jan,73
+ENT,18-Feb,83
+ENT,18-Mar,83
+ENT,18-Apr,103
+ENT,18-May,79
+ENT,18-Jun,84
+ENT,18-Jul,79
+ENT,18-Aug,53
+ENT,18-Sep,65
+ENT,18-Oct,90
+ENT,18-Nov,66
+ENT,18-Dec,42
+ENT,19-Jan,75
+ENT,19-Feb,62
+ENT,19-Mar,107
+ENT,19-Apr,46
+ENT,19-May,84
+ENT,19-Jun,46
+ENT,19-Jul,65
+ENT,19-Aug,61
+ENT,19-Sep,43
+ENT,19-Oct,89
+ENT,19-Nov,72
+ENT,19-Dec,69
+ENT,20-Jan,80
+ENT,20-Feb,37
+ENT,20-Mar,34
+ENT,20-Apr,0
+Echocardiograms,18-Jan,32
+Echocardiograms,18-Feb,39
+Echocardiograms,18-Mar,42
+Echocardiograms,18-Apr,52
+Echocardiograms,18-May,64
+Echocardiograms,18-Jun,26
+Echocardiograms,18-Jul,16
+Echocardiograms,18-Aug,27
+Echocardiograms,18-Sep,30
+Echocardiograms,18-Oct,20
+Echocardiograms,18-Nov,25
+Echocardiograms,18-Dec,186
+Echocardiograms,19-Jan,200
+Echocardiograms,19-Feb,21
+Echocardiograms,19-Mar,33
+Echocardiograms,19-Apr,33
+Echocardiograms,19-May,38
+Echocardiograms,19-Jun,13
+Echocardiograms,19-Jul,27
+Echocardiograms,19-Aug,1
+Echocardiograms,19-Sep,18
+Echocardiograms,19-Oct,42
+Echocardiograms,19-Nov,35
+Echocardiograms,19-Dec,8
+Echocardiograms,20-Jan,42
+Echocardiograms,20-Feb,61
+Echocardiograms,20-Mar,46
+Echocardiograms,20-Apr,10
+Endocrine,18-Jan,
+Endocrine,18-Feb,
+Endocrine,18-Mar,
+Endocrine,18-Apr,
+Endocrine,18-May,
+Endocrine,18-Jun,
+Endocrine,18-Jul,
+Endocrine,18-Aug,
+Endocrine,18-Sep,
+Endocrine,18-Oct,
+Endocrine,18-Nov,13
+Endocrine,18-Dec,4
+Endocrine,19-Jan,10
+Endocrine,19-Feb,10
+Endocrine,19-Mar,11
+Endocrine,19-Apr,20
+Endocrine,19-May,12
+Endocrine,19-Jun,15
+Endocrine,19-Jul,12
+Endocrine,19-Aug,15
+Endocrine,19-Sep,14
+Endocrine,19-Oct,11
+Endocrine,19-Nov,13
+Endocrine,19-Dec,13
+Endocrine,20-Jan,16
+Endocrine,20-Feb,5
+Endocrine,20-Mar,7
+Endocrine,20-Apr,0
+Fertility Care,18-Jan,0
+Fertility Care,18-Feb,0
+Fertility Care,18-Mar,0
+Fertility Care,18-Apr,1
+Fertility Care,18-May,4
+Fertility Care,18-Jun,4
+Fertility Care,18-Jul,3
+Fertility Care,18-Aug,0
+Fertility Care,18-Sep,3
+Fertility Care,18-Oct,0
+Fertility Care,18-Nov,6
+Fertility Care,18-Dec,0
+Fertility Care,19-Jan,1
+Fertility Care,19-Feb,4
+Fertility Care,19-Mar,5
+Fertility Care,19-Apr,7
+Fertility Care,19-May,5
+Fertility Care,19-Jun,3
+Fertility Care,19-Jul,1
+Fertility Care,19-Aug,2
+Fertility Care,19-Sep,1
+Fertility Care,19-Oct,0
+Fertility Care,19-Nov,0
+Fertility Care,19-Dec,0
+Fertility Care,20-Jan,0
+Fertility Care,20-Feb,0
+Fertility Care,20-Mar,0
+Fertility Care,20-Apr,0
+Glaucoma,18-Jan,6
+Glaucoma,18-Feb,8
+Glaucoma,18-Mar,8
+Glaucoma,18-Apr,4
+Glaucoma,18-May,7
+Glaucoma,18-Jun,7
+Glaucoma,18-Jul,7
+Glaucoma,18-Aug,6
+Glaucoma,18-Sep,8
+Glaucoma,18-Oct,5
+Glaucoma,18-Nov,6
+Glaucoma,18-Dec,0
+Glaucoma,19-Jan,0
+Glaucoma,19-Feb,0
+Glaucoma,19-Mar,4
+Glaucoma,19-Apr,20
+Glaucoma,19-May,7
+Glaucoma,19-Jun,7
+Glaucoma,19-Jul,9
+Glaucoma,19-Aug,2
+Glaucoma,19-Sep,9
+Glaucoma,19-Oct,8
+Glaucoma,19-Nov,4
+Glaucoma,19-Dec,7
+Glaucoma,20-Jan,7
+Glaucoma,20-Feb,3
+Glaucoma,20-Mar,0
+Glaucoma,20-Apr,0
+Gynaecology,18-Jan,191
+Gynaecology,18-Feb,139
+Gynaecology,18-Mar,182
+Gynaecology,18-Apr,137
+Gynaecology,18-May,182
+Gynaecology,18-Jun,155
+Gynaecology,18-Jul,113
+Gynaecology,18-Aug,125
+Gynaecology,18-Sep,114
+Gynaecology,18-Oct,138
+Gynaecology,18-Nov,147
+Gynaecology,18-Dec,0
+Gynaecology,19-Jan,162
+Gynaecology,19-Feb,161
+Gynaecology,19-Mar,200
+Gynaecology,19-Apr,141
+Gynaecology,19-May,174
+Gynaecology,19-Jun,116
+Gynaecology,19-Jul,144
+Gynaecology,19-Aug,143
+Gynaecology,19-Sep,150
+Gynaecology,19-Oct,147
+Gynaecology,19-Nov,169
+Gynaecology,19-Dec,109
+Gynaecology,20-Jan,144
+Gynaecology,20-Feb,143
+Gynaecology,20-Mar,100
+Gynaecology,20-Apr,36
+Heart Valve Clinic,18-Jan,0
+Heart Valve Clinic,18-Feb,0
+Heart Valve Clinic,18-Mar,0
+Heart Valve Clinic,18-Apr,0
+Heart Valve Clinic,18-May,0
+Heart Valve Clinic,18-Jun,0
+Heart Valve Clinic,18-Jul,0
+Heart Valve Clinic,18-Aug,0
+Heart Valve Clinic,18-Sep,0
+Heart Valve Clinic,18-Oct,0
+Heart Valve Clinic,18-Nov,0
+Heart Valve Clinic,18-Dec,0
+Heart Valve Clinic,19-Jan,0
+Heart Valve Clinic,19-Feb,0
+Heart Valve Clinic,19-Mar,0
+Heart Valve Clinic,19-Apr,0
+Heart Valve Clinic,19-May,0
+Heart Valve Clinic,19-Jun,0
+Heart Valve Clinic,19-Jul,0
+Heart Valve Clinic,19-Aug,0
+Heart Valve Clinic,19-Sep,0
+Heart Valve Clinic,19-Oct,0
+Heart Valve Clinic,19-Nov,0
+Heart Valve Clinic,19-Dec,0
+Heart Valve Clinic,20-Jan,0
+Heart Valve Clinic,20-Feb,4
+Heart Valve Clinic,20-Mar,0
+Heart Valve Clinic,20-Apr,0
+Holters,18-Jan,0
+Holters,18-Feb,0
+Holters,18-Mar,0
+Holters,18-Apr,0
+Holters,18-May,0
+Holters,18-Jun,0
+Holters,18-Jul,0
+Holters,18-Aug,0
+Holters,18-Sep,6
+Holters,18-Oct,15
+Holters,18-Nov,17
+Holters,18-Dec,24
+Holters,19-Jan,25
+Holters,19-Feb,69
+Holters,19-Mar,45
+Holters,19-Apr,25
+Holters,19-May,22
+Holters,19-Jun,18
+Holters,19-Jul,19
+Holters,19-Aug,14
+Holters,19-Sep,18
+Holters,19-Oct,27
+Holters,19-Nov,19
+Holters,19-Dec,12
+Holters,20-Jan,14
+Holters,20-Feb,24
+Holters,20-Mar,20
+Holters,20-Apr,2
+Hyperbaric Unit-Emergency divers,18-Jan,0
+Hyperbaric Unit-Emergency divers,18-Feb,0
+Hyperbaric Unit-Emergency divers,18-Mar,4
+Hyperbaric Unit-Emergency divers,18-Apr,0
+Hyperbaric Unit-Emergency divers,18-May,2
+Hyperbaric Unit-Emergency divers,18-Jun,6
+Hyperbaric Unit-Emergency divers,18-Jul,1
+Hyperbaric Unit-Emergency divers,18-Aug,9
+Hyperbaric Unit-Emergency divers,18-Sep,19
+Hyperbaric Unit-Emergency divers,18-Oct,1
+Hyperbaric Unit-Emergency divers,18-Nov,0
+Hyperbaric Unit-Emergency divers,18-Dec,0
+Hyperbaric Unit-Emergency divers,19-Jan,0
+Hyperbaric Unit-Emergency divers,19-Feb,0
+Hyperbaric Unit-Emergency divers,19-Mar,1
+Hyperbaric Unit-Emergency divers,19-Apr,0
+Hyperbaric Unit-Emergency divers,19-May,2
+Hyperbaric Unit-Emergency divers,19-Jun,3
+Hyperbaric Unit-Emergency divers,19-Jul,0
+Hyperbaric Unit-Emergency divers,19-Aug,5
+Hyperbaric Unit-Emergency divers,19-Sep,4
+Hyperbaric Unit-Emergency divers,19-Oct,11
+Hyperbaric Unit-Emergency divers,19-Nov,9
+Hyperbaric Unit-Emergency divers,19-Dec,9
+Hyperbaric Unit-Emergency divers,20-Jan,0
+Hyperbaric Unit-Emergency divers,20-Feb,0
+Hyperbaric Unit-Emergency divers,20-Mar,1
+Hyperbaric Unit-Emergency divers,20-Apr,2
+Hyperbaric Unit-Oxygen treatment,18-Jan,18
+Hyperbaric Unit-Oxygen treatment,18-Feb,27
+Hyperbaric Unit-Oxygen treatment,18-Mar,20
+Hyperbaric Unit-Oxygen treatment,18-Apr,35
+Hyperbaric Unit-Oxygen treatment,18-May,33
+Hyperbaric Unit-Oxygen treatment,18-Jun,6
+Hyperbaric Unit-Oxygen treatment,18-Jul,34
+Hyperbaric Unit-Oxygen treatment,18-Aug,22
+Hyperbaric Unit-Oxygen treatment,18-Sep,16
+Hyperbaric Unit-Oxygen treatment,18-Oct,21
+Hyperbaric Unit-Oxygen treatment,18-Nov,10
+Hyperbaric Unit-Oxygen treatment,18-Dec,26
+Hyperbaric Unit-Oxygen treatment,19-Jan,17
+Hyperbaric Unit-Oxygen treatment,19-Feb,17
+Hyperbaric Unit-Oxygen treatment,19-Mar,18
+Hyperbaric Unit-Oxygen treatment,19-Apr,20
+Hyperbaric Unit-Oxygen treatment,19-May,20
+Hyperbaric Unit-Oxygen treatment,19-Jun,19
+Hyperbaric Unit-Oxygen treatment,19-Jul,22
+Hyperbaric Unit-Oxygen treatment,19-Aug,21
+Hyperbaric Unit-Oxygen treatment,19-Sep,19
+Hyperbaric Unit-Oxygen treatment,19-Oct,9
+Hyperbaric Unit-Oxygen treatment,19-Nov,2
+Hyperbaric Unit-Oxygen treatment,19-Dec,17
+Hyperbaric Unit-Oxygen treatment,20-Jan,13
+Hyperbaric Unit-Oxygen treatment,20-Feb,12
+Hyperbaric Unit-Oxygen treatment,20-Mar,15
+Hyperbaric Unit-Oxygen treatment,20-Apr,7
+Juvenile,18-Jan,
+Juvenile,18-Feb,
+Juvenile,18-Mar,
+Juvenile,18-Apr,
+Juvenile,18-May,
+Juvenile,18-Jun,
+Juvenile,18-Jul,
+Juvenile,18-Aug,
+Juvenile,18-Sep,
+Juvenile,18-Oct,5
+Juvenile,18-Nov,10
+Juvenile,18-Dec,13
+Juvenile,19-Jan,15
+Juvenile,19-Feb,13
+Juvenile,19-Mar,11
+Juvenile,19-Apr,6
+Juvenile,19-May,11
+Juvenile,19-Jun,15
+Juvenile,19-Jul,9
+Juvenile,19-Aug,6
+Juvenile,19-Sep,14
+Juvenile,19-Oct,11
+Juvenile,19-Nov,14
+Juvenile,19-Dec,11
+Juvenile,20-Jan,10
+Juvenile,20-Feb,12
+Juvenile,20-Mar,6
+Juvenile,20-Apr,0
+Lung Function tests,18-Jan,18
+Lung Function tests,18-Feb,13
+Lung Function tests,18-Mar,18
+Lung Function tests,18-Apr,16
+Lung Function tests,18-May,14
+Lung Function tests,18-Jun,11
+Lung Function tests,18-Jul,3
+Lung Function tests,18-Aug,1
+Lung Function tests,18-Sep,3
+Lung Function tests,18-Oct,8
+Lung Function tests,18-Nov,10
+Lung Function tests,18-Dec,1
+Lung Function tests,19-Jan,3
+Lung Function tests,19-Feb,6
+Lung Function tests,19-Mar,2
+Lung Function tests,19-Apr,7
+Lung Function tests,19-May,22
+Lung Function tests,19-Jun,1
+Lung Function tests,19-Jul,2
+Lung Function tests,19-Aug,5
+Lung Function tests,19-Sep,5
+Lung Function tests,19-Oct,9
+Lung Function tests,19-Nov,9
+Lung Function tests,19-Dec,8
+Lung Function tests,20-Jan,4
+Lung Function tests,20-Feb,16
+Lung Function tests,20-Mar,4
+Lung Function tests,20-Apr,2
+Medical,18-Jan,375
+Medical,18-Feb,322
+Medical,18-Mar,276
+Medical,18-Apr,325
+Medical,18-May,303
+Medical,18-Jun,282
+Medical,18-Jul,286
+Medical,18-Aug,285
+Medical,18-Sep,220
+Medical,18-Oct,323
+Medical,18-Nov,268
+Medical,18-Dec,216
+Medical,19-Jan,296
+Medical,19-Feb,271
+Medical,19-Mar,287
+Medical,19-Apr,232
+Medical,19-May,262
+Medical,19-Jun,234
+Medical,19-Jul,253
+Medical,19-Aug,230
+Medical,19-Sep,234
+Medical,19-Oct,168
+Medical,19-Nov,202
+Medical,19-Dec,183
+Medical,20-Jan,210
+Medical,20-Feb,145
+Medical,20-Mar,97
+Medical,20-Apr,14
+Multiple Sclerosis,18-Jan,0
+Multiple Sclerosis,18-Feb,0
+Multiple Sclerosis,18-Mar,0
+Multiple Sclerosis,18-Apr,0
+Multiple Sclerosis,18-May,0
+Multiple Sclerosis,18-Jun,0
+Multiple Sclerosis,18-Jul,0
+Multiple Sclerosis,18-Aug,0
+Multiple Sclerosis,18-Sep,0
+Multiple Sclerosis,18-Oct,0
+Multiple Sclerosis,18-Nov,0
+Multiple Sclerosis,18-Dec,0
+Multiple Sclerosis,19-Jan,0
+Multiple Sclerosis,19-Feb,0
+Multiple Sclerosis,19-Mar,0
+Multiple Sclerosis,19-Apr,0
+Multiple Sclerosis,19-May,0
+Multiple Sclerosis,19-Jun,0
+Multiple Sclerosis,19-Jul,0
+Multiple Sclerosis,19-Aug,0
+Multiple Sclerosis,19-Sep,0
+Multiple Sclerosis,19-Oct,0
+Multiple Sclerosis,19-Nov,0
+Multiple Sclerosis,19-Dec,0
+Multiple Sclerosis,20-Jan,0
+Multiple Sclerosis,20-Feb,
+Multiple Sclerosis,20-Mar,0
+Multiple Sclerosis,20-Apr,0
+Naphrology,18-Jan,0
+Naphrology,18-Feb,0
+Naphrology,18-Mar,0
+Naphrology,18-Apr,0
+Naphrology,18-May,0
+Naphrology,18-Jun,0
+Naphrology,18-Jul,0
+Naphrology,18-Aug,0
+Naphrology,18-Sep,0
+Naphrology,18-Oct,0
+Naphrology,18-Nov,0
+Naphrology,18-Dec,0
+Naphrology,19-Jan,0
+Naphrology,19-Feb,3
+Naphrology,19-Mar,7
+Naphrology,19-Apr,5
+Naphrology,19-May,8
+Naphrology,19-Jun,6
+Naphrology,19-Jul,10
+Naphrology,19-Aug,9
+Naphrology,19-Sep,8
+Naphrology,19-Oct,12
+Naphrology,19-Nov,9
+Naphrology,19-Dec,12
+Naphrology,20-Jan,13
+Naphrology,20-Feb,10
+Naphrology,20-Mar,0
+Naphrology,20-Apr,0
+Naprotechnology,18-Jan,2
+Naprotechnology,18-Feb,0
+Naprotechnology,18-Mar,4
+Naprotechnology,18-Apr,3
+Naprotechnology,18-May,4
+Naprotechnology,18-Jun,4
+Naprotechnology,18-Jul,3
+Naprotechnology,18-Aug,5
+Naprotechnology,18-Sep,3
+Naprotechnology,18-Oct,10
+Naprotechnology,18-Nov,8
+Naprotechnology,18-Dec,4
+Naprotechnology,19-Jan,2
+Naprotechnology,19-Feb,7
+Naprotechnology,19-Mar,10
+Naprotechnology,19-Apr,15
+Naprotechnology,19-May,6
+Naprotechnology,19-Jun,8
+Naprotechnology,19-Jul,5
+Naprotechnology,19-Aug,12
+Naprotechnology,19-Sep,2
+Naprotechnology,19-Oct,6
+Naprotechnology,19-Nov,7
+Naprotechnology,19-Dec,3
+Naprotechnology,20-Jan,10
+Naprotechnology,20-Feb,3
+Naprotechnology,20-Mar,1
+Naprotechnology,20-Apr,0
+Neurology,18-Jan,10
+Neurology,18-Feb,15
+Neurology,18-Mar,15
+Neurology,18-Apr,12
+Neurology,18-May,10
+Neurology,18-Jun,12
+Neurology,18-Jul,12
+Neurology,18-Aug,21
+Neurology,18-Sep,4
+Neurology,18-Oct,17
+Neurology,18-Nov,12
+Neurology,18-Dec,43
+Neurology,19-Jan,42
+Neurology,19-Feb,43
+Neurology,19-Mar,26
+Neurology,19-Apr,50
+Neurology,19-May,54
+Neurology,19-Jun,55
+Neurology,19-Jul,74
+Neurology,19-Aug,60
+Neurology,19-Sep,61
+Neurology,19-Oct,63
+Neurology,19-Nov,57
+Neurology,19-Dec,24
+Neurology,20-Jan,76
+Neurology,20-Feb,49
+Neurology,20-Mar,31
+Neurology,20-Apr,0
+Nutrition & Health Promotion,18-Jan,0
+Nutrition & Health Promotion,18-Feb,0
+Nutrition & Health Promotion,18-Mar,0
+Nutrition & Health Promotion,18-Apr,0
+Nutrition & Health Promotion,18-May,0
+Nutrition & Health Promotion,18-Jun,0
+Nutrition & Health Promotion,18-Jul,0
+Nutrition & Health Promotion,18-Aug,0
+Nutrition & Health Promotion,18-Sep,0
+Nutrition & Health Promotion,18-Oct,0
+Nutrition & Health Promotion,18-Nov,0
+Nutrition & Health Promotion,18-Dec,0
+Nutrition & Health Promotion,19-Jan,29
+Nutrition & Health Promotion,19-Feb,40
+Nutrition & Health Promotion,19-Mar,31
+Nutrition & Health Promotion,19-Apr,30
+Nutrition & Health Promotion,19-May,28
+Nutrition & Health Promotion,19-Jun,27
+Nutrition & Health Promotion,19-Jul,24
+Nutrition & Health Promotion,19-Aug,22
+Nutrition & Health Promotion,19-Sep,26
+Nutrition & Health Promotion,19-Oct,30
+Nutrition & Health Promotion,19-Nov,29
+Nutrition & Health Promotion,19-Dec,11
+Nutrition & Health Promotion,20-Jan,24
+Nutrition & Health Promotion,20-Feb,16
+Nutrition & Health Promotion,20-Mar,7
+Nutrition & Health Promotion,20-Apr,0
+Occupational Therapy (Physical),18-Jan,346
+Occupational Therapy (Physical),18-Feb,339
+Occupational Therapy (Physical),18-Mar,284
+Occupational Therapy (Physical),18-Apr,273
+Occupational Therapy (Physical),18-May,
+Occupational Therapy (Physical),18-Jun,133
+Occupational Therapy (Physical),18-Jul,253
+Occupational Therapy (Physical),18-Aug,290
+Occupational Therapy (Physical),18-Sep,219
+Occupational Therapy (Physical),18-Oct,301
+Occupational Therapy (Physical),18-Nov,260
+Occupational Therapy (Physical),18-Dec,177
+Occupational Therapy (Physical),19-Jan,244
+Occupational Therapy (Physical),19-Feb,274
+Occupational Therapy (Physical),19-Mar,264
+Occupational Therapy (Physical),19-Apr,286
+Occupational Therapy (Physical),19-May,406
+Occupational Therapy (Physical),19-Jun,224
+Occupational Therapy (Physical),19-Jul,177
+Occupational Therapy (Physical),19-Aug,238
+Occupational Therapy (Physical),19-Sep,237
+Occupational Therapy (Physical),19-Oct,255
+Occupational Therapy (Physical),19-Nov,265
+Occupational Therapy (Physical),19-Dec,89
+Occupational Therapy (Physical),20-Jan,243
+Occupational Therapy (Physical),20-Feb,228
+Occupational Therapy (Physical),20-Mar,95
+Occupational Therapy (Physical),20-Apr,3
+Occupational Therapy (Psychiatric),18-Jan,131
+Occupational Therapy (Psychiatric),18-Feb,146
+Occupational Therapy (Psychiatric),18-Mar,148
+Occupational Therapy (Psychiatric),18-Apr,138
+Occupational Therapy (Psychiatric),18-May,163
+Occupational Therapy (Psychiatric),18-Jun,138
+Occupational Therapy (Psychiatric),18-Jul,120
+Occupational Therapy (Psychiatric),18-Aug,113
+Occupational Therapy (Psychiatric),18-Sep,98
+Occupational Therapy (Psychiatric),18-Oct,152
+Occupational Therapy (Psychiatric),18-Nov,86
+Occupational Therapy (Psychiatric),18-Dec,108
+Occupational Therapy (Psychiatric),19-Jan,63
+Occupational Therapy (Psychiatric),19-Feb,68
+Occupational Therapy (Psychiatric),19-Mar,72
+Occupational Therapy (Psychiatric),19-Apr,84
+Occupational Therapy (Psychiatric),19-May,97
+Occupational Therapy (Psychiatric),19-Jun,78
+Occupational Therapy (Psychiatric),19-Jul,99
+Occupational Therapy (Psychiatric),19-Aug,74
+Occupational Therapy (Psychiatric),19-Sep,63
+Occupational Therapy (Psychiatric),19-Oct,69
+Occupational Therapy (Psychiatric),19-Nov,82
+Occupational Therapy (Psychiatric),19-Dec,86
+Occupational Therapy (Psychiatric),20-Jan,96
+Occupational Therapy (Psychiatric),20-Feb,126
+Occupational Therapy (Psychiatric),20-Mar,59
+Occupational Therapy (Psychiatric),20-Apr,51
+Oncology,18-Jan,113
+Oncology,18-Feb,109
+Oncology,18-Mar,106
+Oncology,18-Apr,90
+Oncology,18-May,167
+Oncology,18-Jun,115
+Oncology,18-Jul,125
+Oncology,18-Aug,62
+Oncology,18-Sep,159
+Oncology,18-Oct,132
+Oncology,18-Nov,122
+Oncology,18-Dec,120
+Oncology,19-Jan,96
+Oncology,19-Feb,122
+Oncology,19-Mar,128
+Oncology,19-Apr,122
+Oncology,19-May,110
+Oncology,19-Jun,123
+Oncology,19-Jul,140
+Oncology,19-Aug,134
+Oncology,19-Sep,119
+Oncology,19-Oct,149
+Oncology,19-Nov,136
+Oncology,19-Dec,111
+Oncology,20-Jan,140
+Oncology,20-Feb,125
+Oncology,20-Mar,57
+Oncology,20-Apr,0
+Ophthalmic,18-Jan,156
+Ophthalmic,18-Feb,151
+Ophthalmic,18-Mar,166
+Ophthalmic,18-Apr,115
+Ophthalmic,18-May,202
+Ophthalmic,18-Jun,221
+Ophthalmic,18-Jul,201
+Ophthalmic,18-Aug,160
+Ophthalmic,18-Sep,157
+Ophthalmic,18-Oct,166
+Ophthalmic,18-Nov,195
+Ophthalmic,18-Dec,185
+Ophthalmic,19-Jan,175
+Ophthalmic,19-Feb,157
+Ophthalmic,19-Mar,171
+Ophthalmic,19-Apr,179
+Ophthalmic,19-May,171
+Ophthalmic,19-Jun,172
+Ophthalmic,19-Jul,295
+Ophthalmic,19-Aug,256
+Ophthalmic,19-Sep,250
+Ophthalmic,19-Oct,295
+Ophthalmic,19-Nov,189
+Ophthalmic,19-Dec,205
+Ophthalmic,20-Jan,273
+Ophthalmic,20-Feb,261
+Ophthalmic,20-Mar,143
+Ophthalmic,20-Apr,47
+Orthopaedic,18-Jan,248
+Orthopaedic,18-Feb,192
+Orthopaedic,18-Mar,171
+Orthopaedic,18-Apr,217
+Orthopaedic,18-May,213
+Orthopaedic,18-Jun,225
+Orthopaedic,18-Jul,205
+Orthopaedic,18-Aug,284
+Orthopaedic,18-Sep,126
+Orthopaedic,18-Oct,221
+Orthopaedic,18-Nov,280
+Orthopaedic,18-Dec,190
+Orthopaedic,19-Jan,292
+Orthopaedic,19-Feb,214
+Orthopaedic,19-Mar,268
+Orthopaedic,19-Apr,241
+Orthopaedic,19-May,326
+Orthopaedic,19-Jun,253
+Orthopaedic,19-Jul,250
+Orthopaedic,19-Aug,203
+Orthopaedic,19-Sep,188
+Orthopaedic,19-Oct,291
+Orthopaedic,19-Nov,268
+Orthopaedic,19-Dec,149
+Orthopaedic,20-Jan,263
+Orthopaedic,20-Feb,205
+Orthopaedic,20-Mar,67
+Orthopaedic,20-Apr,23
+POC-ACC,18-Jan,299
+POC-ACC,18-Feb,272
+POC-ACC,18-Mar,297
+POC-ACC,18-Apr,270
+POC-ACC,18-May,319
+POC-ACC,18-Jun,243
+POC-ACC,18-Jul,326
+POC-ACC,18-Aug,305
+POC-ACC,18-Sep,279
+POC-ACC,18-Oct,311
+POC-ACC,18-Nov,306
+POC-ACC,18-Dec,307
+POC-ACC,19-Jan,247
+POC-ACC,19-Feb,252
+POC-ACC,19-Mar,225
+POC-ACC,19-Apr,256
+POC-ACC,19-May,275
+POC-ACC,19-Jun,206
+POC-ACC,19-Jul,211
+POC-ACC,19-Aug,228
+POC-ACC,19-Sep,218
+POC-ACC,19-Oct,258
+POC-ACC,19-Nov,179
+POC-ACC,19-Dec,223
+POC-ACC,20-Jan,241
+POC-ACC,20-Feb,208
+POC-ACC,20-Mar,169
+POC-ACC,20-Apr,189
+Pacemaker,18-Jan,51
+Pacemaker,18-Feb,37
+Pacemaker,18-Mar,27
+Pacemaker,18-Apr,47
+Pacemaker,18-May,41
+Pacemaker,18-Jun,30
+Pacemaker,18-Jul,50
+Pacemaker,18-Aug,43
+Pacemaker,18-Sep,33
+Pacemaker,18-Oct,36
+Pacemaker,18-Nov,58
+Pacemaker,18-Dec,0
+Pacemaker,19-Jan,53
+Pacemaker,19-Feb,56
+Pacemaker,19-Mar,20
+Pacemaker,19-Apr,43
+Pacemaker,19-May,42
+Pacemaker,19-Jun,44
+Pacemaker,19-Jul,39
+Pacemaker,19-Aug,45
+Pacemaker,19-Sep,37
+Pacemaker,19-Oct,48
+Pacemaker,19-Nov,34
+Pacemaker,19-Dec,45
+Pacemaker,20-Jan,49
+Pacemaker,20-Feb,49
+Pacemaker,20-Mar,13
+Pacemaker,20-Apr,18
+Pain,18-Jan,13
+Pain,18-Feb,10
+Pain,18-Mar,10
+Pain,18-Apr,14
+Pain,18-May,12
+Pain,18-Jun,9
+Pain,18-Jul,4
+Pain,18-Aug,10
+Pain,18-Sep,6
+Pain,18-Oct,9
+Pain,18-Nov,5
+Pain,18-Dec,7
+Pain,19-Jan,11
+Pain,19-Feb,8
+Pain,19-Mar,13
+Pain,19-Apr,9
+Pain,19-May,10
+Pain,19-Jun,7
+Pain,19-Jul,9
+Pain,19-Aug,13
+Pain,19-Sep,8
+Pain,19-Oct,12
+Pain,19-Nov,11
+Pain,19-Dec,10
+Pain,20-Jan,12
+Pain,20-Feb,13
+Pain,20-Mar,0
+Pain,20-Apr,0
+Palliative Care,18-Jan,9
+Palliative Care,18-Feb,8
+Palliative Care,18-Mar,7
+Palliative Care,18-Apr,7
+Palliative Care,18-May,8
+Palliative Care,18-Jun,8
+Palliative Care,18-Jul,7
+Palliative Care,18-Aug,5
+Palliative Care,18-Sep,7
+Palliative Care,18-Oct,3
+Palliative Care,18-Nov,6
+Palliative Care,18-Dec,8
+Palliative Care,19-Jan,7
+Palliative Care,19-Feb,6
+Palliative Care,19-Mar,8
+Palliative Care,19-Apr,7
+Palliative Care,19-May,5
+Palliative Care,19-Jun,6
+Palliative Care,19-Jul,4
+Palliative Care,19-Aug,10
+Palliative Care,19-Sep,12
+Palliative Care,19-Oct,15
+Palliative Care,19-Nov,9
+Palliative Care,19-Dec,14
+Palliative Care,20-Jan,6
+Palliative Care,20-Feb,17
+Palliative Care,20-Mar,7
+Palliative Care,20-Apr,0
+Physiotherapy,18-Jan,
+Physiotherapy,18-Feb,
+Physiotherapy,18-Mar,
+Physiotherapy,18-Apr,
+Physiotherapy,18-May,
+Physiotherapy,18-Jun,
+Physiotherapy,18-Jul,
+Physiotherapy,18-Aug,
+Physiotherapy,18-Sep,
+Physiotherapy,18-Oct,
+Physiotherapy,18-Nov,
+Physiotherapy,18-Dec,
+Physiotherapy,19-Jan,1560
+Physiotherapy,19-Feb,1680
+Physiotherapy,19-Mar,1699
+Physiotherapy,19-Apr,1759
+Physiotherapy,19-May,1667
+Physiotherapy,19-Jun,1539
+Physiotherapy,19-Jul,1635
+Physiotherapy,19-Aug,1432
+Physiotherapy,19-Sep,1341
+Physiotherapy,19-Oct,1685
+Physiotherapy,19-Nov,1598
+Physiotherapy,19-Dec,1295
+Physiotherapy,20-Jan,1756
+Physiotherapy,20-Feb,1536
+Physiotherapy,20-Mar,900
+Physiotherapy,20-Apr,300
+Podiatry,18-Jan,740
+Podiatry,18-Feb,695
+Podiatry,18-Mar,751
+Podiatry,18-Apr,816
+Podiatry,18-May,916
+Podiatry,18-Jun,762
+Podiatry,18-Jul,846
+Podiatry,18-Aug,904
+Podiatry,18-Sep,699
+Podiatry,18-Oct,929
+Podiatry,18-Nov,893
+Podiatry,18-Dec,608
+Podiatry,19-Jan,847
+Podiatry,19-Feb,819
+Podiatry,19-Mar,870
+Podiatry,19-Apr,746
+Podiatry,19-May,881
+Podiatry,19-Jun,845
+Podiatry,19-Jul,844
+Podiatry,19-Aug,785
+Podiatry,19-Sep,768
+Podiatry,19-Oct,947
+Podiatry,19-Nov,864
+Podiatry,19-Dec,680
+Podiatry,20-Jan,932
+Podiatry,20-Feb,779
+Podiatry,20-Mar,421
+Podiatry,20-Apr,42
+Postnatal,18-Jan,11
+Postnatal,18-Feb,9
+Postnatal,18-Mar,24
+Postnatal,18-Apr,7
+Postnatal,18-May,17
+Postnatal,18-Jun,10
+Postnatal,18-Jul,9
+Postnatal,18-Aug,23
+Postnatal,18-Sep,12
+Postnatal,18-Oct,13
+Postnatal,18-Nov,12
+Postnatal,18-Dec,0
+Postnatal,19-Jan,13
+Postnatal,19-Feb,15
+Postnatal,19-Mar,12
+Postnatal,19-Apr,8
+Postnatal,19-May,13
+Postnatal,19-Jun,11
+Postnatal,19-Jul,15
+Postnatal,19-Aug,15
+Postnatal,19-Sep,17
+Postnatal,19-Oct,15
+Postnatal,19-Nov,16
+Postnatal,19-Dec,16
+Postnatal,20-Jan,28
+Postnatal,20-Feb,19
+Postnatal,20-Mar,10
+Postnatal,20-Apr,0
+Psychiatric-Including Child Guidance,18-Jan,189
+Psychiatric-Including Child Guidance,18-Feb,170
+Psychiatric-Including Child Guidance,18-Mar,194
+Psychiatric-Including Child Guidance,18-Apr,163
+Psychiatric-Including Child Guidance,18-May,176
+Psychiatric-Including Child Guidance,18-Jun,165
+Psychiatric-Including Child Guidance,18-Jul,186
+Psychiatric-Including Child Guidance,18-Aug,155
+Psychiatric-Including Child Guidance,18-Sep,142
+Psychiatric-Including Child Guidance,18-Oct,223
+Psychiatric-Including Child Guidance,18-Nov,208
+Psychiatric-Including Child Guidance,18-Dec,126
+Psychiatric-Including Child Guidance,19-Jan,218
+Psychiatric-Including Child Guidance,19-Feb,201
+Psychiatric-Including Child Guidance,19-Mar,201
+Psychiatric-Including Child Guidance,19-Apr,225
+Psychiatric-Including Child Guidance,19-May,201
+Psychiatric-Including Child Guidance,19-Jun,171
+Psychiatric-Including Child Guidance,19-Jul,254
+Psychiatric-Including Child Guidance,19-Aug,176
+Psychiatric-Including Child Guidance,19-Sep,149
+Psychiatric-Including Child Guidance,19-Oct,159
+Psychiatric-Including Child Guidance,19-Nov,205
+Psychiatric-Including Child Guidance,19-Dec,157
+Psychiatric-Including Child Guidance,20-Jan,233
+Psychiatric-Including Child Guidance,20-Feb,197
+Psychiatric-Including Child Guidance,20-Mar,88
+Psychiatric-Including Child Guidance,20-Apr,0
+Respiratory Clinic,18-Jan,0
+Respiratory Clinic,18-Feb,0
+Respiratory Clinic,18-Mar,0
+Respiratory Clinic,18-Apr,0
+Respiratory Clinic,18-May,0
+Respiratory Clinic,18-Jun,0
+Respiratory Clinic,18-Jul,0
+Respiratory Clinic,18-Aug,0
+Respiratory Clinic,18-Sep,0
+Respiratory Clinic,18-Oct,0
+Respiratory Clinic,18-Nov,0
+Respiratory Clinic,18-Dec,0
+Respiratory Clinic,19-Jan,0
+Respiratory Clinic,19-Feb,0
+Respiratory Clinic,19-Mar,0
+Respiratory Clinic,19-Apr,0
+Respiratory Clinic,19-May,0
+Respiratory Clinic,19-Jun,0
+Respiratory Clinic,19-Jul,0
+Respiratory Clinic,19-Aug,0
+Respiratory Clinic,19-Sep,0
+Respiratory Clinic,19-Oct,0
+Respiratory Clinic,19-Nov,0
+Respiratory Clinic,19-Dec,0
+Respiratory Clinic,20-Jan,0
+Respiratory Clinic,20-Feb,12
+Respiratory Clinic,20-Mar,11
+Respiratory Clinic,20-Apr,1
+Rheumatology,18-Jan,24
+Rheumatology,18-Feb,37
+Rheumatology,18-Mar,29
+Rheumatology,18-Apr,36
+Rheumatology,18-May,28
+Rheumatology,18-Jun,34
+Rheumatology,18-Jul,26
+Rheumatology,18-Aug,36
+Rheumatology,18-Sep,15
+Rheumatology,18-Oct,54
+Rheumatology,18-Nov,23
+Rheumatology,18-Dec,19
+Rheumatology,19-Jan,32
+Rheumatology,19-Feb,31
+Rheumatology,19-Mar,35
+Rheumatology,19-Apr,28
+Rheumatology,19-May,33
+Rheumatology,19-Jun,17
+Rheumatology,19-Jul,33
+Rheumatology,19-Aug,26
+Rheumatology,19-Sep,18
+Rheumatology,19-Oct,33
+Rheumatology,19-Nov,21
+Rheumatology,19-Dec,12
+Rheumatology,20-Jan,20
+Rheumatology,20-Feb,22
+Rheumatology,20-Mar,14
+Rheumatology,20-Apr,3
+Social Worker-Physical (Medical),18-Jan,
+Social Worker-Physical (Medical),18-Feb,
+Social Worker-Physical (Medical),18-Mar,
+Social Worker-Physical (Medical),18-Apr,
+Social Worker-Physical (Medical),18-May,
+Social Worker-Physical (Medical),18-Jun,
+Social Worker-Physical (Medical),18-Jul,
+Social Worker-Physical (Medical),18-Aug,
+Social Worker-Physical (Medical),18-Sep,
+Social Worker-Physical (Medical),18-Oct,14
+Social Worker-Physical (Medical),18-Nov,12
+Social Worker-Physical (Medical),18-Dec,12
+Social Worker-Physical (Medical),19-Jan,15
+Social Worker-Physical (Medical),19-Feb,16
+Social Worker-Physical (Medical),19-Mar,16
+Social Worker-Physical (Medical),19-Apr,17
+Social Worker-Physical (Medical),19-May,18
+Social Worker-Physical (Medical),19-Jun,18
+Social Worker-Physical (Medical),19-Jul,14
+Social Worker-Physical (Medical),19-Aug,14
+Social Worker-Physical (Medical),19-Sep,14
+Social Worker-Physical (Medical),19-Oct,14
+Social Worker-Physical (Medical),19-Nov,14
+Social Worker-Physical (Medical),19-Dec,15
+Social Worker-Physical (Medical),20-Jan,14
+Social Worker-Physical (Medical),20-Feb,0
+Social Worker-Physical (Medical),20-Mar,0
+Social Worker-Physical (Medical),20-Apr,0
+Social Worker-Psychiatric,18-Jan,142
+Social Worker-Psychiatric,18-Feb,75
+Social Worker-Psychiatric,18-Mar,68
+Social Worker-Psychiatric,18-Apr,61
+Social Worker-Psychiatric,18-May,59
+Social Worker-Psychiatric,18-Jun,152
+Social Worker-Psychiatric,18-Jul,110
+Social Worker-Psychiatric,18-Aug,128
+Social Worker-Psychiatric,18-Sep,131
+Social Worker-Psychiatric,18-Oct,54
+Social Worker-Psychiatric,18-Nov,145
+Social Worker-Psychiatric,18-Dec,122
+Social Worker-Psychiatric,19-Jan,132
+Social Worker-Psychiatric,19-Feb,138
+Social Worker-Psychiatric,19-Mar,138
+Social Worker-Psychiatric,19-Apr,144
+Social Worker-Psychiatric,19-May,145
+Social Worker-Psychiatric,19-Jun,140
+Social Worker-Psychiatric,19-Jul,138
+Social Worker-Psychiatric,19-Aug,144
+Social Worker-Psychiatric,19-Sep,142
+Social Worker-Psychiatric,19-Oct,144
+Social Worker-Psychiatric,19-Nov,145
+Social Worker-Psychiatric,19-Dec,147
+Social Worker-Psychiatric,20-Jan,145
+Social Worker-Psychiatric,20-Feb,149
+Social Worker-Psychiatric,20-Mar,149
+Social Worker-Psychiatric,20-Apr,149
+Speech & Language Therapy,18-Jan,573
+Speech & Language Therapy,18-Feb,470
+Speech & Language Therapy,18-Mar,515
+Speech & Language Therapy,18-Apr,496
+Speech & Language Therapy,18-May,501
+Speech & Language Therapy,18-Jun,320
+Speech & Language Therapy,18-Jul,596
+Speech & Language Therapy,18-Aug,280
+Speech & Language Therapy,18-Sep,253
+Speech & Language Therapy,18-Oct,96
+Speech & Language Therapy,18-Nov,116
+Speech & Language Therapy,18-Dec,132
+Speech & Language Therapy,19-Jan,141
+Speech & Language Therapy,19-Feb,143
+Speech & Language Therapy,19-Mar,136
+Speech & Language Therapy,19-Apr,144
+Speech & Language Therapy,19-May,155
+Speech & Language Therapy,19-Jun,169
+Speech & Language Therapy,19-Jul,203
+Speech & Language Therapy,19-Aug,211
+Speech & Language Therapy,19-Sep,156
+Speech & Language Therapy,19-Oct,162
+Speech & Language Therapy,19-Nov,188
+Speech & Language Therapy,19-Dec,153
+Speech & Language Therapy,20-Jan,158
+Speech & Language Therapy,20-Feb,159
+Speech & Language Therapy,20-Mar,101
+Speech & Language Therapy,20-Apr,0
+Surgical,18-Jan,307
+Surgical,18-Feb,269
+Surgical,18-Mar,351
+Surgical,18-Apr,328
+Surgical,18-May,320
+Surgical,18-Jun,225
+Surgical,18-Jul,227
+Surgical,18-Aug,336
+Surgical,18-Sep,265
+Surgical,18-Oct,350
+Surgical,18-Nov,368
+Surgical,18-Dec,220
+Surgical,19-Jan,333
+Surgical,19-Feb,287
+Surgical,19-Mar,347
+Surgical,19-Apr,295
+Surgical,19-May,347
+Surgical,19-Jun,264
+Surgical,19-Jul,288
+Surgical,19-Aug,316
+Surgical,19-Sep,312
+Surgical,19-Oct,329
+Surgical,19-Nov,362
+Surgical,19-Dec,286
+Surgical,20-Jan,371
+Surgical,20-Feb,284
+Surgical,20-Mar,154
+Surgical,20-Apr,17
+Thyroid,18-Jan,0
+Thyroid,18-Feb,0
+Thyroid,18-Mar,0
+Thyroid,18-Apr,0
+Thyroid,18-May,0
+Thyroid,18-Jun,0
+Thyroid,18-Jul,0
+Thyroid,18-Aug,0
+Thyroid,18-Sep,0
+Thyroid,18-Oct,0
+Thyroid,18-Nov,0
+Thyroid,18-Dec,0
+Thyroid,19-Jan,0
+Thyroid,19-Feb,0
+Thyroid,19-Mar,0
+Thyroid,19-Apr,0
+Thyroid,19-May,0
+Thyroid,19-Jun,0
+Thyroid,19-Jul,0
+Thyroid,19-Aug,0
+Thyroid,19-Sep,0
+Thyroid,19-Oct,13
+Thyroid,19-Nov,11
+Thyroid,19-Dec,0
+Thyroid,20-Jan,13
+Thyroid,20-Feb,10
+Thyroid,20-Mar,9
+Thyroid,20-Apr,0
+Tissue Viability Clinic,18-Jan,264
+Tissue Viability Clinic,18-Feb,285
+Tissue Viability Clinic,18-Mar,333
+Tissue Viability Clinic,18-Apr,346
+Tissue Viability Clinic,18-May,327
+Tissue Viability Clinic,18-Jun,269
+Tissue Viability Clinic,18-Jul,313
+Tissue Viability Clinic,18-Aug,260
+Tissue Viability Clinic,18-Sep,356
+Tissue Viability Clinic,18-Oct,370
+Tissue Viability Clinic,18-Nov,308
+Tissue Viability Clinic,18-Dec,320
+Tissue Viability Clinic,19-Jan,275
+Tissue Viability Clinic,19-Feb,324
+Tissue Viability Clinic,19-Mar,304
+Tissue Viability Clinic,19-Apr,257
+Tissue Viability Clinic,19-May,279
+Tissue Viability Clinic,19-Jun,367
+Tissue Viability Clinic,19-Jul,368
+Tissue Viability Clinic,19-Aug,368
+Tissue Viability Clinic,19-Sep,398
+Tissue Viability Clinic,19-Oct,407
+Tissue Viability Clinic,19-Nov,391
+Tissue Viability Clinic,19-Dec,475
+Tissue Viability Clinic,20-Jan,431
+Tissue Viability Clinic,20-Feb,237
+Tissue Viability Clinic,20-Mar,295
+Tissue Viability Clinic,20-Apr,135
+Urology,18-Jan,129
+Urology,18-Feb,145
+Urology,18-Mar,126
+Urology,18-Apr,118
+Urology,18-May,180
+Urology,18-Jun,112
+Urology,18-Jul,127
+Urology,18-Aug,137
+Urology,18-Sep,107
+Urology,18-Oct,139
+Urology,18-Nov,71
+Urology,18-Dec,57
+Urology,19-Jan,157
+Urology,19-Feb,114
+Urology,19-Mar,139
+Urology,19-Apr,135
+Urology,19-May,138
+Urology,19-Jun,90
+Urology,19-Jul,121
+Urology,19-Aug,104
+Urology,19-Sep,94
+Urology,19-Oct,148
+Urology,19-Nov,125
+Urology,19-Dec,81
+Urology,20-Jan,118
+Urology,20-Feb,112
+Urology,20-Mar,46
+Urology,20-Apr,1
+Visual Fields,18-Jan,3
+Visual Fields,18-Feb,4
+Visual Fields,18-Mar,7
+Visual Fields,18-Apr,3
+Visual Fields,18-May,7
+Visual Fields,18-Jun,4
+Visual Fields,18-Jul,4
+Visual Fields,18-Aug,3
+Visual Fields,18-Sep,1
+Visual Fields,18-Oct,2
+Visual Fields,18-Nov,2
+Visual Fields,18-Dec,2
+Visual Fields,19-Jan,5
+Visual Fields,19-Feb,4
+Visual Fields,19-Mar,1
+Visual Fields,19-Apr,1
+Visual Fields,19-May,4
+Visual Fields,19-Jun,2
+Visual Fields,19-Jul,3
+Visual Fields,19-Aug,4
+Visual Fields,19-Sep,4
+Visual Fields,19-Oct,11
+Visual Fields,19-Nov,24
+Visual Fields,19-Dec,0
+Visual Fields,20-Jan,32
+Visual Fields,20-Feb,11
+Visual Fields,20-Mar,7
+Visual Fields,20-Apr,0
