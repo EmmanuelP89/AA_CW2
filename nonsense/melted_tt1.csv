@@ -1383,12 +1383,12 @@ Fertility Care,NC,18-Dec,0
 Fertility Care,FU,18-Dec,0
 Naprotechnology,NC,18-Dec,2
 Naprotechnology,FU,18-Dec,2
-Antenatal,NC,18-Dec,"43,684"
-Antenatal,FU,18-Dec,19
+Antenatal,NC,18-Dec,0
+Antenatal,FU,18-Dec,0
 Postnatal,NC,18-Dec,0
-Postnatal,FU,18-Dec,326
-Gynaecology,NC,18-Dec,598
-Gynaecology,FU,18-Dec,80
+Postnatal,FU,18-Dec,0
+Gynaecology,NC,18-Dec,0
+Gynaecology,FU,18-Dec,0
 Oncology,NC,18-Dec,13
 Oncology,FU,18-Dec,107
 Palliative Care,NC,18-Dec,1
@@ -2885,8 +2885,8 @@ Cervical Screening,NC,19-Dec,16
 Cervical Screening,FU,19-Dec,2
 Detox,NC,19-Dec,0
 Detox,FU,19-Dec,605
-Dental,NC,19-Dec,
-Dental,FU,19-Dec,
+Dental,NC,19-Dec,39
+Dental,FU,19-Dec,316
 Bleeding Room,NC,19-Dec,0
 Bleeding Room,FU,19-Dec,892
 Podiatry,NC,19-Dec,63
@@ -3037,16 +3037,16 @@ Hyperbaric Unit-Oxygen treatment,NC,20-Jan,0
 Hyperbaric Unit-Oxygen treatment,FU,20-Jan,13
 Hyperbaric Unit-Emergency divers,NC,20-Jan,0
 Hyperbaric Unit-Emergency divers,FU,20-Jan,0
-12 Lead Electrocardiograms,NC,20-Jan,0
-12 Lead Electrocardiograms,FU,20-Jan,510
+12 Lead Electrocardiograms,NC,20-Jan,510
+12 Lead Electrocardiograms,FU,20-Jan,0
 ECG Stress tests,NC,20-Jan,0
 ECG Stress tests,FU,20-Jan,10
 Holters,NC,20-Jan,0
 Holters,FU,20-Jan,14
 Lung Function tests,NC,20-Jan,0
 Lung Function tests,FU,20-Jan,4
-Echocardiograms,NC,20-Jan,0
-Echocardiograms,FU,20-Jan,42
+Echocardiograms,NC,20-Jan,42
+Echocardiograms,FU,20-Jan,0
 BP Monitoring,NC,20-Jan,0
 BP Monitoring,FU,20-Jan,12
 Acupuncture,NC,20-Feb,4
@@ -3177,8 +3177,8 @@ Pain,NC,20-Mar,0
 Pain,FU,20-Mar,0
 Pacemaker,NC,20-Mar,0
 Pacemaker,FU,20-Mar,13
-Heart Valve Clinic,NC,20-Mar,
-Heart Valve Clinic,FU,20-Mar,
+Heart Valve Clinic,NC,20-Mar,0
+Heart Valve Clinic,FU,20-Mar,0
 Cardiology,NC,20-Mar,10
 Cardiology,FU,20-Mar,9
 Dermatology,NC,20-Mar,40
