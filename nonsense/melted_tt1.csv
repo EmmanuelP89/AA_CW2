@@ -27,6 +27,7 @@ Clinic,Date,Total
 12 Lead Electrocardiograms,20-Feb,470
 12 Lead Electrocardiograms,20-Mar,271
 12 Lead Electrocardiograms,20-Apr,32
+12 Lead Electrocardiograms,20-May,46
 ACC,18-Jan,118
 ACC,18-Feb,78
 ACC,18-Mar,87
@@ -55,6 +56,7 @@ ACC,20-Jan,129
 ACC,20-Feb,120
 ACC,20-Mar,67
 ACC,20-Apr,1
+ACC,20-May,12
 Acupuncture,18-Jan,54
 Acupuncture,18-Feb,15
 Acupuncture,18-Mar,75
@@ -83,6 +85,7 @@ Acupuncture,20-Jan,36
 Acupuncture,20-Feb,11
 Acupuncture,20-Mar,24
 Acupuncture,20-Apr,0
+Acupuncture,20-May,0
 Antenatal,18-Jan,187
 Antenatal,18-Feb,165
 Antenatal,18-Mar,202
@@ -111,6 +114,7 @@ Antenatal,20-Jan,157
 Antenatal,20-Feb,128
 Antenatal,20-Mar,126
 Antenatal,20-Apr,99
+Antenatal,20-May,107
 Audiology,18-Jan,40
 Audiology,18-Feb,25
 Audiology,18-Mar,25
@@ -139,6 +143,7 @@ Audiology,20-Jan,23
 Audiology,20-Feb,32
 Audiology,20-Mar,15
 Audiology,20-Apr,0
+Audiology,20-May,0
 BP Monitoring,18-Jan,5
 BP Monitoring,18-Feb,7
 BP Monitoring,18-Mar,15
@@ -167,6 +172,7 @@ BP Monitoring,20-Jan,12
 BP Monitoring,20-Feb,10
 BP Monitoring,20-Mar,9
 BP Monitoring,20-Apr,0
+BP Monitoring,20-May,1
 Bleeding Room,18-Jan,
 Bleeding Room,18-Feb,
 Bleeding Room,18-Mar,
@@ -195,6 +201,7 @@ Bleeding Room,20-Jan,1014
 Bleeding Room,20-Feb,989
 Bleeding Room,20-Mar,734
 Bleeding Room,20-Apr,521
+Bleeding Room,20-May,607
 Breast clinic,18-Jan,0
 Breast clinic,18-Feb,24
 Breast clinic,18-Mar,19
@@ -223,6 +230,7 @@ Breast clinic,20-Jan,43
 Breast clinic,20-Feb,23
 Breast clinic,20-Mar,23
 Breast clinic,20-Apr,10
+Breast clinic,20-May,15
 Cardiology,18-Jan,91
 Cardiology,18-Feb,65
 Cardiology,18-Mar,63
@@ -251,6 +259,7 @@ Cardiology,20-Jan,33
 Cardiology,20-Feb,32
 Cardiology,20-Mar,19
 Cardiology,20-Apr,0
+Cardiology,20-May,7
 Cervical Screening,18-Jan,22
 Cervical Screening,18-Feb,19
 Cervical Screening,18-Mar,13
@@ -279,6 +288,7 @@ Cervical Screening,20-Jan,8
 Cervical Screening,20-Feb,20
 Cervical Screening,20-Mar,5
 Cervical Screening,20-Apr,0
+Cervical Screening,20-May,0
 Colon Rectal Screening,18-Jan,26
 Colon Rectal Screening,18-Feb,42
 Colon Rectal Screening,18-Mar,31
@@ -307,6 +317,7 @@ Colon Rectal Screening,20-Jan,56
 Colon Rectal Screening,20-Feb,23
 Colon Rectal Screening,20-Mar,31
 Colon Rectal Screening,20-Apr,0
+Colon Rectal Screening,20-May,3
 Dental,18-Jan,508
 Dental,18-Feb,446
 Dental,18-Mar,677
@@ -335,6 +346,7 @@ Dental,20-Jan,479
 Dental,20-Feb,349
 Dental,20-Mar,177
 Dental,20-Apr,28
+Dental,20-May,60
 Dermatology,18-Jan,84
 Dermatology,18-Feb,116
 Dermatology,18-Mar,127
@@ -363,6 +375,7 @@ Dermatology,20-Jan,128
 Dermatology,20-Feb,142
 Dermatology,20-Mar,79
 Dermatology,20-Apr,5
+Dermatology,20-May,24
 Detox,18-Jan,611
 Detox,18-Feb,466
 Detox,18-Mar,506
@@ -391,6 +404,7 @@ Detox,20-Jan,529
 Detox,20-Feb,493
 Detox,20-Mar,520
 Detox,20-Apr,360
+Detox,20-May,349
 Diabetes Education Services.,18-Jan,0
 Diabetes Education Services.,18-Feb,0
 Diabetes Education Services.,18-Mar,0
@@ -419,6 +433,7 @@ Diabetes Education Services.,20-Jan,0
 Diabetes Education Services.,20-Feb,0
 Diabetes Education Services.,20-Mar,0
 Diabetes Education Services.,20-Apr,0
+Diabetes Education Services.,20-May,1
 Diabetology,18-Jan,134
 Diabetology,18-Feb,103
 Diabetology,18-Mar,141
@@ -447,6 +462,7 @@ Diabetology,20-Jan,104
 Diabetology,20-Feb,96
 Diabetology,20-Mar,54
 Diabetology,20-Apr,1
+Diabetology,20-May,7
 Dietician,18-Jan,21
 Dietician,18-Feb,25
 Dietician,18-Mar,29
@@ -475,6 +491,7 @@ Dietician,20-Jan,32
 Dietician,20-Feb,34
 Dietician,20-Mar,18
 Dietician,20-Apr,0
+Dietician,20-May,4
 ECG Stress tests,18-Jan,52
 ECG Stress tests,18-Feb,49
 ECG Stress tests,18-Mar,55
@@ -503,6 +520,7 @@ ECG Stress tests,20-Jan,10
 ECG Stress tests,20-Feb,13
 ECG Stress tests,20-Mar,6
 ECG Stress tests,20-Apr,0
+ECG Stress tests,20-May,0
 ENT,18-Jan,73
 ENT,18-Feb,83
 ENT,18-Mar,83
@@ -531,6 +549,7 @@ ENT,20-Jan,80
 ENT,20-Feb,37
 ENT,20-Mar,34
 ENT,20-Apr,0
+ENT,20-May,0
 Echocardiograms,18-Jan,32
 Echocardiograms,18-Feb,39
 Echocardiograms,18-Mar,42
@@ -559,6 +578,7 @@ Echocardiograms,20-Jan,42
 Echocardiograms,20-Feb,61
 Echocardiograms,20-Mar,46
 Echocardiograms,20-Apr,10
+Echocardiograms,20-May,37
 Endocrine,18-Jan,
 Endocrine,18-Feb,
 Endocrine,18-Mar,
@@ -587,6 +607,7 @@ Endocrine,20-Jan,16
 Endocrine,20-Feb,5
 Endocrine,20-Mar,7
 Endocrine,20-Apr,0
+Endocrine,20-May,3
 Fertility Care,18-Jan,0
 Fertility Care,18-Feb,0
 Fertility Care,18-Mar,0
@@ -615,6 +636,7 @@ Fertility Care,20-Jan,0
 Fertility Care,20-Feb,0
 Fertility Care,20-Mar,0
 Fertility Care,20-Apr,0
+Fertility Care,20-May,0
 Glaucoma,18-Jan,6
 Glaucoma,18-Feb,8
 Glaucoma,18-Mar,8
@@ -643,6 +665,7 @@ Glaucoma,20-Jan,7
 Glaucoma,20-Feb,3
 Glaucoma,20-Mar,0
 Glaucoma,20-Apr,0
+Glaucoma,20-May,0
 Gynaecology,18-Jan,191
 Gynaecology,18-Feb,139
 Gynaecology,18-Mar,182
@@ -671,6 +694,7 @@ Gynaecology,20-Jan,144
 Gynaecology,20-Feb,143
 Gynaecology,20-Mar,100
 Gynaecology,20-Apr,36
+Gynaecology,20-May,43
 Heart Valve Clinic,18-Jan,0
 Heart Valve Clinic,18-Feb,0
 Heart Valve Clinic,18-Mar,0
@@ -699,6 +723,7 @@ Heart Valve Clinic,20-Jan,0
 Heart Valve Clinic,20-Feb,4
 Heart Valve Clinic,20-Mar,0
 Heart Valve Clinic,20-Apr,0
+Heart Valve Clinic,20-May,5
 Holters,18-Jan,0
 Holters,18-Feb,0
 Holters,18-Mar,0
@@ -727,6 +752,7 @@ Holters,20-Jan,14
 Holters,20-Feb,24
 Holters,20-Mar,20
 Holters,20-Apr,2
+Holters,20-May,2
 Hyperbaric Unit-Emergency divers,18-Jan,0
 Hyperbaric Unit-Emergency divers,18-Feb,0
 Hyperbaric Unit-Emergency divers,18-Mar,4
@@ -755,6 +781,7 @@ Hyperbaric Unit-Emergency divers,20-Jan,0
 Hyperbaric Unit-Emergency divers,20-Feb,0
 Hyperbaric Unit-Emergency divers,20-Mar,1
 Hyperbaric Unit-Emergency divers,20-Apr,2
+Hyperbaric Unit-Emergency divers,20-May,0
 Hyperbaric Unit-Oxygen treatment,18-Jan,18
 Hyperbaric Unit-Oxygen treatment,18-Feb,27
 Hyperbaric Unit-Oxygen treatment,18-Mar,20
@@ -783,6 +810,7 @@ Hyperbaric Unit-Oxygen treatment,20-Jan,13
 Hyperbaric Unit-Oxygen treatment,20-Feb,12
 Hyperbaric Unit-Oxygen treatment,20-Mar,15
 Hyperbaric Unit-Oxygen treatment,20-Apr,7
+Hyperbaric Unit-Oxygen treatment,20-May,10
 Juvenile,18-Jan,
 Juvenile,18-Feb,
 Juvenile,18-Mar,
@@ -811,6 +839,7 @@ Juvenile,20-Jan,10
 Juvenile,20-Feb,12
 Juvenile,20-Mar,6
 Juvenile,20-Apr,0
+Juvenile,20-May,0
 Lung Function tests,18-Jan,18
 Lung Function tests,18-Feb,13
 Lung Function tests,18-Mar,18
@@ -839,6 +868,7 @@ Lung Function tests,20-Jan,4
 Lung Function tests,20-Feb,16
 Lung Function tests,20-Mar,4
 Lung Function tests,20-Apr,2
+Lung Function tests,20-May,1
 Medical,18-Jan,375
 Medical,18-Feb,322
 Medical,18-Mar,276
@@ -867,6 +897,7 @@ Medical,20-Jan,210
 Medical,20-Feb,145
 Medical,20-Mar,97
 Medical,20-Apr,14
+Medical,20-May,19
 Multiple Sclerosis,18-Jan,0
 Multiple Sclerosis,18-Feb,0
 Multiple Sclerosis,18-Mar,0
@@ -895,6 +926,7 @@ Multiple Sclerosis,20-Jan,0
 Multiple Sclerosis,20-Feb,
 Multiple Sclerosis,20-Mar,0
 Multiple Sclerosis,20-Apr,0
+Multiple Sclerosis,20-May,0
 Naphrology,18-Jan,0
 Naphrology,18-Feb,0
 Naphrology,18-Mar,0
@@ -923,6 +955,7 @@ Naphrology,20-Jan,13
 Naphrology,20-Feb,10
 Naphrology,20-Mar,0
 Naphrology,20-Apr,0
+Naphrology,20-May,0
 Naprotechnology,18-Jan,2
 Naprotechnology,18-Feb,0
 Naprotechnology,18-Mar,4
@@ -951,6 +984,7 @@ Naprotechnology,20-Jan,10
 Naprotechnology,20-Feb,3
 Naprotechnology,20-Mar,1
 Naprotechnology,20-Apr,0
+Naprotechnology,20-May,0
 Neurology,18-Jan,10
 Neurology,18-Feb,15
 Neurology,18-Mar,15
@@ -979,6 +1013,7 @@ Neurology,20-Jan,76
 Neurology,20-Feb,49
 Neurology,20-Mar,31
 Neurology,20-Apr,0
+Neurology,20-May,0
 Nutrition & Health Promotion,18-Jan,0
 Nutrition & Health Promotion,18-Feb,0
 Nutrition & Health Promotion,18-Mar,0
@@ -1007,6 +1042,7 @@ Nutrition & Health Promotion,20-Jan,24
 Nutrition & Health Promotion,20-Feb,16
 Nutrition & Health Promotion,20-Mar,7
 Nutrition & Health Promotion,20-Apr,0
+Nutrition & Health Promotion,20-May,0
 Occupational Therapy (Physical),18-Jan,346
 Occupational Therapy (Physical),18-Feb,339
 Occupational Therapy (Physical),18-Mar,284
@@ -1035,6 +1071,7 @@ Occupational Therapy (Physical),20-Jan,243
 Occupational Therapy (Physical),20-Feb,228
 Occupational Therapy (Physical),20-Mar,95
 Occupational Therapy (Physical),20-Apr,3
+Occupational Therapy (Physical),20-May,2
 Occupational Therapy (Psychiatric),18-Jan,131
 Occupational Therapy (Psychiatric),18-Feb,146
 Occupational Therapy (Psychiatric),18-Mar,148
@@ -1063,6 +1100,7 @@ Occupational Therapy (Psychiatric),20-Jan,96
 Occupational Therapy (Psychiatric),20-Feb,126
 Occupational Therapy (Psychiatric),20-Mar,59
 Occupational Therapy (Psychiatric),20-Apr,51
+Occupational Therapy (Psychiatric),20-May,53
 Oncology,18-Jan,113
 Oncology,18-Feb,109
 Oncology,18-Mar,106
@@ -1091,6 +1129,7 @@ Oncology,20-Jan,140
 Oncology,20-Feb,125
 Oncology,20-Mar,57
 Oncology,20-Apr,0
+Oncology,20-May,0
 Ophthalmic,18-Jan,156
 Ophthalmic,18-Feb,151
 Ophthalmic,18-Mar,166
@@ -1119,6 +1158,7 @@ Ophthalmic,20-Jan,273
 Ophthalmic,20-Feb,261
 Ophthalmic,20-Mar,143
 Ophthalmic,20-Apr,47
+Ophthalmic,20-May,87
 Orthopaedic,18-Jan,248
 Orthopaedic,18-Feb,192
 Orthopaedic,18-Mar,171
@@ -1147,6 +1187,7 @@ Orthopaedic,20-Jan,263
 Orthopaedic,20-Feb,205
 Orthopaedic,20-Mar,67
 Orthopaedic,20-Apr,23
+Orthopaedic,20-May,34
 POC-ACC,18-Jan,299
 POC-ACC,18-Feb,272
 POC-ACC,18-Mar,297
@@ -1175,6 +1216,7 @@ POC-ACC,20-Jan,241
 POC-ACC,20-Feb,208
 POC-ACC,20-Mar,169
 POC-ACC,20-Apr,189
+POC-ACC,20-May,158
 Pacemaker,18-Jan,51
 Pacemaker,18-Feb,37
 Pacemaker,18-Mar,27
@@ -1203,6 +1245,7 @@ Pacemaker,20-Jan,49
 Pacemaker,20-Feb,49
 Pacemaker,20-Mar,13
 Pacemaker,20-Apr,18
+Pacemaker,20-May,19
 Pain,18-Jan,13
 Pain,18-Feb,10
 Pain,18-Mar,10
@@ -1231,6 +1274,7 @@ Pain,20-Jan,12
 Pain,20-Feb,13
 Pain,20-Mar,0
 Pain,20-Apr,0
+Pain,20-May,0
 Palliative Care,18-Jan,9
 Palliative Care,18-Feb,8
 Palliative Care,18-Mar,7
@@ -1259,6 +1303,7 @@ Palliative Care,20-Jan,6
 Palliative Care,20-Feb,17
 Palliative Care,20-Mar,7
 Palliative Care,20-Apr,0
+Palliative Care,20-May,0
 Physiotherapy,18-Jan,
 Physiotherapy,18-Feb,
 Physiotherapy,18-Mar,
@@ -1287,6 +1332,7 @@ Physiotherapy,20-Jan,1756
 Physiotherapy,20-Feb,1536
 Physiotherapy,20-Mar,900
 Physiotherapy,20-Apr,300
+Physiotherapy,20-May,270
 Podiatry,18-Jan,740
 Podiatry,18-Feb,695
 Podiatry,18-Mar,751
@@ -1315,6 +1361,7 @@ Podiatry,20-Jan,932
 Podiatry,20-Feb,779
 Podiatry,20-Mar,421
 Podiatry,20-Apr,42
+Podiatry,20-May,120
 Postnatal,18-Jan,11
 Postnatal,18-Feb,9
 Postnatal,18-Mar,24
@@ -1343,6 +1390,7 @@ Postnatal,20-Jan,28
 Postnatal,20-Feb,19
 Postnatal,20-Mar,10
 Postnatal,20-Apr,0
+Postnatal,20-May,11
 Psychiatric-Including Child Guidance,18-Jan,189
 Psychiatric-Including Child Guidance,18-Feb,170
 Psychiatric-Including Child Guidance,18-Mar,194
@@ -1371,6 +1419,7 @@ Psychiatric-Including Child Guidance,20-Jan,233
 Psychiatric-Including Child Guidance,20-Feb,197
 Psychiatric-Including Child Guidance,20-Mar,88
 Psychiatric-Including Child Guidance,20-Apr,0
+Psychiatric-Including Child Guidance,20-May,23
 Respiratory Clinic,18-Jan,0
 Respiratory Clinic,18-Feb,0
 Respiratory Clinic,18-Mar,0
@@ -1399,6 +1448,7 @@ Respiratory Clinic,20-Jan,0
 Respiratory Clinic,20-Feb,12
 Respiratory Clinic,20-Mar,11
 Respiratory Clinic,20-Apr,1
+Respiratory Clinic,20-May,0
 Rheumatology,18-Jan,24
 Rheumatology,18-Feb,37
 Rheumatology,18-Mar,29
@@ -1427,6 +1477,7 @@ Rheumatology,20-Jan,20
 Rheumatology,20-Feb,22
 Rheumatology,20-Mar,14
 Rheumatology,20-Apr,3
+Rheumatology,20-May,9
 Social Worker-Physical (Medical),18-Jan,
 Social Worker-Physical (Medical),18-Feb,
 Social Worker-Physical (Medical),18-Mar,
@@ -1455,6 +1506,7 @@ Social Worker-Physical (Medical),20-Jan,14
 Social Worker-Physical (Medical),20-Feb,0
 Social Worker-Physical (Medical),20-Mar,0
 Social Worker-Physical (Medical),20-Apr,0
+Social Worker-Physical (Medical),20-May,0
 Social Worker-Psychiatric,18-Jan,142
 Social Worker-Psychiatric,18-Feb,75
 Social Worker-Psychiatric,18-Mar,68
@@ -1483,6 +1535,7 @@ Social Worker-Psychiatric,20-Jan,145
 Social Worker-Psychiatric,20-Feb,149
 Social Worker-Psychiatric,20-Mar,149
 Social Worker-Psychiatric,20-Apr,149
+Social Worker-Psychiatric,20-May,153
 Speech & Language Therapy,18-Jan,573
 Speech & Language Therapy,18-Feb,470
 Speech & Language Therapy,18-Mar,515
@@ -1511,6 +1564,7 @@ Speech & Language Therapy,20-Jan,158
 Speech & Language Therapy,20-Feb,159
 Speech & Language Therapy,20-Mar,101
 Speech & Language Therapy,20-Apr,0
+Speech & Language Therapy,20-May,0
 Surgical,18-Jan,307
 Surgical,18-Feb,269
 Surgical,18-Mar,351
@@ -1539,6 +1593,7 @@ Surgical,20-Jan,371
 Surgical,20-Feb,284
 Surgical,20-Mar,154
 Surgical,20-Apr,17
+Surgical,20-May,24
 Thyroid,18-Jan,0
 Thyroid,18-Feb,0
 Thyroid,18-Mar,0
@@ -1567,6 +1622,7 @@ Thyroid,20-Jan,13
 Thyroid,20-Feb,10
 Thyroid,20-Mar,9
 Thyroid,20-Apr,0
+Thyroid,20-May,0
 Tissue Viability Clinic,18-Jan,264
 Tissue Viability Clinic,18-Feb,285
 Tissue Viability Clinic,18-Mar,333
@@ -1595,6 +1651,7 @@ Tissue Viability Clinic,20-Jan,431
 Tissue Viability Clinic,20-Feb,237
 Tissue Viability Clinic,20-Mar,295
 Tissue Viability Clinic,20-Apr,135
+Tissue Viability Clinic,20-May,245
 Urology,18-Jan,129
 Urology,18-Feb,145
 Urology,18-Mar,126
@@ -1623,6 +1680,7 @@ Urology,20-Jan,118
 Urology,20-Feb,112
 Urology,20-Mar,46
 Urology,20-Apr,1
+Urology,20-May,5
 Visual Fields,18-Jan,3
 Visual Fields,18-Feb,4
 Visual Fields,18-Mar,7
@@ -1651,3 +1709,4 @@ Visual Fields,20-Jan,32
 Visual Fields,20-Feb,11
 Visual Fields,20-Mar,7
 Visual Fields,20-Apr,0
+Visual Fields,20-May,0
