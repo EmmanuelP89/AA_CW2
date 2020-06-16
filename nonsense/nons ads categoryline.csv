@@ -1,0 +1,386 @@
+AdmYear,AdmMonth,Date,PrimaryCategory,totalCases
+2018,January,1/1/2018,Diseases of the respiratory system,1
+2018,April,4/1/2018,Diseases of the circulatory system,1
+2018,April,4/1/2018,Diseases of the genitourinary system,2
+2018,April,4/1/2018,"Injury, poisoning and certain other consequences of external causes",1
+2018,April,4/1/2018,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1
+2018,May,5/1/2018,Certain conditions originating in the perinatal period,1
+2018,May,5/1/2018,"Injury, poisoning and certain other consequences of external causes",1
+2018,May,5/1/2018,Mental and behavioural disorders,1
+2018,June,6/1/2018,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,1
+2018,June,6/1/2018,External causes of morbidity and mortality,1
+2018,June,6/1/2018,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1
+2018,August,8/1/2018,Diseases of the respiratory system,1
+2018,August,8/1/2018,Factors influencing health status and contact with health,1
+2018,August,8/1/2018,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1
+2018,September,9/1/2018,Diseases of the genitourinary system,1
+2018,September,9/1/2018,Diseases of the respiratory system,1
+2018,September,9/1/2018,Factors influencing health status and contact with health,1
+2018,September,9/1/2018,"Injury, poisoning and certain other consequences of external causes",1
+2018,September,9/1/2018,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1
+2018,October,10/1/2018,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,1
+2018,October,10/1/2018,Diseases of the circulatory system,1
+2018,October,10/1/2018,Diseases of the digestive system,2
+2018,October,10/1/2018,Diseases of the genitourinary system,1
+2018,October,10/1/2018,Diseases of the respiratory system,2
+2018,October,10/1/2018,External causes of morbidity and mortality,1
+2018,October,10/1/2018,Factors influencing health status and contact with health services,1
+2018,October,10/1/2018,"Injury, poisoning and certain other consequences of external causes",1
+2018,October,10/1/2018,Neoplasms,1
+2018,October,10/1/2018,"Pregnancy, childbirth and the puerperium",1
+2018,October,10/1/2018,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",2
+2018,November,11/1/2018,Certain infectious and parasitic diseases,7
+2018,November,11/1/2018,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,3
+2018,November,11/1/2018,Diseases of the circulatory system,16
+2018,November,11/1/2018,Diseases of the digestive system,18
+2018,November,11/1/2018,Diseases of the genitourinary system,18
+2018,November,11/1/2018,Diseases of the musculoskeletal system and connective tissue,9
+2018,November,11/1/2018,Diseases of the nervous system,2
+2018,November,11/1/2018,Diseases of the respiratory system,25
+2018,November,11/1/2018,Diseases of the skin and subcutaneous tissue,4
+2018,November,11/1/2018,"Endocrine, nutritional and metabolic diseases",5
+2018,November,11/1/2018,External causes of morbidity and mortality,7
+2018,November,11/1/2018,Factors influencing health status and contact with health,1
+2018,November,11/1/2018,Factors influencing health status and contact with health services,4
+2018,November,11/1/2018,"Injury, poisoning and certain other consequences of external causes",12
+2018,November,11/1/2018,Mental and behavioural disorders,1
+2018,November,11/1/2018,Neoplasms,1
+2018,November,11/1/2018,"Pregnancy, childbirth and the puerperium",17
+2018,November,11/1/2018,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",37
+2018,December,12/1/2018,Certain conditions originating in the perinatal period,1
+2018,December,12/1/2018,Certain infectious and parasitic diseases,13
+2018,December,12/1/2018,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,6
+2018,December,12/1/2018,Diseases of the circulatory system,20
+2018,December,12/1/2018,Diseases of the digestive system,16
+2018,December,12/1/2018,Diseases of the ear and mastoid process,3
+2018,December,12/1/2018,Diseases of the genitourinary system,7
+2018,December,12/1/2018,Diseases of the musculoskeletal system and connective tissue,6
+2018,December,12/1/2018,Diseases of the nervous system,6
+2018,December,12/1/2018,Diseases of the respiratory system,46
+2018,December,12/1/2018,Diseases of the skin and subcutaneous tissue,5
+2018,December,12/1/2018,"Endocrine, nutritional and metabolic diseases",4
+2018,December,12/1/2018,External causes of morbidity and mortality,9
+2018,December,12/1/2018,Factors influencing health status and contact with health,1
+2018,December,12/1/2018,Factors influencing health status and contact with health services,2
+2018,December,12/1/2018,"Injury, poisoning and certain other consequences of external causes",20
+2018,December,12/1/2018,Mental and behavioural disorders,2
+2018,December,12/1/2018,Neoplasms,1
+2018,December,12/1/2018,"Pregnancy, childbirth and the puerperium",16
+2018,December,12/1/2018,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",43
+2019,January,1/1/2019,Certain infectious and parasitic diseases,14
+2019,January,1/1/2019,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,2
+2019,January,1/1/2019,Diseases of the circulatory system,35
+2019,January,1/1/2019,Diseases of the digestive system,12
+2019,January,1/1/2019,Diseases of the genitourinary system,14
+2019,January,1/1/2019,Diseases of the musculoskeletal system and connective tissue,3
+2019,January,1/1/2019,Diseases of the nervous system,3
+2019,January,1/1/2019,Diseases of the respiratory system,58
+2019,January,1/1/2019,Diseases of the skin and subcutaneous tissue,5
+2019,January,1/1/2019,"Endocrine, nutritional and metabolic diseases",5
+2019,January,1/1/2019,External causes of morbidity and mortality,5
+2019,January,1/1/2019,Factors influencing health status and contact with health services,4
+2019,January,1/1/2019,"Injury, poisoning and certain other consequences of external causes",19
+2019,January,1/1/2019,Mental and behavioural disorders,1
+2019,January,1/1/2019,"Pregnancy, childbirth and the puerperium",18
+2019,January,1/1/2019,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",46
+2019,February,2/1/2019,Certain infectious and parasitic diseases,20
+2019,February,2/1/2019,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,3
+2019,February,2/1/2019,Diseases of the circulatory system,25
+2019,February,2/1/2019,Diseases of the digestive system,21
+2019,February,2/1/2019,Diseases of the ear and mastoid process,3
+2019,February,2/1/2019,Diseases of the genitourinary system,16
+2019,February,2/1/2019,Diseases of the musculoskeletal system and connective tissue,2
+2019,February,2/1/2019,Diseases of the nervous system,2
+2019,February,2/1/2019,Diseases of the respiratory system,59
+2019,February,2/1/2019,Diseases of the skin and subcutaneous tissue,7
+2019,February,2/1/2019,"Endocrine, nutritional and metabolic diseases",6
+2019,February,2/1/2019,External causes of morbidity and mortality,4
+2019,February,2/1/2019,Factors influencing health status and contact with health services,3
+2019,February,2/1/2019,"Injury, poisoning and certain other consequences of external causes",15
+2019,February,2/1/2019,Mental and behavioural disorders,1
+2019,February,2/1/2019,"Pregnancy, childbirth and the puerperium",13
+2019,February,2/1/2019,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",51
+2019,March,3/1/2019,Certain conditions originating in the perinatal period,1
+2019,March,3/1/2019,Certain infectious and parasitic diseases,26
+2019,March,3/1/2019,"Congenital malformations, deformations and chromosomal abnormalities",1
+2019,March,3/1/2019,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,2
+2019,March,3/1/2019,Diseases of the circulatory system,20
+2019,March,3/1/2019,Diseases of the digestive system,39
+2019,March,3/1/2019,Diseases of the ear and mastoid process,3
+2019,March,3/1/2019,Diseases of the genitourinary system,16
+2019,March,3/1/2019,Diseases of the musculoskeletal system and connective tissue,4
+2019,March,3/1/2019,Diseases of the nervous system,5
+2019,March,3/1/2019,Diseases of the respiratory system,57
+2019,March,3/1/2019,Diseases of the skin and subcutaneous tissue,6
+2019,March,3/1/2019,"Endocrine, nutritional and metabolic diseases",5
+2019,March,3/1/2019,External causes of morbidity and mortality,8
+2019,March,3/1/2019,Factors influencing health status and contact with health services,6
+2019,March,3/1/2019,"Injury, poisoning and certain other consequences of external causes",25
+2019,March,3/1/2019,Mental and behavioural disorders,3
+2019,March,3/1/2019,Neoplasms,1
+2019,March,3/1/2019,"Pregnancy, childbirth and the puerperium",17
+2019,March,3/1/2019,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",52
+2019,April,4/1/2019,Certain infectious and parasitic diseases,11
+2019,April,4/1/2019,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,6
+2019,April,4/1/2019,Diseases of the circulatory system,18
+2019,April,4/1/2019,Diseases of the digestive system,33
+2019,April,4/1/2019,Diseases of the ear and mastoid process,1
+2019,April,4/1/2019,Diseases of the genitourinary system,7
+2019,April,4/1/2019,Diseases of the musculoskeletal system and connective tissue,2
+2019,April,4/1/2019,Diseases of the nervous system,9
+2019,April,4/1/2019,Diseases of the respiratory system,44
+2019,April,4/1/2019,Diseases of the skin and subcutaneous tissue,8
+2019,April,4/1/2019,"Endocrine, nutritional and metabolic diseases",2
+2019,April,4/1/2019,External causes of morbidity and mortality,5
+2019,April,4/1/2019,Factors influencing health status and contact with health,2
+2019,April,4/1/2019,Factors influencing health status and contact with health services,1
+2019,April,4/1/2019,"Injury, poisoning and certain other consequences of external causes",31
+2019,April,4/1/2019,Mental and behavioural disorders,1
+2019,April,4/1/2019,Neoplasms,3
+2019,April,4/1/2019,"Pregnancy, childbirth and the puerperium",23
+2019,April,4/1/2019,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",48
+2019,May,5/1/2019,Certain infectious and parasitic diseases,20
+2019,May,5/1/2019,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,3
+2019,May,5/1/2019,Diseases of the circulatory system,23
+2019,May,5/1/2019,Diseases of the digestive system,34
+2019,May,5/1/2019,Diseases of the genitourinary system,22
+2019,May,5/1/2019,Diseases of the musculoskeletal system and connective tissue,7
+2019,May,5/1/2019,Diseases of the nervous system,7
+2019,May,5/1/2019,Diseases of the respiratory system,31
+2019,May,5/1/2019,Diseases of the skin and subcutaneous tissue,6
+2019,May,5/1/2019,"Endocrine, nutritional and metabolic diseases",7
+2019,May,5/1/2019,External causes of morbidity and mortality,5
+2019,May,5/1/2019,Factors influencing health status and contact with health services,6
+2019,May,5/1/2019,"Injury, poisoning and certain other consequences of external causes",20
+2019,May,5/1/2019,Mental and behavioural disorders,2
+2019,May,5/1/2019,Neoplasms,1
+2019,May,5/1/2019,"Pregnancy, childbirth and the puerperium",19
+2019,May,5/1/2019,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",43
+2019,June,6/1/2019,Certain conditions originating in the perinatal period,1
+2019,June,6/1/2019,Certain infectious and parasitic diseases,13
+2019,June,6/1/2019,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,4
+2019,June,6/1/2019,Diseases of the circulatory system,23
+2019,June,6/1/2019,Diseases of the digestive system,35
+2019,June,6/1/2019,Diseases of the ear and mastoid process,2
+2019,June,6/1/2019,Diseases of the genitourinary system,21
+2019,June,6/1/2019,Diseases of the musculoskeletal system and connective tissue,5
+2019,June,6/1/2019,Diseases of the nervous system,3
+2019,June,6/1/2019,Diseases of the respiratory system,45
+2019,June,6/1/2019,Diseases of the skin and subcutaneous tissue,7
+2019,June,6/1/2019,"Endocrine, nutritional and metabolic diseases",4
+2019,June,6/1/2019,External causes of morbidity and mortality,12
+2019,June,6/1/2019,Factors influencing health status and contact with health services,2
+2019,June,6/1/2019,"Injury, poisoning and certain other consequences of external causes",30
+2019,June,6/1/2019,Mental and behavioural disorders,5
+2019,June,6/1/2019,Neoplasms,3
+2019,June,6/1/2019,"Pregnancy, childbirth and the puerperium",25
+2019,June,6/1/2019,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",62
+2019,July,7/1/2019,Certain conditions originating in the perinatal period,1
+2019,July,7/1/2019,Certain infectious and parasitic diseases,33
+2019,July,7/1/2019,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,3
+2019,July,7/1/2019,Diseases of the circulatory system,22
+2019,July,7/1/2019,Diseases of the digestive system,40
+2019,July,7/1/2019,Diseases of the ear and mastoid process,2
+2019,July,7/1/2019,Diseases of the genitourinary system,22
+2019,July,7/1/2019,Diseases of the musculoskeletal system and connective tissue,4
+2019,July,7/1/2019,Diseases of the nervous system,5
+2019,July,7/1/2019,Diseases of the respiratory system,35
+2019,July,7/1/2019,Diseases of the skin and subcutaneous tissue,4
+2019,July,7/1/2019,"Endocrine, nutritional and metabolic diseases",4
+2019,July,7/1/2019,External causes of morbidity and mortality,9
+2019,July,7/1/2019,Factors influencing health status and contact with health services,4
+2019,July,7/1/2019,"Injury, poisoning and certain other consequences of external causes",42
+2019,July,7/1/2019,Mental and behavioural disorders,3
+2019,July,7/1/2019,Neoplasms,4
+2019,July,7/1/2019,"Pregnancy, childbirth and the puerperium",21
+2019,July,7/1/2019,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",76
+2019,August,8/1/2019,Certain infectious and parasitic diseases,33
+2019,August,8/1/2019,"Congenital malformations, deformations and chromosomal abnormalities",1
+2019,August,8/1/2019,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,6
+2019,August,8/1/2019,Diseases of the circulatory system,18
+2019,August,8/1/2019,Diseases of the digestive system,29
+2019,August,8/1/2019,Diseases of the ear and mastoid process,2
+2019,August,8/1/2019,Diseases of the eye and adnexa,1
+2019,August,8/1/2019,Diseases of the genitourinary system,22
+2019,August,8/1/2019,Diseases of the musculoskeletal system and connective tissue,7
+2019,August,8/1/2019,Diseases of the nervous system,7
+2019,August,8/1/2019,Diseases of the respiratory system,26
+2019,August,8/1/2019,Diseases of the skin and subcutaneous tissue,10
+2019,August,8/1/2019,"Endocrine, nutritional and metabolic diseases",4
+2019,August,8/1/2019,External causes of morbidity and mortality,11
+2019,August,8/1/2019,Factors influencing health status and contact with health services,4
+2019,August,8/1/2019,"Injury, poisoning and certain other consequences of external causes",37
+2019,August,8/1/2019,Mental and behavioural disorders,3
+2019,August,8/1/2019,Neoplasms,6
+2019,August,8/1/2019,"Pregnancy, childbirth and the puerperium",24
+2019,August,8/1/2019,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",58
+2019,September,9/1/2019,Certain infectious and parasitic diseases,14
+2019,September,9/1/2019,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,6
+2019,September,9/1/2019,Diseases of the circulatory system,17
+2019,September,9/1/2019,Diseases of the digestive system,24
+2019,September,9/1/2019,Diseases of the ear and mastoid process,5
+2019,September,9/1/2019,Diseases of the eye and adnexa,2
+2019,September,9/1/2019,Diseases of the genitourinary system,17
+2019,September,9/1/2019,Diseases of the musculoskeletal system and connective tissue,1
+2019,September,9/1/2019,Diseases of the nervous system,7
+2019,September,9/1/2019,Diseases of the respiratory system,24
+2019,September,9/1/2019,Diseases of the skin and subcutaneous tissue,4
+2019,September,9/1/2019,"Endocrine, nutritional and metabolic diseases",8
+2019,September,9/1/2019,External causes of morbidity and mortality,7
+2019,September,9/1/2019,Factors influencing health status and contact with health services,3
+2019,September,9/1/2019,"Injury, poisoning and certain other consequences of external causes",45
+2019,September,9/1/2019,Mental and behavioural disorders,3
+2019,September,9/1/2019,"Pregnancy, childbirth and the puerperium",24
+2019,September,9/1/2019,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",62
+2019,October,10/1/2019,Certain conditions originating in the perinatal period,1
+2019,October,10/1/2019,Certain infectious and parasitic diseases,16
+2019,October,10/1/2019,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,5
+2019,October,10/1/2019,Diseases of the circulatory system,25
+2019,October,10/1/2019,Diseases of the digestive system,32
+2019,October,10/1/2019,Diseases of the ear and mastoid process,2
+2019,October,10/1/2019,Diseases of the genitourinary system,13
+2019,October,10/1/2019,Diseases of the musculoskeletal system and connective tissue,6
+2019,October,10/1/2019,Diseases of the nervous system,8
+2019,October,10/1/2019,Diseases of the respiratory system,25
+2019,October,10/1/2019,Diseases of the skin and subcutaneous tissue,4
+2019,October,10/1/2019,"Endocrine, nutritional and metabolic diseases",4
+2019,October,10/1/2019,External causes of morbidity and mortality,10
+2019,October,10/1/2019,Factors influencing health status and contact with health services,4
+2019,October,10/1/2019,"Injury, poisoning and certain other consequences of external causes",37
+2019,October,10/1/2019,Mental and behavioural disorders,2
+2019,October,10/1/2019,Neoplasms,2
+2019,October,10/1/2019,"Pregnancy, childbirth and the puerperium",20
+2019,October,10/1/2019,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",78
+2019,November,11/1/2019,Certain conditions originating in the perinatal period,1
+2019,November,11/1/2019,Certain infectious and parasitic diseases,12
+2019,November,11/1/2019,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,4
+2019,November,11/1/2019,Diseases of the circulatory system,26
+2019,November,11/1/2019,Diseases of the digestive system,18
+2019,November,11/1/2019,Diseases of the ear and mastoid process,2
+2019,November,11/1/2019,Diseases of the eye and adnexa,1
+2019,November,11/1/2019,Diseases of the genitourinary system,23
+2019,November,11/1/2019,Diseases of the musculoskeletal system and connective tissue,5
+2019,November,11/1/2019,Diseases of the nervous system,4
+2019,November,11/1/2019,Diseases of the respiratory system,40
+2019,November,11/1/2019,Diseases of the skin and subcutaneous tissue,6
+2019,November,11/1/2019,"Endocrine, nutritional and metabolic diseases",5
+2019,November,11/1/2019,External causes of morbidity and mortality,9
+2019,November,11/1/2019,Factors influencing health status and contact with health services,4
+2019,November,11/1/2019,"Injury, poisoning and certain other consequences of external causes",28
+2019,November,11/1/2019,Mental and behavioural disorders,2
+2019,November,11/1/2019,Neoplasms,5
+2019,November,11/1/2019,"Pregnancy, childbirth and the puerperium",20
+2019,November,11/1/2019,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",58
+2019,December,12/1/2019,Certain infectious and parasitic diseases,6
+2019,December,12/1/2019,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,2
+2019,December,12/1/2019,Diseases of the circulatory system,21
+2019,December,12/1/2019,Diseases of the digestive system,22
+2019,December,12/1/2019,Diseases of the ear and mastoid process,2
+2019,December,12/1/2019,Diseases of the genitourinary system,16
+2019,December,12/1/2019,Diseases of the musculoskeletal system and connective tissue,4
+2019,December,12/1/2019,Diseases of the nervous system,7
+2019,December,12/1/2019,Diseases of the respiratory system,43
+2019,December,12/1/2019,Diseases of the skin and subcutaneous tissue,11
+2019,December,12/1/2019,"Endocrine, nutritional and metabolic diseases",6
+2019,December,12/1/2019,External causes of morbidity and mortality,8
+2019,December,12/1/2019,Factors influencing health status and contact with health services,5
+2019,December,12/1/2019,"Injury, poisoning and certain other consequences of external causes",29
+2019,December,12/1/2019,Neoplasms,3
+2019,December,12/1/2019,"Pregnancy, childbirth and the puerperium",28
+2019,December,12/1/2019,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",79
+2020,January,1/1/2020,Certain infectious and parasitic diseases,22
+2020,January,1/1/2020,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,5
+2020,January,1/1/2020,Diseases of the circulatory system,34
+2020,January,1/1/2020,Diseases of the digestive system,43
+2020,January,1/1/2020,Diseases of the ear and mastoid process,5
+2020,January,1/1/2020,Diseases of the genitourinary system,8
+2020,January,1/1/2020,Diseases of the musculoskeletal system and connective tissue,8
+2020,January,1/1/2020,Diseases of the nervous system,9
+2020,January,1/1/2020,Diseases of the respiratory system,55
+2020,January,1/1/2020,Diseases of the skin and subcutaneous tissue,4
+2020,January,1/1/2020,"Endocrine, nutritional and metabolic diseases",6
+2020,January,1/1/2020,External causes of morbidity and mortality,5
+2020,January,1/1/2020,Factors influencing health status and contact with health services,1
+2020,January,1/1/2020,"Injury, poisoning and certain other consequences of external causes",18
+2020,January,1/1/2020,Mental and behavioural disorders,1
+2020,January,1/1/2020,Neoplasms,5
+2020,January,1/1/2020,"Pregnancy, childbirth and the puerperium",25
+2020,January,1/1/2020,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",85
+2020,February,2/1/2020,Certain infectious and parasitic diseases,22
+2020,February,2/1/2020,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,6
+2020,February,2/1/2020,Diseases of the circulatory system,22
+2020,February,2/1/2020,Diseases of the digestive system,29
+2020,February,2/1/2020,Diseases of the ear and mastoid process,7
+2020,February,2/1/2020,Diseases of the genitourinary system,20
+2020,February,2/1/2020,Diseases of the musculoskeletal system and connective tissue,3
+2020,February,2/1/2020,Diseases of the nervous system,9
+2020,February,2/1/2020,Diseases of the respiratory system,33
+2020,February,2/1/2020,Diseases of the skin and subcutaneous tissue,1
+2020,February,2/1/2020,"Endocrine, nutritional and metabolic diseases",5
+2020,February,2/1/2020,External causes of morbidity and mortality,15
+2020,February,2/1/2020,Factors influencing health status and contact with health services,3
+2020,February,2/1/2020,"Injury, poisoning and certain other consequences of external causes",27
+2020,February,2/1/2020,Mental and behavioural disorders,4
+2020,February,2/1/2020,Neoplasms,6
+2020,February,2/1/2020,"Pregnancy, childbirth and the puerperium",25
+2020,February,2/1/2020,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",62
+2020,March,3/1/2020,Certain infectious and parasitic diseases,9
+2020,March,3/1/2020,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,2
+2020,March,3/1/2020,Diseases of the circulatory system,21
+2020,March,3/1/2020,Diseases of the digestive system,14
+2020,March,3/1/2020,Diseases of the ear and mastoid process,3
+2020,March,3/1/2020,Diseases of the genitourinary system,9
+2020,March,3/1/2020,Diseases of the musculoskeletal system and connective tissue,1
+2020,March,3/1/2020,Diseases of the nervous system,5
+2020,March,3/1/2020,Diseases of the respiratory system,23
+2020,March,3/1/2020,Diseases of the skin and subcutaneous tissue,1
+2020,March,3/1/2020,"Endocrine, nutritional and metabolic diseases",2
+2020,March,3/1/2020,External causes of morbidity and mortality,4
+2020,March,3/1/2020,Factors influencing health status and contact with health,1
+2020,March,3/1/2020,Factors influencing health status and contact with health services,1
+2020,March,3/1/2020,"Injury, poisoning and certain other consequences of external causes",13
+2020,March,3/1/2020,Mental and behavioural disorders,1
+2020,March,3/1/2020,Neoplasms,2
+2020,March,3/1/2020,"Pregnancy, childbirth and the puerperium",19
+2020,March,3/1/2020,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",55
+2020,April,4/1/2020,Certain infectious and parasitic diseases,8
+2020,April,4/1/2020,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,4
+2020,April,4/1/2020,Diseases of the circulatory system,11
+2020,April,4/1/2020,Diseases of the digestive system,13
+2020,April,4/1/2020,Diseases of the ear and mastoid process,1
+2020,April,4/1/2020,Diseases of the genitourinary system,4
+2020,April,4/1/2020,Diseases of the musculoskeletal system and connective tissue,1
+2020,April,4/1/2020,Diseases of the nervous system,1
+2020,April,4/1/2020,Diseases of the respiratory system,9
+2020,April,4/1/2020,Diseases of the skin and subcutaneous tissue,3
+2020,April,4/1/2020,"Endocrine, nutritional and metabolic diseases",3
+2020,April,4/1/2020,External causes of morbidity and mortality,3
+2020,April,4/1/2020,Factors influencing health status and contact with health,1
+2020,April,4/1/2020,Factors influencing health status and contact with health services,1
+2020,April,4/1/2020,"Injury, poisoning and certain other consequences of external causes",7
+2020,April,4/1/2020,Mental and behavioural disorders,1
+2020,April,4/1/2020,Neoplasms,1
+2020,April,4/1/2020,"Pregnancy, childbirth and the puerperium",18
+2020,April,4/1/2020,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",37
+2020,May,5/1/2020,Certain conditions originating in the perinatal period,1
+2020,May,5/1/2020,Certain infectious and parasitic diseases,4
+2020,May,5/1/2020,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,3
+2020,May,5/1/2020,Diseases of the circulatory system,6
+2020,May,5/1/2020,Diseases of the digestive system,5
+2020,May,5/1/2020,Diseases of the genitourinary system,2
+2020,May,5/1/2020,Diseases of the nervous system,1
+2020,May,5/1/2020,Diseases of the respiratory system,8
+2020,May,5/1/2020,Diseases of the skin and subcutaneous tissue,4
+2020,May,5/1/2020,"Endocrine, nutritional and metabolic diseases",1
+2020,May,5/1/2020,External causes of morbidity and mortality,2
+2020,May,5/1/2020,Factors influencing health status and contact with health services,1
+2020,May,5/1/2020,"Injury, poisoning and certain other consequences of external causes",10
+2020,May,5/1/2020,"Pregnancy, childbirth and the puerperium",13
+2020,May,5/1/2020,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",8
+2020,June,6/1/2020,Certain infectious and parasitic diseases,1
+2020,June,6/1/2020,Diseases of the circulatory system,1
+2020,June,6/1/2020,Diseases of the genitourinary system,2
+2020,June,6/1/2020,Diseases of the respiratory system,1
+2020,June,6/1/2020,"Injury, poisoning and certain other consequences of external causes",1
+2020,June,6/1/2020,"Pregnancy, childbirth and the puerperium",6
+2020,June,6/1/2020,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",3
